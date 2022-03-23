@@ -1,8 +1,7 @@
 {
-<fenlei>TW-</fenlei>
 
 #TW頭#
-中天新聞,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8#
+三立都会,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8#
 原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#
 壹新聞,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=#
 壹新聞,http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8#
