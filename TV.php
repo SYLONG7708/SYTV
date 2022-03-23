@@ -1,5 +1,5 @@
 
-<fenlei>台湾_0970117708</fenlei>
+<fenlei>台湾</fenlei>
 #台湾头#
 民视,rtmp://59.124.75.138/sat/tv051#
 民视,http://seb.sason.top/ptv/ftv.php?id=ms#
