@@ -1,4 +1,5 @@
 <fenlei>台灣</fenlei>
+{
 #台灣頭#
 民視,rtmp://59.124.75.138/sat/tv051#
 民視,http://seb.sason.top/ptv/ftv.php?id=ms#
@@ -25,3 +26,4 @@ TVBS歡樂,rtmp://59.124.75.150/sat/tv421#
 中天娛樂,http://60.250.91.85:8585/.m3u8
 
 #台灣尾#
+}
