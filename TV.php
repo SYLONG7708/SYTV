@@ -1,4 +1,4 @@
-
+{
 <fenlei>台湾</fenlei>
 #台湾头#
 民视,rtmp://59.124.75.138/sat/tv051#
@@ -25,4 +25,4 @@ TVBS欢乐,rtmp://59.124.75.150/sat/tv421#
 东森戏剧台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8#
 中天娱乐,http://60.250.91.85:8585/.m3u8
 #台湾尾#
-
+}
