@@ -1,5 +1,6 @@
-<fenlei>台灣</fenlei>
 {
+<fenlei>台灣</fenlei>
+
 #台灣頭#
 民視,rtmp://59.124.75.138/sat/tv051#
 民視,http://seb.sason.top/ptv/ftv.php?id=ms#
