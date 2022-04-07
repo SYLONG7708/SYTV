@@ -196,6 +196,15 @@ HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 
 ↓↓公司電話,#genre#
 成人點播頻道_0970117708,#genre#
+母子愉悅亂倫-蘭心潔,https://je40u.cdnedge.live/file/avple-images/hls/624eeb896d742407ed435445/playlist.m3u8
+人形機器女友-蕭悅兒,https://je40u.cdnedge.live/file/avple-images/hls/6249a0b0eb0b5f202d561616/playlist.m3u8
+前女友婚後出軌我-淑,https://e2fa6.cdnedge.live/file/avple-images/hls/624591580ea8e533f480f479/playlist.m3u8
+偷情人妻上集,https://10j99.cdnedge.live/file/avple-images/hls/6233cadaaefa78093f9ffdd5/playlist.m3u8
+偷情人妻下集,https://w9n76.cdnedge.live/file/avple-images/hls/6241c035d6283a39fd9e3c2b/playlist.m3u8
+鄰居妹妹-前田由美,https://u89ey.cdnedge.live/file/avple-images/hls/623239d98cc9324f4943612d/playlist.m3u8
+肉感精油SPA-酒井愛,https://w9n76.cdnedge.live/file/avple-images/hls/6219e9c6b9e8e9119a2f1fe8/playlist.m3u8
+強上不愛穿胸罩的親妹,https://47b61.cdnedge.live/file/avple-images/hls/624d7cc08d83843ab3a678c7/playlist.m3u8
+嬢♯潮,https://u89ey.cdnedge.live/file/avple-images/hls/624ed647f0cc4f2b3cb8b9ae/playlist.m3u8
 淫靡大小姐の瘋狂性愛,https://v10.ripic.xyz/5fb0f14388006e8971a038c1/video.m3u8
 內穴服務-孟若羽,https://47b61.cdnedge.live/file/avple-images/hls/61e927b7c6ba7653ff362827/playlist.m3u8
 爽到不小心內射,https://m3u8.cococut.net/player.html?m3u8=https%3A%2F%2Fv10.ripic.xyz%2F5f1feef5ac1f1a14c2fc7f71%2Fvideo.m3u8
