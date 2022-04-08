@@ -1,19 +1,24 @@
+
+
 台灣,#genre#
+
+
+民視,rtmp://59.124.75.150/sat/tv051
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 
+中視,rtmp://59.124.75.150/sat/tv091
 中視,rtmp://59.124.75.138/sat/tv091
 
+台視,rtmp://59.124.75.150/sat/tv071
 台視,rtmp://59.124.75.138/sat/tv071
 
+華視,rtmp://59.124.75.150/sat/tv111
 華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-
 華視,rtmp://59.124.75.138/sat/tv111
 
-公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
-
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw#http://212.95.133.2/tv/js.php?id=31
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
 民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
@@ -28,16 +33,13 @@ MoMo綜合,rtmp://59.124.75.150/sat/tv761
 緯來育樂,rtmp://59.124.75.150/sat/tv701
 緯來育樂,rtmp://59.124.75.138/sat/tv701
 
-緯來戲劇,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-
 緯來日本,rtmp://59.124.75.138/sat/tv771
 
-緯來體育,rtmp://59.124.75.138/sat/tv721
-緯來育樂,p5p://45.92.126.18:9906/6044a24900005a2c022ccfba89cc1d77.ts
-
-東森超視,rtmp://59.124.75.150/sat/tv771
-
+三立台湾台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
 三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立台湾台,http://50.7.218.42:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+
+三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
 三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立都會,p5p://45.92.126.18:9906/60435aa10002e65e070cd311539826d8.ts
 
