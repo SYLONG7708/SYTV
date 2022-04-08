@@ -2,18 +2,17 @@
 
 台灣,#genre#
 
-
-民視,rtmp://59.124.75.150/sat/tv051
+民視,rtmp://59.124.75.138/sat/tv051
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 
-中視,rtmp://59.124.75.150/sat/tv091
+中視,rtmp://59.124.75.138/sat/tv091
 中視,rtmp://59.124.75.138/sat/tv091
 
-台視,rtmp://59.124.75.150/sat/tv071
+台視,rtmp://59.124.75.138/sat/tv071
 台視,rtmp://59.124.75.138/sat/tv071
 
-華視,rtmp://59.124.75.150/sat/tv111
+華視,rtmp://59.124.75.138/sat/tv111
 華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
 華視,rtmp://59.124.75.138/sat/tv111
 
@@ -34,6 +33,7 @@ MoMo綜合,rtmp://59.124.75.150/sat/tv761
 緯來育樂,rtmp://59.124.75.138/sat/tv701
 
 緯來日本,rtmp://59.124.75.138/sat/tv771
+
 
 三立台湾台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
 三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
