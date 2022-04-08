@@ -2,7 +2,6 @@
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 
-
 中視,rtmp://59.124.75.138/sat/tv091
 
 台視,rtmp://59.124.75.138/sat/tv071
@@ -12,6 +11,31 @@
 華視,rtmp://59.124.75.138/sat/tv111
 
 公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
+
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw#http://212.95.133.2/tv/js.php?id=31
+民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
+
+東森戲劇台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
+
+TVBS歡樂,rtmp://59.124.75.150/sat/tv421
+MoMo綜合,rtmp://59.124.75.150/sat/tv761
+
+中天娛樂,http://60.250.91.85:8585/.m3u8
+
+緯來育樂,rtmp://59.124.75.150/sat/tv701
+緯來育樂,rtmp://59.124.75.138/sat/tv701
+
+緯來戲劇,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
+
+緯來日本,rtmp://59.124.75.138/sat/tv771
+
+緯來體育,rtmp://59.124.75.138/sat/tv721
+緯來育樂,p5p://45.92.126.18:9906/6044a24900005a2c022ccfba89cc1d77.ts
+
+東森超視,rtmp://59.124.75.150/sat/tv771
 
 三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
@@ -26,18 +50,12 @@
 
 中天綜合,p5p://fccs.123178.top:9906/61494cc7000ea4840d6ccafbef48fe11
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
-
-
-東森綜合,p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts 
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 
 大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
-緯來戲劇,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-緯來綜合,p5p://fccs.123178.top:9906/614954e8000aa2000d8c8add3b487c6c
-緯來育樂,p5p://45.92.126.18:9906/6044a24900005a2c022ccfba89cc1d77.ts
 Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
 
 
@@ -181,20 +199,28 @@ MASFIGHT,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070
 
 
 電影,#genre#
+東森電影,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/32/index.m3u8
+東森電影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
 
 衛視電影,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10
-東森電影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
-LS龍祥時代,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
-LS龍祥時代,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-AXN,p5p://45.92.126.18:9906/6044d92d0004949903033b6f41d556d0.ts
-AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 
-龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+龍翔時代,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/35/index.m3u8
+龍翔時代,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍翔時代,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
 HBO HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO HD,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
+
+美亞電影,P2p://51.81.90.178:9906/893a1a9d8b3a4efa8b26e0e89f996bb5&kss=333
+
+AXN,p5p://45.92.126.18:9906/6044d92d0004949903033b6f41d556d0.ts
+AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
+
+龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+
+
 
 
 ↓↓公司電話,#genre#
@@ -246,8 +272,33 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
 
 成人直播頻道_0970117708,#genre#
-成人 1,http://125.227.210.55:9051/VideoInput/play.ts
-成人 2,http://125.227.210.55:9053/VideoInput/play.ts
-成人 3,http://125.227.210.55:9054/VideoInput/play.ts
-成人 4,http://125.227.210.55:9055/VideoInput/play.ts
-成人 5,http://125.227.210.55:9062/VideoInput/play.ts
+櫻花台,http://live.redtraffic.xyz:80/russian.m3u8
+一本道,http://live.redtraffic.xyz:80/bigass.m3u8
+松視,http://live.redtraffic.xyz:80/fetish.m3u8
+潘多拉,http://live.redtraffic.xyz:80/pornstar.m3u8
+肛交,http://cdn.adultiptv.net/anal.m3u8
+巨尻,http://cdn.adultiptv.net/bigass.m3u8
+合集,http://cdn.adultiptv.net/compilation.m3u8
+綠帽,http://cdn.adultiptv.net/cuckold.m3u8
+戀物,http://cdn.adultiptv.net/fetish.m3u8
+群交,http://cdn.adultiptv.net/gangbang.m3u8
+硬核,http://cdn.adultiptv.net/hardcore.m3u8
+拉丁,http://cdn.adultiptv.net/latina.m3u8
+少婦,http://cdn.adultiptv.net/milf.m3u8
+色星,http://cdn.adultiptv.net/pornstar.m3u8
+粗暴,http://cdn.adultiptv.net/rough.m3u8
+Big Ass,http://cdn.adultiptv.net/bigass.m3u8
+Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+Rough,http://cdn.adultiptv.net/rough.m3u8
+IBiza,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+tiny4k,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6258/index.m3u8
+bangbros,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6235/index.m3u8
+Asian,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6230/index.m3u8
+japan,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6225/index.m3u8
+cum4k,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6190/index.m3u8
+babes,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6171/index.m3u8
+hardx,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6218/index.m3u8
+vivid,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6264/index.m3u8
+XXL,http://pl1cdn.plusx.tv:8880/363/mono.m3u8?token=pirek23@gmail.comziomek222222
+Extasy,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+dorcel club,http://3dff4cc4.ucomist.net/iptv/KY6S3K7AMQ8FQM/6197/index.m3u8
