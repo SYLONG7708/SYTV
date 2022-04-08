@@ -13,6 +13,8 @@
 
 公視,http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 
+三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
 三立都會,p5p://45.92.126.18:9906/60435aa10002e65e070cd311539826d8.ts
 
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
@@ -72,7 +74,8 @@ TVBS新聞,rtmp://59.124.75.138/sat/tv551
 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 
 台灣動畫,#genre#
-
+CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+迪斯尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
 
 
 海綿寶寶,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
