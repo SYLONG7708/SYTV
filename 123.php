@@ -216,16 +216,16 @@ RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-8633341678977024
 電影,#genre#
 
 衛視電影,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10
-衛視電影,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
+衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
 
 
-東森電影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
+東森電影台,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
 東森電影,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/32/index.m3u8
 東森電影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
 
-緯來電影,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
+緯來電影台,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
 
-龍祥電影,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 龍翔時代,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/35/index.m3u8
 龍翔時代,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
 龍翔時代,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
@@ -301,30 +301,26 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 
 
 成人直播頻道_0970117708,#genre#
-Extasy,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-巴爾幹,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1688
-騙子,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1667
-紅燈,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1669
-多賽爾,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1670
-閣樓,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1671
-Quickies,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1672
-假駕校,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1682
-帕西XXX,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1683
-Brazzers,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1673
-現實之王,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1684
-BangU,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1685
-熱,http://romanija.xyz:8080/22supertv7753/razmjena5262352/13499
-Alba 4,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1686
-XXX,http://romanija.xyz:8080/22supertv7753/razmjena5262352/13500
-XXL,http://romanija.xyz:8080/22supertv7753/razmjena5262352/13501
-熱樂,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1687
-X夢,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1689
-花花公子,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1668
-粉紅1,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1674
-粉紅2,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1675
-粉紅3,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1676
-粉紅4,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1677
-粉紅5,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1678
-粉紅6,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1679
-粉紅7,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1680
-粉紅8,http://romanija.xyz:8080/22supertv7753/razmjena5262352/1681
+红松1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/467.ts
+红松2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/468.ts
+Hot,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/469.ts
+素人,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/470.ts
+一本道,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/471.ts
+加勒比,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/472.ts
+MYX1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/473.ts
+MYX2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/474.ts
+MYX3,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/475.ts
+MYX4,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/476.ts
+松視1,mitv://ns2.hellotvvod.com:9906/b3519f7416a04c7d9d2dffde2c7a1ee4
+松視2,mitv://ns2.hellotvvod.com:9906/d586873c2fe446528afc0ac4f3935a0e
+松視3,mitv://ns2.hellotvvod.com:9906/f1856bf4325c4a3b95c0c7f35937b5ea
+潘多拉玩美,mitv://ns2.hellotvvod.com:9906/c0384bb72f124250a6373fcce6589dd7
+潘朵啦粉红,mitv://ns2.hellotvvod.com:9906/fffbe3dd67b24b8ab9df757220ce248f
+極限電影,mitv://ns2.hellotvvod.com:9906/983f9de77e4a4d02bf21d2b7b36d2f28
+HAPPY,mitv://ns2.hellotvvod.com:9906/356bbf1f43234dd78cd21eba88d2223c
+彩虹電影,mitv://ns2.hellotvvod.com:9906/9c137e749b214e539bb916e3487c238b
+HOT,mitv://ns2.hellotvvod.com:9906/83a64a73a54344d9b27e899d693a05a8
+香蕉,mitv://ns2.hellotvvod.com:9906/13515a3b643d40a695c16a3e4726832e
+彩虹E,mitv://ns2.hellotvvod.com:9906/b3584f2b953746e084aa9b6863b653fb
+LOOK,mitv://ns2.hellotvvod.com:9906/0b70ec70171c44329fe58d9e47a8f785
+花花公子,mitv://ns2.hellotvvod.com:9906/b2c00493313d448499be2808454058d6
