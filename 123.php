@@ -2,7 +2,10 @@
 
 台灣,#genre#
 
-民視,rtmp://59.124.75.138/sat/tv051
+網路流行音樂電台,https://git.io/JgkA6
+西洋流行音樂電台,https://git.io/JgkAy
+
+民視 HD,p5p://fccs.123178.top:9906/615cefe0000b8a2b0c592a0127a8dd5a
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 
@@ -36,13 +39,6 @@ MoMo綜合,rtmp://59.124.75.150/sat/tv761
 
 緯來日本,rtmp://59.124.75.138/sat/tv771
 
-三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-三立台湾台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
-三立台湾台,http://50.7.218.42:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-
-三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
-三立都會,p5p://45.92.126.18:9906/60435aa10002e65e070cd311539826d8.ts
 
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
 八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
@@ -51,14 +47,22 @@ MoMo綜合,rtmp://59.124.75.150/sat/tv761
 八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.t
 八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
 
-衛視中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
+三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
+三立台湾台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
+三立台湾台,http://50.7.218.42:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+
+三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
+三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
+三立都會,p5p://45.92.126.18:9906/60435aa10002e65e070cd311539826d8.ts
+
+衛視中文台p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 
 中天綜合,p5p://fccs.123178.top:9906/61494cc7000ea4840d6ccafbef48fe11
 年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
 東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts 
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 
-大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
 Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
@@ -69,7 +73,7 @@ Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
 
 民視新聞,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
 民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
-民視新聞,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
+
 
 華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 
@@ -84,7 +88,7 @@ Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
 
 三立LIVE新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 
-東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+東森新聞,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 
 
@@ -108,8 +112,10 @@ TVBS新聞,rtmp://59.124.75.138/sat/tv551
 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 
 台灣動畫,#genre#
+MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 迪斯尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
+東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts	
 
 
 玩具樂園,http://118.26.120.37:55336/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
@@ -221,11 +227,10 @@ RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-8633341678977024
 
 東森電影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
 東森電影,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/32/index.m3u8
-東森電影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
+
 
 緯來電影,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
 
-龍祥電影,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 龍翔時代,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/35/index.m3u8
 龍翔時代,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
 龍翔時代,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
@@ -237,9 +242,13 @@ HBO,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct
 HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 
+好萊塢電影,p5p://fccs.123178.top:9906/614953030008709d0d8523c592e3c647
 
 
 美亞電影,P2p://51.81.90.178:9906/893a1a9d8b3a4efa8b26e0e89f996bb5&kss=333
+
+
+Cinemax,p5p://fccs.123178.top:9906/6149544b0008eb0b0d8a2524ddcf3ee6
 
 AXN,p5p://45.92.126.18:9906/6044d92d0004949903033b6f41d556d0.ts
 AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
