@@ -226,26 +226,25 @@ RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-8633341678977024
 
 
 東森電影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
-東森電影,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/32/index.m3u8
+
 
 
 緯來電影,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
 
-龍翔時代,http://zb.688768.xyz/jiudian/jddb.php?playurl=http://120.84.96.29:808/hls/35/index.m3u8
 龍翔時代,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
 龍翔時代,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 
 
 HBO,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-HBO,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 
-HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
+
+
 HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
 
 好萊塢電影,p5p://fccs.123178.top:9906/614953030008709d0d8523c592e3c647
 
 
-美亞電影,P2p://51.81.90.178:9906/893a1a9d8b3a4efa8b26e0e89f996bb5&kss=333
+
 
 
 Cinemax,p5p://fccs.123178.top:9906/6149544b0008eb0b0d8a2524ddcf3ee6
@@ -310,26 +309,14 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 
 
 成人直播頻道_0970117708,#genre#
-红松1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/467.ts
-红松2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/468.ts
-Hot,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/469.ts
-素人,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/470.ts
-一本道,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/471.ts
-加勒比,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/472.ts
-MYX1,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/473.ts
-MYX2,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/474.ts
-MYX3,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/475.ts
-MYX4,http://api.crtv.store:80/live/FPkybM6uOB/HyFCQQexiE/476.ts
-松視1,mitv://ns2.hellotvvod.com:9906/b3519f7416a04c7d9d2dffde2c7a1ee4
-松視2,mitv://ns2.hellotvvod.com:9906/d586873c2fe446528afc0ac4f3935a0e
-松視3,mitv://ns2.hellotvvod.com:9906/f1856bf4325c4a3b95c0c7f35937b5ea
-潘多拉玩美,mitv://ns2.hellotvvod.com:9906/c0384bb72f124250a6373fcce6589dd7
-潘朵啦粉红,mitv://ns2.hellotvvod.com:9906/fffbe3dd67b24b8ab9df757220ce248f
-極限電影,mitv://ns2.hellotvvod.com:9906/983f9de77e4a4d02bf21d2b7b36d2f28
-HAPPY,mitv://ns2.hellotvvod.com:9906/356bbf1f43234dd78cd21eba88d2223c
-彩虹電影,mitv://ns2.hellotvvod.com:9906/9c137e749b214e539bb916e3487c238b
-HOT,mitv://ns2.hellotvvod.com:9906/83a64a73a54344d9b27e899d693a05a8
-香蕉,mitv://ns2.hellotvvod.com:9906/13515a3b643d40a695c16a3e4726832e
-彩虹E,mitv://ns2.hellotvvod.com:9906/b3584f2b953746e084aa9b6863b653fb
-LOOK,mitv://ns2.hellotvvod.com:9906/0b70ec70171c44329fe58d9e47a8f785
-花花公子,mitv://ns2.hellotvvod.com:9906/b2c00493313d448499be2808454058d6
+松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+香蕉台,http://125.227.210.37:11055/VideoInput/play.ts
+彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
+驚豔成人電影台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+驚豔成人電影台,http://125.227.210.37:18789/VideoInput/play.ts
+XXL,http://b7bc53a7.ucomist.net/iptv/GRMRWF422NF22R/6230/index.m3u8
+LOOK-HD,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+IBizaHDTV,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+Dorcel,http://ortg7cfa.megogo.xyz/iptv/3PTTC67BW3A29M/245/index.m3u8
