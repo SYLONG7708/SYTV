@@ -5,19 +5,18 @@
 網路流行音樂電台,https://git.io/JgkA6
 西洋流行音樂電台,https://git.io/JgkAy
 
-民視 HD,p5p://fccs.123178.top:9906/615cefe0000b8a2b0c592a0127a8dd5a
+民視,p5p://fccs.123178.top:9906/615cefe0000b8a2b0c592a0127a8dd5a
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 
-中視,rtmp://59.124.75.138/sat/tv091
-中視,rtmp://59.124.75.138/sat/tv091
-
-台視,rtmp://59.124.75.138/sat/tv071
+中視,http://liuy.usa7.20212021.ga/ns.php?id=47
 
 
-華視,rtmp://59.124.75.138/sat/tv111
+台視,http://liuy.usa7.20212021.ga/ns.php?id=45
+
+
 華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-華視,rtmp://59.124.75.138/sat/tv111
+
 
 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
@@ -27,51 +26,48 @@
 
 東森戲劇台，http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/33540/index.m3u8
 
-TVBS歡樂,rtmp://59.124.75.150/sat/tv421
-TVBS歡樂台,rtmp://59.124.75.138/sat/tv421
 
-MoMo綜合,rtmp://59.124.75.150/sat/tv761
+TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/9ac566fa58ef477f8d477a740b2c6ef8.ts
+
+MoMo綜合,MOMO綜合台,http://128.14.50.198:8880/m3u8/oT71Smv8TWUbN-9B11p1mC8gBBSDkiIOh6AM8J43RZPXhwWPAdIofVQSWFWaUqeIXTQtQ7wQ51myVaOMywP81w
 
 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
 
-緯來育樂,rtmp://59.124.75.150/sat/tv701
-緯來育樂,rtmp://59.124.75.138/sat/tv701
+緯來育樂台,http://60.249.146.250:8562/http/60.251.39.91:8081/hls/68/810/ch30.m3u8
 
-緯來日本,rtmp://59.124.75.138/sat/tv771
+緯來日本台,http://60.249.146.250:8591/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 
 
-八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
-八大戲劇台,p5p://fccs.123178.top:9906/6044d5ac000936f902f58cb70525846f.ts
+八大戲劇台,http://60.249.146.250:8588/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+八大第一台,http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+八大綜合,http://60.249.146.250:8520/http/60.251.39.91:8081/hls/66/808/ch21.m3u8
+八大娛樂台,http://128.14.50.198:8880/m3u8/4q7lGz4iI9dzM11mSYM2uComOnqKmLH7yLaf1SmGr5QLdeAGtm6eTSg2s2UdfTPpkHR6HW0UoS7TQxlCPk1d3Q
 
-八大第一台,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
-八大綜合台,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.t
-八大娛樂台,p5p://fccs.123178.top:9906/6044d70900008dea02faddc78bf8a126.ts
+三立台灣台,http://59.125.101.187:8501/playlist.m3u8
 
-三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-三立台湾台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
-三立台湾台,http://50.7.218.42:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+三立都會台,http://60.249.146.250:8557/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 
-三立都會,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
-三立都會,p5p://45.92.126.18:9906/60435aa10002e65e070cd311539826d8.ts
+衛視中文台,http://60.249.146.250:8579/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+衛視中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 
-衛視中文台p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
+中天綜合台,http://60.249.146.250:8583/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 
-中天綜合,p5p://fccs.123178.top:9906/61494cc7000ea4840d6ccafbef48fe11
-年代MUCH,p5p://fccs.123178.top:9906/60449ce00006c4040217af361b6c5a1a.ts
-東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts 
+年代MUCH台,http://60.249.146.250:8586/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+
+東森超視,http://60.249.146.250:8582/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+
 金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 
 
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
-Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
+Discovery,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 
 
 
 台灣新聞,#genre#
 
-民視新聞,p5p://fccs.123178.top:9906/61494a92000be20d0d642b3f9739874e
+
 民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 
 
@@ -88,7 +84,7 @@ Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
 
 三立LIVE新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 
-東森新聞,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
+
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 
 
@@ -97,7 +93,7 @@ Discovery,p5p://fccs.123178.top:9906/610b440f00018f2d04303511f19e7e5a.ts
 年代新聞，http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 
 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-TVBS新聞,rtmp://59.124.75.138/sat/tv551
+
 
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
@@ -112,11 +108,11 @@ TVBS新聞,rtmp://59.124.75.138/sat/tv551
 東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 
 台灣動畫,#genre#
-MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
-CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
+MOMO親子台,mitv://ns2.hellotvvod.com:9906/b5736d10d0434ea7ae81263b2af2a128.ts
+尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/915056237901456bad0378ea0711cb8e.ts
+CN卡通頻道,http://50.7.218.42:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 迪斯尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
-東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts	
-
+東森幼幼台,http://liuy.usa7.20212021.ga/ns.php?id=31
 
 玩具樂園,http://118.26.120.37:55336/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
 貓和老鼠,http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
@@ -221,40 +217,27 @@ RAW,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-8633341678977024
 
 電影,#genre#
 
-衛視電影,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10
-衛視電影,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
+衛視電影台,http://60.249.146.250:8553/http/60.251.39.91:8081/hls/62/804/ch07.m3u8
 
+東森電影台,http://120.84.96.25:808/hls/32/index.m3u8
 
-東森電影,p5p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
+緯來電影台,http://60.249.146.250:8555/http/60.251.39.91:8081/hls/69/811/ch35.m3u8
 
+LS龍祥電影台,http://120.84.96.25:808/hls/35/index.m3u8
 
+HBO,http://60.249.146.250:8580/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 
-緯來電影,p5p://fccs.123178.top:9906/614959e10009f39d0d9ff75817774dbe
+東森洋片,http://120.84.96.29:808/hls/33/index.m3u8
 
-龍翔時代,p5p://45.92.126.18:9906/6045bb31000469b906761b04cfa6bdb1.ts
-龍翔時代,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+AXN,http://60.249.146.250:8558/http/60.251.39.91:8081/hls/71/813/ch43.m3u8
 
+好萊塢電影,http://59.125.101.187:18754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8?
 
-HBO,http://50.7.218.42:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+STAR Movies Gold,http://60.249.146.250:8560/http/60.251.39.91:8081/hls/62/804/ch08.m3u8
 
+CINEMAX,http://59.125.101.187:18761/http/192.168.77.24:8081/hls/71/813/ch42.m3u8?
 
-
-HBO HD,http://125.227.210.55:16027/VideoInput/play.ts
-
-好萊塢電影,p5p://fccs.123178.top:9906/614953030008709d0d8523c592e3c647
-
-
-
-
-
-Cinemax,p5p://fccs.123178.top:9906/6149544b0008eb0b0d8a2524ddcf3ee6
-
-AXN,p5p://45.92.126.18:9906/6044d92d0004949903033b6f41d556d0.ts
-AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
-
-龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
-
-
+緯來育樂台,http://60.249.146.250:8562/http/60.251.39.91:8081/hls/68/810/ch30.m3u8
 
 
 ↓↓公司電話,#genre#
