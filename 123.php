@@ -29,7 +29,7 @@
 
 TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/9ac566fa58ef477f8d477a740b2c6ef8.ts
 
-MoMo綜合,MOMO綜合台,http://128.14.50.198:8880/m3u8/oT71Smv8TWUbN-9B11p1mC8gBBSDkiIOh6AM8J43RZPXhwWPAdIofVQSWFWaUqeIXTQtQ7wQ51myVaOMywP81w
+MoMo綜合,http://128.14.50.198:8880/m3u8/oT71Smv8TWUbN-9B11p1mC8gBBSDkiIOh6AM8J43RZPXhwWPAdIofVQSWFWaUqeIXTQtQ7wQ51myVaOMywP81w
 
 緯來戲劇台,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
 
@@ -53,6 +53,7 @@ MoMo綜合,MOMO綜合台,http://128.14.50.198:8880/m3u8/oT71Smv8TWUbN-9B11p1mC8g
 衛視中文台,http://60.249.146.250:8579/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
 衛視中文台,p5p://fccs.123178.top:9906/6045bbb2000922ef0678142229e89274.ts
 
+中天娛樂台,http://125.227.210.37:15796/VideoInput/play.ts
 中天綜合台,http://60.249.146.250:8583/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 
 年代MUCH台,http://60.249.146.250:8586/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
@@ -70,7 +71,7 @@ Discovery,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A28441889
 
 台灣新聞,#genre#
 
-
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 
 
@@ -96,7 +97,7 @@ Discovery,http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A28441889
 年代新聞，http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
 
 TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-
+TVBShttp://liuy.usa7.20212021.ga/ns.php?id=37
 
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
