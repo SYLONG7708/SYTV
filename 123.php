@@ -6,33 +6,36 @@
 西洋流行音樂電台,https://git.io/JgkAy
 
 
+民視,rtmp://59.124.75.150/sat/tv051
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
 
-台視,rtmp://219.80.97.25/sat/tv071
-
-中視,rtmp://219.80.97.25/sat/tv091
-
-華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+臺視,rtmp://59.124.75.150/sat/tv071
+中視,rtmp://59.124.75.150/sat/tv091
+華視,rtmp://59.124.75.150/sat/tv111
 
 
-民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
-民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
-民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
-民視旅遊,http://seb.sason.top/ptv/ftv.php?id=ly
+
+民視臺灣,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+民視旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+民視第一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
 
 
-衛視中文,mitv://ns2.hellotvvod.com:9906/cb34596f236a4c85a9718367df9e9c9d.ts
-三立台灣,mitv://ns2.hellotvvod.com:9906/a29da0ffbc6245228464539d31c70c9d.ts
-三立都會台,mitv://ns2.hellotvvod.com:9906/d35c3c66a2394d9a8e34beaafc32c6d4.ts
-三立都會台,P2p://ns2.hellotvvod.com:9906/d35c3c66a2394d9a8e34beaafc32c6d4.ts
-東森戲劇台,mitv://ns2.hellotvvod.com:9906/23c5d481a1c04d8e8d01c51f5d9b17bd.ts
-八大戲劇台,mitv://ns2.hellotvvod.com:9906/eb2e28d7bacb477391df8f31bb517041.ts
-TVBS歡樂台,mitv://ns2.hellotvvod.com:9906/80e84e6fee044e65942de58e5558df3c.ts
-緯來戲劇台,mitv://ns2.hellotvvod.com:9906/1341727ca5114ebaa31f8a2d6addd125.ts
 
-金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+三立臺灣,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
+
+
+東森戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/c9ad5922-8313-4c42-a327-174544661402.m3u8
+東森幼幼,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6f0752d1-787f-413d-abe2-f595bb0c55e3.m3u8
+龍華偶像,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/d6aed7e2-3138-4dd8-90b8-73be504e00c0.m3u8
+龍華戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/1cddeff8-aa75-47c3-a013-f4f1275eef67.m3u8
+龍華洋片,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/848ebbde-2508-4567-b7b1-a0155c27c2c6.m3u8
+
+八大第一,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6bb0001a-0201-4ae2-809d-c83e5e3e19f2.m3u8
+八大戲劇,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/1/b9681578-eb3b-45c4-b3e5-5f51c8daf2d4.m3u8
+八大娛樂,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ed74ad55-42d2-4613-b235-944683886177.m3u8
+八大綜合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/0fdd4afc-c155-4164-8baa-b50c4488402d.m3u8
 
 
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -129,20 +132,17 @@ TVBShttp://liuy.usa7.20212021.ga/ns.php?id=37
 豬俠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 
 體育直播,#genre#
-愛爾達體育1,mitv://ns2.hellotvvod.com:9906/595998f4529e4f298cdf3149a33c1437.ts
-愛爾達體育2,mitv://ns2.hellotvvod.com:9906/d277e9d51ec74aea904176f52e2defd9.ts
-愛爾達體育3,mitv://ns2.hellotvvod.com:9906/1e5f5b63d5934513be98a24b106691ff.ts
-博斯高球,mitv://ns2.hellotvvod.com:9906/de1bd896c5d9476f8344d428264cf268.ts
-博斯高球二,mitv://ns2.hellotvvod.com:9906/ec378e331cd64dbbbbd3730977c04469.ts
-博斯網球檯,mitv://ns2.hellotvvod.com:9906/2a7084493c204e2b910c6b42b6703e4f.ts
-博斯魅力網,mitv://ns2.hellotvvod.com:9906/53b5eef4a40744ac86d35b035f4428b2.ts
-博斯無限,mitv://ns2.hellotvvod.com:9906/f8e5141856a14502bf9581fc546208a1.ts
-博斯無限二,mitv://ns2.hellotvvod.com:9906/05648d7433be4d09bbda906da11c1a84.ts
-博斯運動,mitv://ns2.hellotvvod.com:9906/c6bec0d071b841bcbe97b08b6fdfacba.ts
-ELEVEN2,mitv://ns2.hellotvvod.com:9906/60ee1e8bf5784b0192c617efa72ffed4.ts
-智林體育,mitv://ns2.hellotvvod.com:9906/26be5742600544b497200980c8599f79.ts
-博斯運動二,mitv://ns2.hellotvvod.com:9906/c024455c614e486793bac3888ea26189.ts
-
+緯來體育,rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721
+緯來體育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=105
+ELEVEN2,rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.150/sat/tv741#rtmp://59.124.75.150/sat/md051
+MOMO綜合,rtmp://59.124.75.138/sat/tv761#rtmp://59.124.75.150/sat/tv761
+博斯網球,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.150/sat/md031
+ELEVEN2,rtmp://59.124.75.138/sat/md051
+ELEVEN1,rtmp://59.124.75.138/sat/tv731#rtmp://59.124.75.150/sat/tv731
+ELTA3,rtmp://59.124.75.138/sat/md041
+ELTA體育1,rtmp://59.124.75.150/sat/md011
+ELTA體育2,rtmp://59.124.75.150/sat/md021
+ELTA體育3,rtmp://59.124.75.150/sat/md041
 
 
 
@@ -150,33 +150,11 @@ ELEVEN2,mitv://ns2.hellotvvod.com:9906/60ee1e8bf5784b0192c617efa72ffed4.ts
 
 電影,#genre#
 
-星衛HD電影,mitv://ns2.hellotvvod.com:9906/0542443a632841b5b962af8f287b7e6a.ts
-衛視電影,mitv://ns2.hellotvvod.com:9906/48e5078c3a954232a6d182ece9409eb7.ts
+東森電影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/55d60885-3825-4600-8a5c-1427ceae2aa6.m3u8
+東森洋片,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/cfbd4405-3f72-4aaa-80c8-fdbba94b6d2d.m3u8
+好萊塢電影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6995f464-c034-4cf5-9b6a-e94ea4922ced.m3u8
+星衛電影,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/e3128db5-6ea6-4713-9b8b-78d23fbfe92a.m3u8
 
-東森電影,http://120.84.96.25:808/hls/32/index.m3u8
-東森電影,mitv://ns2.hellotvvod.com:9906/6dbd836f8b5542a1a3054b2487286f19.ts
-東森電影,http://120.84.96.32:808/hls/32/index.m3u8
-東森電影,http://120.84.96.46:808/hls/32/index.m3u8
-東森電影,http://120.84.96.42:808/hls/32/index.m3u8
-東森電影,http://120.84.96.43:808/hls/32/index.m3u8
-東森電影,http://120.84.96.33:808/hls/32/index.m3u8
-東森電影,http://120.84.96.29:808/hls/32/index.m3u8
-
-緯來電影台,mitv://ns2.hellotvvod.com:9906/4c315afe673041a88ee8125bb9caff4a.ts
-龍祥電影,mitv://ns2.hellotvvod.com:9906/66704d7827ec46a08907c11e29ab2d30.ts
-
-東森洋片,http://120.84.96.33:808/hls/33/index.m3u8
-東森洋片,mitv://ns2.hellotvvod.com:9906/c33490e600e148b79fc7a3ce3dad55b8.ts
-東森洋片,http://120.84.96.29:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.32:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.25:808/hls/33/index.m3u8
-
-HBO,mitv://ns2.hellotvvod.com:9906/75ea557adf07436aa61217f9468b54fb.ts
-AXN,mitv://ns2.hellotvvod.com:9906/7f91dfc2cae44e33946bc663d221c27c.ts
-好萊塢電影,mitv://ns2.hellotvvod.com:9906/4ccf820d465e47f78f5703217cef645a.ts
-CINEMAX,mitv://ns2.hellotvvod.com:9906/36471f86b15647c0948bc0975598752c.ts
-美亞電影台HD,mitv://ns2.hellotvvod.com:9906/beb09c716bbc4616a403b76fc9026512.ts
-龍華電影,mitv://ns2.hellotvvod.com:9906/7c8f50a7352049b58dfc7bbb78aada8e.ts
 
 
 
