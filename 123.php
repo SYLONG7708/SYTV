@@ -34,31 +34,22 @@
 緯來綜合台,mitv://ns2.hellotvvod.com:9906/3e161e0de33349e6b05331bdd531a1ac
 緯來戲劇台,mitv://ns2.hellotvvod.com:9906/b763357e7fb24fe58b1b15ce488fcd04
 緯來育樂台,mitv://ns2.hellotvvod.com:9906/649ad3e093754eafb041808cac6e06b6
+緯來育樂台,mitv://ns2.hellotvvod.com:9906/d904657a5c2a4f72a5d6c4d5f541381b.ts
 緯來日本台,mitv://ns2.hellotvvod.com:9906/c03d7c6de3334d638ee86faaaebbde81
 
 MOMO綜合,rtmp://59.124.75.138/sat/tv761#rtmp://59.124.75.150/sat/tv761
 
-八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
-八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-八大戲劇,http://59.125.101.187:10771/http/192.168.77.24:8081/hls/69/811/ch34.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-八大戲劇,http://59.125.101.187:10771/http/192.168.77.24:8081/hls/66/808/ch23.m3u8
-八大娛樂,http://50.7.220.74:8278/badaentertain/playlist.m3u8?tid=m46003aa2ac2617525877&ct=17874&tsum=d31212ff6fbefd5bd856f80d16bb3f27
+八大第一台,mitv://ns2.hellotvvod.com:9906/0b7ce5adfc7747ada165477c746f643e.ts
+八大戲劇台,mitv://ns2.hellotvvod.com:9906/3412c112154d433380252b6846459e7d.ts
+八大優頻道,mitv://ns2.hellotvvod.com:9906/de66128da87b4aa8ade269e96f08a736.ts
+八大娛樂台,mitv://ns2.hellotvvod.com:9906/0d48b944decc4195aca7dfb650252e32.ts
+八大綜合台,mitv://ns2.hellotvvod.com:9906/867f11f9fe814ba38e10929c69fd2cdc.ts
 
-龍華戲劇,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-龍華戲劇,http://59.125.98.83:8534/playlist.m3u8
-龍華戲劇,http://59.125.101.187:10764/http/192.168.77.24:8066/hls/210/10010/cstv10.m3u8
-龍華戲劇,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-龍華日韓,http://59.125.101.187:10763/http/192.168.77.24:8066/hls/210/10011/cstv11.m3u8
-龍華日韓,http://59.125.98.83:8535/playlist.m3u8
-龍華日韓,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8
-龍華日韓,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
-龍華偶像,mitv://ns2.hellotvvod.com:9906/3cd5e6eb4cc24f56b658f51ec4ed33d3
-龍華偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-ELTA影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+龍華電影,mitv://ns2.hellotvvod.com:9906/dfeb19161fc346349edb5a0c960edb34.ts
+龍華偶像,mitv://ns2.hellotvvod.com:9906/fbde3c608cb64f48b2fe51018030d452.ts
+龍華戲劇,mitv://ns2.hellotvvod.com:9906/b33a69e48e644e6aa67154d47f5c68aa.ts
 
-
-卫视中文台,mitv://ns2.hellotvvod.com:9906/5ccf094b866b4afdb2601e1528809753
+衛視中文台,mitv://ns2.hellotvvod.com:9906/ad2ac743e2094fb2893f9eb354fbe4d3.ts
 
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
@@ -106,7 +97,7 @@ TVBShttp://liuy.usa7.20212021.ga/ns.php?id=37
 台灣動畫,#genre#
 
 CN卡通頻道,mitv://ns2.hellotvvod.com:9906/142e8929b396493a8a3043d66e8321bb.ts
-星空衛視,mitv://ns2.hellotvvod.com:9906/fb5787c6d22040aa9858663ed9dba003.ts
+
 金鷹卡通,mitv://ns2.hellotvvod.com:9906/b4196e3753844870baca7f30ee1d0941.ts
 MOMO親子台,mitv://ns2.hellotvvod.com:9906/5b04e4d291b04ee4916c45d0b4a76dd5.ts
 Astro小太陽,mitv://ns2.hellotvvod.com:9906/8dfce73c336045dda22a7fafd64b4137.ts
@@ -131,7 +122,6 @@ Hands Up,mitv://ns2.hellotvvod.com:9906/2b0b09343e944f40a39b35d50f12a6ca.ts
 體育直播,#genre#
 
 WWE,mitv://ns2.hellotvvod.com:9906/6c3879908dd8451499966ef5b2760007.ts
-緯來育樂台,mitv://ns2.hellotvvod.com:9906/d904657a5c2a4f72a5d6c4d5f541381b.ts
 緯來體育台,mitv://ns2.hellotvvod.com:9906/ef54dd7b19aa488b89cec3e826eeaf36.ts
 ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/cf45538ec1304a05aa7aec4d45919ecb.ts
 愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/71a3bae56abd414fb30499dd0c6ef844.ts
