@@ -1,5 +1,6 @@
 
 
+
 台灣,#genre#
 
 網路流行音樂電台,https://git.io/JgkA6
@@ -13,43 +14,38 @@
 中視,rtmp://59.124.75.150/sat/tv091
 華視,rtmp://59.124.75.150/sat/tv111
 
-
-
 民視臺灣,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
 民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
 民視旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
 民視第一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
 民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+八大娛樂台,p2p://45.92.126.18:9906/6258e45a000845a611e61e9a50bc5e3e
+八大戲劇台,p2p://45.92.126.18:9906/6258594f0004c9c40fc6fabdb0e81edf
+八大第1台,p2p://45.92.126.18:9906/6258517d000953940fa86f978caa56ae
+八大綜合台,p2p://45.92.126.18:9906/625851bd000e8a2d0fa96aec6397d1ea
+三立台灣台,p2p://45.92.126.18:9906/625851fa000d44170faa58e136d727dc
+三立戲劇台,p2p://45.92.126.18:9906/6259b5a1000d5db415179d3f530f1044
+三立都會台,p2p://45.92.126.18:9906/62585240000566d20fab684d64808ca0
 
+衛視中文台,p2p://45.92.126.18:9906/625853fa000f1f080fb2295a047a36dc
 
+緯來戲劇,p2p://45.92.126.18:9906/62585f76000e7ba90fdf0591eb84257b
+緯來日本,p2p://45.92.126.18:9906/62637c010003ce15074fddf26f0135da
+緯來綜合,p2p://45.92.126.18:9906/62584fd10006d72b0fa1e71495ef5024
+緯來育樂,p2p://45.92.126.18:9906/6256bd41000a7a7c097d6582fe044cc4
 
-三立都會台,mitv://ns2.hellotvvod.com:9906/79e7b246bd3a4c47a4d0fabc5f235a40.ts
+龍華偶像,mitv://45.92.126.18:9906/6260e4e9000627b41735499a8a2abd33
+龍華影劇,mitv://45.92.126.18:9906/6260e4fc0003a35a1735932d66a9b4e5
+龍華戲劇,mitv://45.92.126.18:9906/6260e4c0000811ed1734a9ef0f8923c2
+龍華洋片,mitv://45.92.126.18:9906/62613bc2000a344018888a4b2452f6fd
+龍華經典,mitv://45.92.126.18:9906/62618a40000060f919bb23f73fed9563
 
-三立台灣台,mitv://ns2.hellotvvod.com:9906/3c657ecc033b4ce891e3f35c5de00742.ts
-三立台灣台,mitv://ns2.hellotvvod.com:9906/3cf1ea4d366b4d2985877af248ad77dc.ts
+龍華偶像,p2p://45.92.126.18:9906/6260e4e9000627b41735499a8a2abd33
+龍華影劇,p2p://45.92.126.18:9906/6260e4fc0003a35a1735932d66a9b4e5
+龍華戲劇,p2p://45.92.126.18:9906/6260e4c0000811ed1734a9ef0f8923c2
+龍華洋片,p2p://45.92.126.18:9906/62613bc2000a344018888a4b2452f6fd
+龍華經典,p2p://45.92.126.18:9906/62618a40000060f919bb23f73fed9563
 
-
-八大第一台,mitv://ns2.hellotvvod.com:9906/d31d266e031d4b4f821e8b1e47715e07
-八大綜合台,mitv://ns2.hellotvvod.com:9906/3468ea94a60a496aaa874055cef4059e
-緯來綜合台,mitv://ns2.hellotvvod.com:9906/3e161e0de33349e6b05331bdd531a1ac
-緯來戲劇台,mitv://ns2.hellotvvod.com:9906/b763357e7fb24fe58b1b15ce488fcd04
-緯來育樂台,mitv://ns2.hellotvvod.com:9906/649ad3e093754eafb041808cac6e06b6
-緯來育樂台,mitv://ns2.hellotvvod.com:9906/d904657a5c2a4f72a5d6c4d5f541381b.ts
-緯來日本台,mitv://ns2.hellotvvod.com:9906/c03d7c6de3334d638ee86faaaebbde81
-
-MOMO綜合,rtmp://59.124.75.138/sat/tv761#rtmp://59.124.75.150/sat/tv761
-
-八大第一台,mitv://ns2.hellotvvod.com:9906/0b7ce5adfc7747ada165477c746f643e.ts
-八大戲劇台,mitv://ns2.hellotvvod.com:9906/3412c112154d433380252b6846459e7d.ts
-八大優頻道,mitv://ns2.hellotvvod.com:9906/de66128da87b4aa8ade269e96f08a736.ts
-八大娛樂台,mitv://ns2.hellotvvod.com:9906/0d48b944decc4195aca7dfb650252e32.ts
-八大綜合台,mitv://ns2.hellotvvod.com:9906/867f11f9fe814ba38e10929c69fd2cdc.ts
-
-龍華電影,mitv://ns2.hellotvvod.com:9906/dfeb19161fc346349edb5a0c960edb34.ts
-龍華偶像,mitv://ns2.hellotvvod.com:9906/fbde3c608cb64f48b2fe51018030d452.ts
-龍華戲劇,mitv://ns2.hellotvvod.com:9906/b33a69e48e644e6aa67154d47f5c68aa.ts
-
-衛視中文台,mitv://ns2.hellotvvod.com:9906/ad2ac743e2094fb2893f9eb354fbe4d3.ts
 
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
@@ -96,80 +92,76 @@ TVBShttp://liuy.usa7.20212021.ga/ns.php?id=37
 
 台灣動畫,#genre#
 
-CN卡通頻道,mitv://ns2.hellotvvod.com:9906/142e8929b396493a8a3043d66e8321bb.ts
-
-金鷹卡通,mitv://ns2.hellotvvod.com:9906/b4196e3753844870baca7f30ee1d0941.ts
-MOMO親子台,mitv://ns2.hellotvvod.com:9906/5b04e4d291b04ee4916c45d0b4a76dd5.ts
-Astro小太陽,mitv://ns2.hellotvvod.com:9906/8dfce73c336045dda22a7fafd64b4137.ts
-Astro Ceria,mitv://ns2.hellotvvod.com:9906/cbe61db2f0c34437a62ff799ff72f69b.ts
-Cartoon Network,mitv://ns2.hellotvvod.com:9906/1853934b1c2242a8bf23b05cc273f0f2.ts
-Nickelodeon,mitv://ns2.hellotvvod.com:9906/9a32c0428f2d4c969768dcdd39e01baa.ts
-Nick Jr.,mitv://ns2.hellotvvod.com:9906/b3a14bdd28254633aaed3ef0aa417e20.ts
-Boomerang,mitv://ns2.hellotvvod.com:9906/71b472b2863f4bf6bcf73d93ae23d0ba.ts
-Animax,mitv://ns2.hellotvvod.com:9906/1c055faa00bb425bb7d49fcbc532758e.ts
-尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/b420548dc5e5476bab28de950cb6b38d.ts
-靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/2c427d7b3a8f40838112df81d47c9979.ts
-靖天卡通台,mitv://ns2.hellotvvod.com:9906/89cd7dc3842a4b65b2375f759544b268.ts
-達文西頻道,mitv://ns2.hellotvvod.com:9906/70f59959c65647b0ae28979a8203f5ae.ts
-Nick Jr.,mitv://ns2.hellotvvod.com:9906/34c9fd603cf241d1a71a26ccdd4386ca.ts
-Cbeebies,mitv://ns2.hellotvvod.com:9906/ab87a2e4a7254aa2a855befb676a090d.ts
-Dreamworks,mitv://ns2.hellotvvod.com:9906/ecb6456f10dc4a37a1e7fe6d06aad2e6.ts
-Baby TV,mitv://ns2.hellotvvod.com:9906/5f525b4f543a4ef099da577732073135.ts
-Hands Up,mitv://ns2.hellotvvod.com:9906/2b0b09343e944f40a39b35d50f12a6ca.ts
-
+東森幼幼,mitv://45.92.126.18:9906/62584f92000033490fa0ef49c819efa3
+東森幼幼,p2p://45.92.126.18:9906/62584f92000033490fa0ef49c819efa3
+CN卡通频道,mitv://45.92.126.18:9906/62584e2d00015cde0f9b7d0de69c85e4
+Boomerang卡通,mitv://45.92.126.18:9906/62584d670009313f0f98799e2354015b
+MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 
 
 體育直播,#genre#
 
-WWE,mitv://ns2.hellotvvod.com:9906/6c3879908dd8451499966ef5b2760007.ts
-緯來體育台,mitv://ns2.hellotvvod.com:9906/ef54dd7b19aa488b89cec3e826eeaf36.ts
-ELEVEN體育1台,mitv://ns2.hellotvvod.com:9906/cf45538ec1304a05aa7aec4d45919ecb.ts
-愛爾達體育1台,mitv://ns2.hellotvvod.com:9906/71a3bae56abd414fb30499dd0c6ef844.ts
-愛爾達體育2台,mitv://ns2.hellotvvod.com:9906/6d2c46d4068b420ba8ab5e17725c4f41.ts
-愛爾達體育3台,mitv://ns2.hellotvvod.com:9906/2d7497b5bb3c4a56b2531cb3a597ebd5.ts
-博斯高球,mitv://ns2.hellotvvod.com:9906/744195d94170473e82412210a66f2bce.ts
-博斯高球二台,mitv://ns2.hellotvvod.com:9906/eb723a6d2d7c442490e0901031d037e8.ts
-博斯網球檯,mitv://ns2.hellotvvod.com:9906/b2b2e36c4450479fbdefe1ef6f9d46f0.ts
-博斯魅力網,mitv://ns2.hellotvvod.com:9906/87340ca7a5184bd083f2122feee86eb0.ts
-博斯無限台,mitv://ns2.hellotvvod.com:9906/b4863af16b1743ae806be8ff998ad9c4.ts
-博斯無限二台,mitv://ns2.hellotvvod.com:9906/bb488cec56ec480eabda9755b3a01c98.ts
-SPOTV,mitv://ns2.hellotvvod.com:9906/c2eedd5dd88847acb8ee196ecb068516.ts
-博斯運動,mitv://ns2.hellotvvod.com:9906/ac473f025f04476f88c5afea3631b887.ts
-ELEVEN體育2台,mitv://ns2.hellotvvod.com:9906/a2a644df86e34f96a0e0cadf6b2158f0.ts
-智林體育台,mitv://ns2.hellotvvod.com:9906/e3b97400caed418695413716925c56d2.ts
-博斯運動二台,mitv://ns2.hellotvvod.com:9906/95ed8752105442b2bbf679d920da3e92.ts
+
+愛爾達综合,mitv://45.92.126.18:9906/62595f88000e134a13c74bc62a907482
+
+愛爾達體育1台,mitv://45.92.126.18:9906/62596cd0000349b813fb2a4367d31141
+愛爾達體育2台,mitv://45.92.126.18:9906/62596cee000e512213fba2460c39ef10
+愛爾達體育3台,mitv://45.92.126.18:9906/62596d0a0009c5b313fc0e7cd12205f2
+愛爾達體育1台,p2p://45.92.126.18:9906/62596cd0000349b813fb2a4367d31141
+愛爾達體育2台,p2p://45.92.126.18:9906/62596cee000e512213fba2460c39ef10
+愛爾達體育3台,p2p://45.92.126.18:9906/62596d0a0009c5b313fc0e7cd12205f2
+
+緯來體育,mitv://45.92.126.18:9906/62541bbd000ba7f6097abfe357f9c565
+緯來體育,p2p://45.92.126.18:9906/62541bbd000ba7f6097abfe357f9c565
+
+ELEVEN 1,mitv://45.92.126.18:9906/625854d4000964b10fb57b7382610c8d
+ELEVEN 2,mitv://45.92.126.18:9906/6258550f0001c6880fb65ff87e0ebc13
 
 
+ELEVEN 1,p2p://45.92.126.18:9906/625854d4000964b10fb57b7382610c8d
+ELEVEN 2,p2p://45.92.126.18:9906/6258550f0001c6880fb65ff87e0ebc13
+博斯網球,p2p://45.92.126.18:9906/6259b8080009f08a1520feb706074e92
+博斯運動一台,p2p://45.92.126.18:9906/6260e5500006db331736dc200a9d70bc
+博斯運動二台,p2p://45.92.126.18:9906/6261364f000a426f187341173b92f79b
+博斯高球一台,p2p://45.92.126.18:9906/62596d9e000e5b6c13fe51c8c1ca116c
+博斯高球二台,p2p://45.92.126.18:9906/6259b7ea000cad1415208a3ab972be5a
+博斯魅力,p2p://45.92.126.18:9906/6260e5df0005c49317390a70b64c7b9b
 
 
 電影,#genre#
 
-衛視電影台,mitv://ns2.hellotvvod.com:9906/93ef06867a4046adb64caa364dbbd594.ts
-東森電影台,mitv://ns2.hellotvvod.com:9906/ce2ea81270ee4a6e89651848ccfae2b6.ts
-緯來電影台,mitv://ns2.hellotvvod.com:9906/745426b7051043cea8a2de0ca1fb712a.ts
-星衛HD電影台,mitv://ns2.hellotvvod.com:9906/885e1098abfe48b7a1534dd3e25d6a53.ts
 
 
-壹電視電影台,mitv://ns2.hellotvvod.com:9906/3aa125e8e3eb4a97ba424991bd156e66.ts
-衛視電影台,mitv://ns2.hellotvvod.com:9906/93ef06867a4046adb64caa364dbbd594.ts
-AMC最愛電影,mitv://ns2.hellotvvod.com:9906/2d4507b75d744358bee81c8d4a1726ff.ts
-CatchPlay電影台,mitv://ns2.hellotvvod.com:9906/69c43dbe5f6e4b589b23ae556e7df82b.ts
 
-東森洋片台,mitv://ns2.hellotvvod.com:9906/613bb4086874433fbedb17d589ac6d0a.ts
+東森電影,mitv://45.92.126.18:9906/62541ccb0008d232097eddd9e4082c99
 
-龍華電影,mitv://ns2.hellotvvod.com:9906/dfeb19161fc346349edb5a0c960edb34.ts
-龍祥電影,mitv://ns2.hellotvvod.com:9906/befd4695fe8c4c0ea2901707ee883ad9.ts
+衛視電影台,mitv://45.92.126.18:9906/6256bd0a000359ee097c8cd7ea2af582
+衛視電影台,mitv://45.92.126.18:9906/62613c0200051f95188982fec2ef3ed5
+衛視電影台,mitv://45.92.126.18:9906/6258d58f000430fa11ac54962a5c2d42
+衛視電影台,p2p://45.92.126.18:9906/6258d58f000430fa11ac54962a5c2d42
+衛視電影台,p2p://45.92.126.18:9906/6256bd0a000359ee097c8cd7ea2af582
+衛視電影台,p2p://45.92.126.18:9906/62613c0200051f95188982fec2ef3ed5
 
-美亞電影台(粵語),mitv://ns2.hellotvvod.com:9906/8de3c00361c7486a90a04541434c2dc6.ts
-美亞電影台HD,mitv://ns2.hellotvvod.com:9906/c77ed2e8a3ce41e69c281c3104a72992.ts
+星衛娛樂台,mitv://45.92.126.18:9906/6259b4eb0005f6251514d46a93c04eb3
+星衛娛樂台,p2p://45.92.126.18:9906/6259b4eb0005f6251514d46a93c04eb3
 
-壹電視電影台,mitv://ns2.hellotvvod.com:9906/3aa125e8e3eb4a97ba424991bd156e66.ts
-影迷數位電影台,mitv://ns2.hellotvvod.com:9906/35974441e26743cdb97d57736988b032.ts
+緯來電影,mitv://45.92.126.18:9906/625b8f93000ccb45025ff35db29f96fd
+緯來電影,p2p://45.92.126.18:9906/625b8f93000ccb45025ff35db29f96fd
+
+龍祥電影台,mitv://45.92.126.18:9906/62619be5000cf11a1a0013b604555db1
+龍祥電影台,p2p://45.92.126.18:9906/62619be5000cf11a1a0013b604555db1
+
+好萊塢電影,mitv://45.92.126.18:9906/6256bd25000a0a02097cf805932004af
+好萊塢電影,p2p://45.92.126.18:9906/6256bd25000a0a02097cf805932004af
+
+東森羊片,mitv://45.92.126.18:9906/62541d6200021780098129f8ea5d0f93
+
 
 
 
 ↓↓公司電話,#genre#
-成人點播頻道_0970117708,#genre#
+成人點播頻道_1314,#genre#
+
 土下座痴女OL,https://w9n76.cdnedge.live/file/avple-images/hls/62863f87ebf92063abd2f8b1/playlist.m3u8
 巨臀蛇腰洋妞女,https://w9n76.cdnedge.live/file/avple-images/hls/6286888bc63db223c78d4ca5/playlist.m3u8
 
@@ -220,31 +212,3 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 夜宿美女同事岬奈奈美家裡被沒穿胸罩,https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
 憧憬的女OL天使萌社員研修旅行,https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
-
-
-成人直播頻道_0970117708,#genre#
-
-香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
-惊艳电影台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-极彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
-极限电影台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
-彩虹电影台,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-松视1台,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
-松视2台,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视3台,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
-潘朵拉粉紅台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
-潘朵拉完美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-K,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
-HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
-HAPPY,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
-LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
-香草天道,mitv://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
-性愛教主,mitv://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
-做愛特教班,mitv://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
-奶奶按摩店,mitv://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
-AV女王,mitv://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
-人妻不倫,mitv://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
-水多多,mitv://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
-近親相姦,mitv://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
-彩虹通道,mitv://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
-做愛輸入,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e01100
