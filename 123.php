@@ -185,12 +185,10 @@ ELEVEN2,rtmp://59.124.75.150/sat/tv741
 
 成人點播頻道_1314,#genre#
 
-姐夫爆操老婆與小姨子,https://v.roucdn5.xyz/hls2/cl5n2h23d000212izzyrqai60/JsiXZ5h2ZqX/index.m3u8?auth=dnFHHVdxXyrXSjegw2HyfivOKKOL70YvQ-RiFqAgt_Q&exp=1658106000&v=6
-夏夜靡遺 失眠的解藥,https://v.roucdn5.xyz/hls2/cl5n45pfr012912izzo4d71e0/qkh9zjeyLuQ/index.m3u8?auth=VB7csFjp8LSA2OBTL_gwdHIC0iEE_l059bOOlIc__G8&exp=1658019600&v=6
-夏夜靡遺 海灘PARTY,https://v.roucdn5.xyz/hls2/cl5n4orn3017212iz8e3lgtuu/5lBoXWuGjxE/index.m3u8?auth=VB7csFjp8LSA2OBTL_gwdHIC0iEE_l059bOOlIc__G8&exp=1658019600&v=6
-爆操拜金的妹妹,https://v.roucdn5.xyz/hls2/cl5nbqpvj071912iz6j96cqmc/oQ3f4LSABnf/index.m3u8?auth=VB7csFjp8LSA2OBTL_gwdHIC0iEE_l059bOOlIc__G8&exp=1658019600&v=6
-性愛廚房,https://v.roucdn5.xyz/hls2/cl5nf4z96099812izotqzccjr/9I1tTg0UniF/index.m3u8?auth=VB7csFjp8LSA2OBTL_gwdHIC0iEE_l059bOOlIc__G8&exp=1658019600&v=6
-土下座痴女OL,https://w9n76.cdnedge.live/file/avple-images/hls/62863f87ebf92063abd2f8b1/playlist.m3u8
+誤吃春藥強上兒媳,https://t19.cdn2020.com/video/m3u8/2022/07/15/63ea9095/index.m3u8
+夏夜靡遗.海滩PARTY,https://t19.cdn2020.com/video/m3u8/2022/07/15/7391c8e4/index.m3u8
+失眠的解药,https://t19.cdn2020.com/video/m3u8/2022/07/15/f9b1d6c2/index.m3u8
+被義妹誘惑的我,https://video.bttbo.com/20220719/YTE0ZTc4YW/144735/1280/hls/encrypt/index.m3u8
 巨臀蛇腰洋妞女,https://w9n76.cdnedge.live/file/avple-images/hls/6286888bc63db223c78d4ca5/playlist.m3u8
 寂寞小姑,https://q2cyl7.cdnedge.live/file/avple-images/hls/62639218f191c17934f01da8/playlist.m3u8
 小姨子的誘惑,https://10j99.cdnedge.live/file/avple-images/hls/62639292f191c17934f01da9/playlist.m3u8
