@@ -121,7 +121,12 @@ TVBShttp://liuy.usa7.20212021.ga/ns.php?id=37
 
 東森幼幼,mitv://45.92.126.18:9906/62584f92000033490fa0ef49c819efa3
 東森幼幼,p2p://45.92.126.18:9906/62584f92000033490fa0ef49c819efa3
-
+蠟筆小新,http://zzy789.xyz/bili.php?id=10375360
+中華小當家,http://zzy789.xyz/bili.php?id=655291
+名偵探柯南,http://zzy789.xyz/bili.php?id=181453
+櫻桃小丸子,http://zzy789.xyz/bili.php?id=23242774
+貓和老鼠,http://zzy789.xyz/bili.php?id=25372516
+寶可夢,http://zzy789.xyz/bili.php?id=3747646
 CN卡通频道,mitv://45.92.126.18:9906/62584e2d00015cde0f9b7d0de69c85e4
 Boomerang卡通,mitv://45.92.126.18:9906/62584d670009313f0f98799e2354015b
 MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
@@ -161,6 +166,8 @@ ELEVEN2,rtmp://59.124.75.150/sat/tv741
 
 
 東森電影,mitv://45.92.126.18:9906/62541ccb0008d232097eddd9e4082c99
+東森電影,p2p://45.92.126.18:9906/62541ccb0008d232097eddd9e4082c99
+
 
 衛視電影台,mitv://45.92.126.18:9906/6256bd0a000359ee097c8cd7ea2af582
 衛視電影台,mitv://45.92.126.18:9906/62613c0200051f95188982fec2ef3ed5
@@ -183,12 +190,19 @@ ELEVEN2,rtmp://59.124.75.150/sat/tv741
 
 東森羊片,mitv://45.92.126.18:9906/62541d6200021780098129f8ea5d0f93
 
-成人點播頻道_1314,#genre#
 
-誤吃春藥強上兒媳,https://t19.cdn2020.com/video/m3u8/2022/07/15/63ea9095/index.m3u8
-夏夜靡遗.海滩PARTY,https://t19.cdn2020.com/video/m3u8/2022/07/15/7391c8e4/index.m3u8
-失眠的解药,https://t19.cdn2020.com/video/m3u8/2022/07/15/f9b1d6c2/index.m3u8
-被義妹誘惑的我,https://video.bttbo.com/20220719/YTE0ZTc4YW/144735/1280/hls/encrypt/index.m3u8
+
+
+
+成人點播頻道_1314,#genre#
+街頭搭訕酒後少女,https://t19.cdn2020.com/video/m3u8/2022/07/25/4aa05fbb/index.m3u8
+調戲遠距離上班中的姐姐,https://t19.cdn2020.com/video/m3u8/2022/07/25/089a18f3/index.m3u8
+姐夫爆操老婆與小姨子,https://v.roucdn5.xyz/hls2/cl5n2h23d000212izzyrqai60/JsiXZ5h2ZqX/index.m3u8?auth=dnFHHVdxXyrXSjegw2HyfivOKKOL70YvQ-RiFqAgt_Q&exp=1658106000&v=6
+夏夜靡遺 失眠的解藥,https://v.roucdn5.xyz/hls2/cl5n45pfr012912izzo4d71e0/qkh9zjeyLuQ/index.m3u8?auth=VB7csFjp8LSA2OBTL_gwdHIC0iEE_l059bOOlIc__G8&exp=1658019600&v=6
+夏夜靡遺 海灘PARTY,https://v.roucdn5.xyz/hls2/cl5n4orn3017212iz8e3lgtuu/5lBoXWuGjxE/index.m3u8?auth=VB7csFjp8LSA2OBTL_gwdHIC0iEE_l059bOOlIc__G8&exp=1658019600&v=6
+爆操拜金的妹妹,https://v.roucdn5.xyz/hls2/cl5nbqpvj071912iz6j96cqmc/oQ3f4LSABnf/index.m3u8?auth=VB7csFjp8LSA2OBTL_gwdHIC0iEE_l059bOOlIc__G8&exp=1658019600&v=6
+性愛廚房,https://v.roucdn5.xyz/hls2/cl5nf4z96099812izotqzccjr/9I1tTg0UniF/index.m3u8?auth=VB7csFjp8LSA2OBTL_gwdHIC0iEE_l059bOOlIc__G8&exp=1658019600&v=6
+土下座痴女OL,https://w9n76.cdnedge.live/file/avple-images/hls/62863f87ebf92063abd2f8b1/playlist.m3u8
 巨臀蛇腰洋妞女,https://w9n76.cdnedge.live/file/avple-images/hls/6286888bc63db223c78d4ca5/playlist.m3u8
 寂寞小姑,https://q2cyl7.cdnedge.live/file/avple-images/hls/62639218f191c17934f01da8/playlist.m3u8
 小姨子的誘惑,https://10j99.cdnedge.live/file/avple-images/hls/62639292f191c17934f01da9/playlist.m3u8
@@ -237,3 +251,12 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 夜宿美女同事岬奈奈美家裡被沒穿胸罩,https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
 憧憬的女OL天使萌社員研修旅行,https://47b61.cdnedge.live/file/avple-images/hls/4922/4922.m3u8
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
+
+真人線上直播_1314,#genre#
+V_Vicky,chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://b-hls-19.doppiocdn.com/hls/63698866/63698866.m3u8
+CNmode,https://b-hls-12.doppiocdn.com/hls/74768272/74768272_720p.m3u8
+SweetyLindy_,https://b-hls-01.doppiocdn.com/hls/81120460/81120460.m3u8
+AkiShina,https://b-hls-02.doppiocdn.com/hls/4268079/4268079.m3u8
+ke1e,https://b-hls-09.doppiocdn.com/hls/72830300/72830300.m3u8
+JudyFree,https://b-hls-16.doppiocdn.com/hls/75130636/75130636_720p.m3u8
+LK_xiaofei,https://b-hls-01.doppiocdn.com/hls/79193652/79193652_720p.m3u8
