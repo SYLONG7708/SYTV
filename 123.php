@@ -122,11 +122,6 @@ TVBShttp://liuy.usa7.20212021.ga/ns.php?id=37
 東森幼幼,mitv://45.92.126.18:9906/62584f92000033490fa0ef49c819efa3
 東森幼幼,p2p://45.92.126.18:9906/62584f92000033490fa0ef49c819efa3
 蠟筆小新,http://zzy789.xyz/bili.php?id=10375360
-中華小當家,http://zzy789.xyz/bili.php?id=655291
-名偵探柯南,http://zzy789.xyz/bili.php?id=181453
-櫻桃小丸子,http://zzy789.xyz/bili.php?id=23242774
-貓和老鼠,http://zzy789.xyz/bili.php?id=25372516
-寶可夢,http://zzy789.xyz/bili.php?id=3747646
 CN卡通频道,mitv://45.92.126.18:9906/62584e2d00015cde0f9b7d0de69c85e4
 Boomerang卡通,mitv://45.92.126.18:9906/62584d670009313f0f98799e2354015b
 MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
