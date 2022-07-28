@@ -248,7 +248,7 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
 
 真人線上直播_1314,#genre#
-V_Vicky,html#https://b-hls-19.doppiocdn.com/hls/63698866/63698866.m3u8
+https://b-hls-19.doppiocdn.com/hls/63698866/63698866.m3u8
 CNmode,https://b-hls-12.doppiocdn.com/hls/74768272/74768272_720p.m3u8
 SweetyLindy_,https://b-hls-01.doppiocdn.com/hls/81120460/81120460.m3u8
 AkiShina,https://b-hls-02.doppiocdn.com/hls/4268079/4268079.m3u8
