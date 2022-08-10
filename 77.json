@@ -1,5 +1,5 @@
 {
-  "spider":"https://github.com/SYLONG7708/SYTV/blob/1e655182b0ed67d6530259190e07574afe886a8d/sp0701%20(2).dylib",
+  "spider":"https://github.com/SYLONG7708/SYTV/blob/0deb154dca9bc480ce8607fbb13e9e6f88c0dc56/123.php",
   "sites":[
     {"key":"csp_kunyu77","name":"鲲娱77[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_360","name":"360影视[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
