@@ -302,6 +302,26 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 公公的特別照顧-陳若瑤,https://10j99.cdnedge.live/file/avple-images/hls/60df0ff9e982005101367fcb/playlist.m3u8
 
 真人線上直播_1314,#genre#
+白天,
+Fcup_KEER,https://b-hls-04.doppiocdn.com/hls/79054191/79054191.m3u8
+
+Sexy__Top,https://b-hls-03.doppiocdn.com/hls/73412697/73412697_160p.m3u8
+
+Judy0523,https://b-hls-21.doppiocdn.com/hls/68025190/68025190_160p.m3u8
+
+GeGe_yyds,https://b-hls-19.doppiocdn.com/hls/79992438/79992438_160p.m3u8
+
+HelenDrew,https://b-hls-03.doppiocdn.com/hls/56845617/56845617_160p.m3u8
+
+Faye---,https://b-hls-19.doppiocdn.com/hls/85708671/85708671_160p.m3u8
+
+XUEER_0,https://b-hls-17.doppiocdn.com/hls/78136647/78136647_160p.m3u8
+
+wang1122334,https://b-hls-05.doppiocdn.com/hls/80588572/80588572.m3u8
+
+JennaMason,https://b-hls-21.doppiocdn.com/hls/73902910/73902910_160p.m3u8
+
+傍晚,
 V_Vicky,chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://b-hls-19.doppiocdn.com/hls/63698866/63698866.m3u8
 CNmode,https://b-hls-12.doppiocdn.com/hls/74768272/74768272_720p.m3u8
 SweetyLindy_,https://b-hls-01.doppiocdn.com/hls/81120460/81120460.m3u8
