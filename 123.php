@@ -1,10 +1,12 @@
-台灣,#genre#
 
+音樂電台,#genre#
 網路流行音樂電台,https://git.io/JgkA6
 西洋流行音樂電台,https://git.io/JgkAy
+2022華語流行歌曲,https://git.io/JgYR5
+The K-POP,https://git.io/JgYAE
 
 
-
+台灣,#genre#
 民視,rtmp://59.124.75.138/sat/tv051
 民視,rtmp://59.124.75.138:1935/sat/tv051
 
@@ -32,7 +34,7 @@
 民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
 
 
-
+三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立台灣台,mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc
 三立台灣台,http://iptv.everydaytv.top/taiwanlive.php?id=20
 三立台灣台,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623
@@ -101,9 +103,12 @@ TVBS歡樂,rtmp://59.124.75.138/sat/tv421
 
 華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 
+
+中視新聞,https://git.io/Jgkxz
 中視新聞,mitv://fccs.word-tv.com:9906/626928b800072a99037611dc7cf5b636
 
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+
 
 
 台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
@@ -111,7 +116,11 @@ TVBS歡樂,rtmp://59.124.75.138/sat/tv421
 中天新聞,mitv://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 
+
+
 三立新聞,http://iptv.everydaytv.top/taiwanlive.php?id=41
+
+三立inews新聞,https://git.io/Jgkxj
 
 
 
@@ -152,12 +161,13 @@ BOOMERANG,https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5
 CN卡通,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
 CN卡通,p2p://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
 
+
 MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 MOMO親子台,p2p://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 MOMO親子台,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
 東森幼幼,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
-東森幼幼台,p2p://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
+東森幼幼,p2p://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
 東森幼幼,http://iptv.everydaytv.top/taiwanlive.php?id=15
 
 
