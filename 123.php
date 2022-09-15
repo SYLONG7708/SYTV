@@ -33,7 +33,7 @@ The K-POP,https://git.io/JgYAE
 
 三立都會,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
 三立都會,p2p://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
-三立都會台,P2p://ns2.hellotvvod.com:9906/75d92f9df62e4c268f4d28bed2aa9d2e
+三立都會,P2p://ns2.hellotvvod.com:9906/75d92f9df62e4c268f4d28bed2aa9d2e
 
 
 
