@@ -19,11 +19,8 @@ The K-POP,https://git.io/JgYAE
 中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
 
 華視,rtmp://59.124.75.150/sat/tv111
-華視,rtmp://59.124.75.150/sat/tv112
-華視,,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
 
-
-公視,http://iptv.everydaytv.top/taiwanlive.php?id=5
+公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
 
 
 民視臺灣,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
@@ -32,65 +29,43 @@ The K-POP,https://git.io/JgYAE
 民視第一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
 民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
 
-
-三立台灣台,http://pili-live-hdl.qhmywl.com/dsdtv/e71635b53bb874a085b2a469802bbc81.flv
-三立台灣台,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立台灣台,http://61.222.202.191:80/live/yzyh.php?id=38
-三立台灣台,mitv://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc
-三立台灣台,http://iptv.everydaytv.top/taiwanlive.php?id=20
 三立台灣台,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623
 
-三立都會台,http://pili-live-hdl.qhmywl.com/dsdtv/4abe46a5faf4865e251ac981287a6e20.flv
-三立都會台,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
-三立都會台,http://iptv.everydaytv.top/taiwanlive.php?id=21
-三立都會台,http://iptv12k.com:35461/live/80301070602/456776/1287.m3u8
-三立都會台,mitv://45.92.126.18:9906/62585240000566d20fab684d64808ca0
+三立都會,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
+三立都會,p2p://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
+三立都會台,P2p://ns2.hellotvvod.com:9906/75d92f9df62e4c268f4d28bed2aa9d2e
 
 
-八大第一,http://pili-live-hdl.qhmywl.com/dsdtv/5e147a8d04ab43725d40e72fd7169952.flv
-八大第一,mitv://fccs.word-tv.com:9906/6258517d000953940fa86f978caa56ae
 
-八大第一,mitv://fccs.word-tv.com:9906/6258517d000953940fa86f978caa56ae
-八大第一,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8#http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+八大第一,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 
-八大綜合,http://pili-live-hdl.qhmywl.com/dsdtv/a26d25ad9eaabca42fa6d526199d61e5.flv
+
 八大綜合,http://61.219.170.95:18517/.m3u8
 八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
-八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae#http://59.125.122.90:18517/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
-八大綜合,http://59.125.122.90:18517/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18517/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
 
-八大戲劇,http://pili-live-hdl.qhmywl.com/dsdtv/6d7d7a9c22ba9aa4e411e3f7567763d8.flv
-八大戲劇,mitv://fccs.word-tv.com:9906/6258594f0004c9c40fc6fabdb0e81edf
-八大戲劇,mitv://45.92.126.18:9906/6258594f0004c9c40fc6fabdb0e81edf
-八大戲劇,mitv://fccs.word-tv.com:9906/6258594f0004c9c40fc6fabdb0e81edf
 
-八大娛樂,http://pili-live-hdl.qhmywl.com/dsdtv/31c5b2c0fa7ac37b2e1447befb076d08.flv
-八大娛樂,mitv://fccs.word-tv.com:9906/6258e45a000845a611e61e9a50bc5e3e
-八大娛樂,mitv://45.92.126.18:9906/6258e45a000845a611e61e9a50bc5e3e
+衛視中文,http://59.125.122.90:18522/.m3u8
+衛視中文,http://60.251.33.252:18522/.m3u8
 
-衛視中文台,http://pili-live-hdl.qhmywl.com/dsdtv/a08a123b4af3aebb4e19b82f64952c9e.flv
-衛視中文台,mitv://fccs.word-tv.com:9906/625853fa000f1f080fb2295a047a36dc
-衛視中文台,http://z4.ubtvfans.com/live/342/24f09c1d64fc007bcf4377496b5bb64e/index.m3u8
-
-TVBS歡樂,http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv
 TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
 TVBS歡樂,rtmp://59.124.75.138/sat/tv421
 
-龍華洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
-龍華經典,mitv://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563
 
+愛爾達影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 
-龍華影劇,mitv://fccs.word-tv.com:9906/6260e4fc0003a35a1735932d66a9b4e5
+龍華偶像,http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
+龍華偶像,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+龍華偶像,http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+龍華偶像,http://59.125.122.90:18573/.m3u8
 
-龍華洋片,mitv://45.92.126.18:9906/62613bc2000a344018888a4b2452f6fd
-龍華經典,mitv://45.92.126.18:9906/62618a40000060f919bb23f73fed9563
+龍華日韓,http://60.251.33.252:18551/.m3u8
+龍華日韓,http://59.125.122.90:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+龍華日韓,http://59.125.122.90:18508/.m3u8
+龍華日韓,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 
-
-龍華洋片,mitv://45.92.126.18:9906/62613bc2000a344018888a4b2452f6fd
-龍華經典,mitv://45.92.126.18:9906/62618a40000060f919bb23f73fed9563
-龍華戲劇,mitv://45.92.126.18:9906/6260e4c0000811ed1734a9ef0f8923c2
-
+龍華戲劇,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
+龍華戲劇,http://60.251.33.252:18513/.m3u8
 
 
 
@@ -100,7 +75,7 @@ TVBS歡樂,rtmp://59.124.75.138/sat/tv421
 
 台灣新聞,#genre#
 
-民視新聞,mitv://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
+
 民視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 
 
@@ -108,20 +83,15 @@ TVBS歡樂,rtmp://59.124.75.138/sat/tv421
 
 
 中視新聞,https://git.io/Jgkxz
-中視新聞,mitv://fccs.word-tv.com:9906/626928b800072a99037611dc7cf5b636
-
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
 
 
 台視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 
-中天新聞,mitv://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 
-
-
-三立新聞,http://iptv.everydaytv.top/taiwanlive.php?id=41
+三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 
 三立inews新聞,https://git.io/Jgkxj
 
@@ -130,17 +100,13 @@ TVBS歡樂,rtmp://59.124.75.138/sat/tv421
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 
 
-年代新聞,mitv://fccs.word-tv.com:9906/62540c45000225da093e50b45b457d41
-
 TVBS新聞,rtmp://59.124.75.138:1935/sat/tv551
 TVBS新聞,rtmp://59.124.75.150/sat/tv551
 TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 
-壹新聞,mitv://fccs.word-tv.com:9906/62541b7c0007f8c30979c109c2ede6a3
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-
 
 寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 
@@ -148,60 +114,36 @@ TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072
 
 台灣動畫,#genre#
 
+ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 
-Baby TV,http://iptv.everydaytv.top/taiwanlive.php?id=14
+Baby TV,http://218.32.47.179:18514/.m3u8
+Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
 
-
-
-
-
-
-
-BOOMERANG,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
-BOOMERANG,p2p://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
 BOOMERANG,https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 
 
-CN卡通,http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv
-CN卡通,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
-CN卡通,p2p://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
+CN卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
 
-MOMO親子台,http://pili-live-hdl.qhmywl.com/dsdtv/0c795e6e7f8e067dd4110a57375a71b9.flv
 MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-MOMO親子台,p2p://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
-MOMO親子台,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
-東森幼幼,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
-東森幼幼,p2p://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
-東森幼幼,http://iptv.everydaytv.top/taiwanlive.php?id=15
+東森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 
-
-龍華卡通台,http://iptv.everydaytv.top/taiwanlive.php?id=16
-
-小真與彩虹王國,https://ytb.arp220.us/jmsytb.m3u8?c=17
 
 蠟筆小新,http://zzy789.xyz/bili.php?id=10375360
 
 海綿寶寶,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
 
-貓和老鼠,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 
 成龍歷險記,http://txtest-xp2p.p2p.huya.com/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
 
-路飛海盜,http://txtest-xp2p.p2p.huya.com/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
 
 中華小當家,http://txtest-xp2p.p2p.huya.com/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.xs
+
 小品,http://txtest-xp2p.p2p.huya.com/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
 
-中華小當家,http://epg.112114.xyz/huya/11342413#https://live.52sf.ga/huya/11342413
+中華小當家,http://epg.112114.xyz/huya/11342413
 
 貓和老鼠,http://epg.112114.xyz/huya/11352879#https://live.52sf.ga/huya/11352879
-貓和老鼠1,http://ye23.win/iptv/bilibili.php?id=23146213
-
-四驅兄弟,http://epg.112114.xyz/huya/11352922#https://live.52sf.ga/huya/11352922
-
-蠟筆小新,http://epg.112114.xyz/huya/11352970#https://live.52sf.ga/huya/11352970
-
 
 
 體育直播,#genre#
@@ -210,65 +152,50 @@ MOMO親子台,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 緯來體育,rtmp://59.124.75.138:1935/sat/tv721
 
 ELEVEN1,rtmp://59.124.75.150/sat/tv731
-ELEVEN1,rtmp://59.124.75.138/sat/md041
 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
 ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN1,rtmp://59.124.75.138/sat/tv741
-ELEVEN1,rtmp://59.124.75.138/sat/md021
 
-ELEVEN2,rtmp://59.124.75.138/sat/md021
+ELEVEN2,rtmp://59.124.75.138/sat/tv741
 
+ELTA體育2,rtmp://59.124.75.138/sat/md011
+
+博斯網球,rtmp://59.124.75.138/sat/md021
+博斯魅力,rtmp://59.124.75.138/sat/md041
 博斯網球,rtmp://59.124.75.150/sat/md031
 
-ELTA體育1,rtmp://59.124.75.138/sat/md051
-ELTA體育2,rtmp://59.124.75.138/sat/md011
-ELTA體育3,rtmp://59.124.75.138/sat/md041
+
+
 
 
 電影,#genre#
 
-
-衛視電影,http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
-衛視電影,http://iptv.everydaytv.top/taiwanlive.php?id=49
-衛視電影,http://61.219.170.95:18529/.m3u8#http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-衛視電影,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8#http://59.125.122.90:18529/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18529/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18529/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
+衛視電影,http://59.125.122.90:18529/.m3u8
 衛視電影,http://61.219.170.95:18529/.m3u8
+衛視電影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 衛視電影,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-衛視電影,http://59.125.122.90:18529/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18529/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
+衛視電影,http://59.125.122.90:18529/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
+衛視電影,http://59.125.122.90:18529/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
 
-東森電影,http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
-東森電影,http://120.84.96.221:808/hls/32/index.m3u8
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-東森電影,p2p://54.39.16.152:9906/62541ccb0008d232097eddd9e4082c99
 
-緯來電影,http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
-緯來電影,p2p://54.39.16.152:9906/625b8f93000ccb45025ff35db29f96fd
-緯來電影,http://iptv.everydaytv.top/taiwanlive.php?id=51
-緯來電影,http://iptv.everydaytv.top/taiwanlive.php?id=52
+東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
+東森電影,http://120.84.96.69:808/hls/32/index.m3u8
 
-龍祥時代,http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
-龍祥時代,http://120.84.96.221:808/hls/35/index.m3u8
+
+
+緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
+緯來電影,http://60.251.59.180:8537/http/60.251.39.91:8081/hls/69/811/ch35.m3u8
+
+
 龍祥時代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-龍祥時代,p2p://54.39.16.152:9906/62619be5000cf11a1a0013b604555db1
-龍祥時代,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+龍翔時代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 
-好萊塢電影,http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
+
 好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-好萊塢電影,http://iptv.everydaytv.top/taiwanlive.php?id=50
 
-
-星衛HD電影,http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
-星衛HD電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-星衛HD電影,p2p://54.39.16.152:9906/62613c0200051f95188982fec2ef3ed5
+星衛HD電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb#http://data.3g.yy.com/live/hls/29900720/29900720#http://data.3g.yy.com/live/hls/29900720/29900720
 
 
 東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
-
-衛視電影,p2p://fccs.word-tv.com:9906/6256bd0a000359ee097c8cd7ea2af582	
-龍祥電影,p2p://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1	
-東森電影,p2p://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
-緯來電影,p2p://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
-
 
 
 成人點播頻道_1314,#genre#
