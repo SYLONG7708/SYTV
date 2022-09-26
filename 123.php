@@ -131,6 +131,8 @@ CN卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb69167873
 
 MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 
+
+東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 東森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 
 
@@ -154,16 +156,16 @@ MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 體育直播,#genre#
 
 緯來體育,rtmp://59.124.75.138/sat/tv721
-緯來體育,rtmp://59.124.75.138:1935/sat/tv721
+緯來體育,rtmp://59.124.75.150/sat/tv721
 
 
-
-
-ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN1,rtmp://59.124.75.150/sat/tv731
 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
 ELEVEN1,rtmp://59.124.75.138/sat/tv731
+ELEVEN1,rtmp://59.124.75.150/sat/tv731
+ELEVEN1,rtmp://59.124.75.138/sat/tv731
 
+
+ELEVEN2,rtmp://59.124.75.150/sat/tv741
 ELEVEN2,rtmp://59.124.75.138/sat/tv741
 
 
