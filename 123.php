@@ -34,23 +34,25 @@ The K-POP,https://git.io/JgYAE
 民視第一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
 民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
 
-三立台灣台,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20623
 
-三立都會,mitv://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
-三立都會,p2p://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
-三立都會,P2p://ns2.hellotvvod.com:9906/75d92f9df62e4c268f4d28bed2aa9d2e
+三立台灣,mitv://ns1.hellotvvod.com:9906/eee1ccef6c7640eb8425a79922f01130
 
+三立都會,mitv://ns1.hellotvvod.com:9906/d03bbc7d90054cefbc582ad12b0892e5
 
 
-八大第一,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8078/hls/24/80/ch04.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/68/810/ch01.m3u8#http://59.125.122.90:18539/http/192.168.1.9:8081/hls/76/818/ch08.m3u8#http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+八大第一,mitv://ns1.hellotvvod.com:9906/062cfd1d662c4c568ac777badc14c9b3
 
-
-八大綜合,http://61.219.170.95:18517/.m3u8
 八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 
+八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a
+八大戲劇,mitv://ns1.hellotvvod.com:9906/5c9ac864d42e4b9cbe8a19b5d03a033f
+八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
+八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 
-衛視中文,http://59.125.122.90:18522/.m3u8
-衛視中文,http://60.251.33.252:18522/.m3u8
+衛視中文,http://z4.ubtvfans.com/live/342/24f09c1d64fc007bcf4377496b5bb64e/index.m3u8
+
 
 TVBS歡樂,rtmp://59.124.75.138/sat/tv421
 TVBS歡樂,rtmp://59.124.75.150/sat/tv421
@@ -70,8 +72,7 @@ MOMO綜合,rtmp://59.124.75.138/sat/tv761
 龍華日韓,http://59.125.122.90:18508/.m3u8
 龍華日韓,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 
-龍華戲劇,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龍華戲劇,http://60.251.33.252:18513/.m3u8
+龍華戲劇,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 
 
 
@@ -181,6 +182,18 @@ ELTA體育2,rtmp://59.124.75.138/sat/md011
 
 電影,#genre#
 
+
+
+
+衛視電影,http://23.237.10.66:16010
+
+
+衛視電影,mitv://ns1.hellotvvod.com:9906/957901fc9a254dbb91227829d9b995c7
+東森電影,mitv://ns1.hellotvvod.com:9906/94095045274045e1a0d3a328148381f2
+緯來電影,mitv://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
+龍祥電影,mitv://ns1.hellotvvod.com:9906/85ea4346fcd441d99a3f06bbe0491f62
+
+
 衛視電影,http://59.125.122.90:18529/.m3u8
 衛視電影,http://61.219.170.95:18529/.m3u8
 衛視電影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
@@ -201,13 +214,58 @@ ELTA體育2,rtmp://59.124.75.138/sat/md011
 龍祥時代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 龍翔時代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 
+美亞電影,mitv://ns1.hellotvvod.com:9906/5bcc6ad3465c48d2b9ca0fee348095fc
+
+龍華電影,mitv://ns1.hellotvvod.com:9906/5eae0178be844ea9b1df4e8764bb9fd9
+
+星衛HD電影,mitv://ns1.hellotvvod.com:9906/954d7884e53743c1b086dabec700f77f
+
+
+
+
+AMC最爱電影,mitv://ns1.hellotvvod.com:9906/e09586d5be6844b1844aad833297dd40
+
+AMC最爱電影,P2p://ns1.hellotvvod.com:9906/e09586d5be6844b1844aad833297dd40
+
+好萊塢電影,mitv://ns1.hellotvvod.com:9906/fd41404f169f4a41886551ca8fc022cc
 
 好萊塢電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 
 星衛HD電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb#http://data.3g.yy.com/live/hls/29900720/29900720#http://data.3g.yy.com/live/hls/29900720/29900720
 
-
 東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+
+
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+好莱坞電影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+東森電影,http://120.84.96.55:808/hls/32/index.m3u8?blog.ntnas.top
+
+
+東森電影,http://120.84.96.69:808/hls/32/index.m3u8
+
+
+衛視電影,P2p://ns1.hellotvvod.com:9906/957901fc9a254dbb91227829d9b995c7
+衛視電影,P2p://ns1.hellotvvod.com:9906/8d22d953e4184dbfb3753b093f401769
+
+
+
+東森電影,P2p://ns1.hellotvvod.com:9906/94095045274045e1a0d3a328148381f2
+
+緯來電影,P2p://ns1.hellotvvod.com:9906/c0229f009c174dacaf08710fe71ce2ca
+
+龍祥電影,P2p://ns1.hellotvvod.com:9906/85ea4346fcd441d99a3f06bbe0491f62
+
+好莱坞電影,P2p://ns1.hellotvvod.com:9906/fd41404f169f4a41886551ca8fc022cc
+
+美亞電影,P2p://ns1.hellotvvod.com:9906/5bcc6ad3465c48d2b9ca0fee348095fc
+
+龍華電影,P2p://ns1.hellotvvod.com:9906/5eae0178be844ea9b1df4e8764bb9fd9
+
+星衛HD電影,P2p://ns1.hellotvvod.com:9906/954d7884e53743c1b086dabec700f77f
+
+
+
 
 
 成人點播頻道_1314,#genre#
