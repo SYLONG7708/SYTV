@@ -1,6 +1,6 @@
 音樂電台,#genre#
 
-華語流行歌曲,https://git.io/JgYR5
+2021華語流行歌曲,https://git.io/JgYR5
 Jay(周杰倫)電台,https://epg.pm/stream/116269fe493f5a5dd8510d3ddcfc3c18e6ddda8c93f76f16f6e5bbd9ab6b8981.php
 The K-POP,https://git.io/JgYAE
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8#https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
@@ -348,7 +348,24 @@ JennaMason,https://b-hls-21.doppiocdn.com/hls/73902910/73902910_160p.m3u8
 
 傍晚,
 
-Sexy_Agent,chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://b-hls-12.doppiocdn.com/hls/89518469/89518469.m3u8
+Sexy_Agent,https://b-hls-12.doppiocdn.com/hls/89518469/89518469.m3u8
+
+
+Cute_Top,https://b-hls-16.doppiocdn.com/hls/73770510/73770510.m3u8
+
+Rose_Top,https://b-hls-17.doppiocdn.com/hls/80753916/80753916_720p.m3u8
+
+Higher_Shoes,https://b-hls-17.doppiocdn.com/hls/91125157/91125157.m3u8
+
+
+melia_Z,https://b-hls-09.doppiocdn.com/hls/50938840/50938840.m3u8
+
+sophy2000,https://b-hls-07.doppiocdn.com/hls/92115441/92115441.m3u8
+
+Ranking_Dessert,https://b-hls-20.doppiocdn.com/hls/89229755/89229755.m3u8
+
+
+AnnaWel,https://b-hls-19.doppiocdn.com/hls/75923753/75923753_720p.m3u8
 
 mloveyyes,https://b-hls-07.doppiocdn.com/hls/88996917/88996917_720p.m3u8
 
