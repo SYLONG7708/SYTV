@@ -11,25 +11,26 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 台視,http://60.251.33.252:18543/.m3u8#http://60.251.33.252:18543/.m3u8#http://60.251.33.252:18543/.m3u8#http://60.251.33.252:18543/.m3u8
 台視,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 
-中視,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+中視,mitv://ns1.hellotvvod.com:9906/3c1df623c14b4c00b88485424734df34
 
-華視,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
+華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
 公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
 
 
-民視臺灣,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-
+民視臺灣,
 
 民視第一,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
 
-
 三立台灣,http://218.32.47.179:18521/.m3u8
+三立台灣,mitv://ns1.hellotvvod.com:9906/634f7f9f00050a98505ec3b869cf191d
 三立台灣,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 三立台灣,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 
-三立戲劇,http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
 
+三立台灣,mitv://ns1.hellotvvod.com:9906/57799752b172412ba1f9dc9274e3fd51
+
+三立戲劇,mitv://ns1.hellotvvod.com:9906/2b5209100e034b9e8d73163b0a0523a1
 
 八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 
@@ -41,6 +42,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 
 中天娛樂,http://218.32.47.179:18527/.m3u8
+
 衛視中文台,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
 
 
@@ -70,11 +72,10 @@ TVBS歡樂,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409
 
 台灣新聞,#genre#
 
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
 
 
-
-台視新聞,http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
 中視新聞,https://git.io/Jgkxz
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
@@ -98,8 +99,8 @@ TVBS歡樂,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409
 東森新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 
-TVBS HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs5636099579.m3u8
-TVBS HD,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#https://git.io/JgYl2
+
 
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -111,13 +112,12 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
 
-東森財經新聞,
 
 台灣動畫,#genre#
 
 Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
 
-CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e#http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 
 DAVE卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 卡通台1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
@@ -128,6 +128,8 @@ DAVE卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 MOMO親子台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 
+蠟筆小新,http://zzy789.xyz/bili.php?id=10375360#http://zzy789.xyz/bili.php?id=1895574#https://epg.112114.xyz/huya/11352970#http://zzy789.xyz/bili.php?id=1895574#https://epg.112114.xyz/huya/11352970
+
 東森幼幼,https://git.io/JgYON#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 東森幼幼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
@@ -135,54 +137,64 @@ MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 
 小豬佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 中二日本搞笑日常,http://epg.112114.xyz/douyu/9505575
-中華小畫家,http://txtest-xp2p.p2p.huya.com/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.xs
-反轉星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-犬夜叉,http://epg.112114.xyz/douyu/7422897
 名偵探柯南,http://epg.112114.xyz/douyu/5377297#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
 名偵探柯南日語中字,http://epg.112114.xyz/douyu/7050342
 名偵探柯南劇場版,http://epg.112114.xyz/douyu/1783144
+
 成龍歷險記,http://tc-tct.douyucdn2.cn/dyliveflv3a/7134757rabxM8lAW.flv?wsAuth=1ef91fd5d5ec4214df7d56cb6b54d0dd&token=cpn-androidmpro-0-7134757-bbf1f7fa7a6797048ce542a6afb52b01e380bd7dd32cae6c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4#http://txtest-xp2p.p2p.huya.com/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs#http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs#https://epg.112114.xyz/huya/11352946#http://txtest-xp2p.p2p.huya.com/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs#http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs#https://epg.112114.xyz/huya/11352946
 兒童樂園,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
 玩具樂園,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
 親子啟蒙,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
-蠟筆小新,http://zzy789.xyz/bili.php?id=10375360#http://zzy789.xyz/bili.php?id=1895574#https://epg.112114.xyz/huya/11352970#http://zzy789.xyz/bili.php?id=1895574#https://epg.112114.xyz/huya/11352970
 
 
 體育直播,#genre#
 
+緯來體育,mitv://ns1.hellotvvod.com:9906/4bc39109c2c84c80919476b59d165193
 緯來體育,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 
-愛爾達體育1,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-愛爾達體育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+
+愛爾達體育1,mitv://ns1.hellotvvod.com:9906/f21665e293284ce782f0e184a90cd811
+愛爾達體育2,mitv://ns1.hellotvvod.com:9906/365a920cde454b68832ef3f011dfe90d
+愛爾達體育3,mitv://ns1.hellotvvod.com:9906/bafe99ff20e745faaf32a98a1a7ad699
 
 
+ELEVEN體育1臺,mitv://ns1.hellotvvod.com:9906/cd9f82215843429ca555533e10a6acd5
 
-ELEVEN 1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-
-ELEVEN 2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-
-ELEVEN 3,http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-
-
-博斯運動1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
+ELEVEN體育2臺,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
 
 
 電影,#genre#
 
+衛視電影,mitv://ns1.hellotvvod.com:9906/ec497236a5dc4e9ea9e4144064397494
+東森電影,mitv://ns1.hellotvvod.com:9906/93cdc6bd6ea94f0092fd5251dffdfb32
+緯來電影,mitv://ns1.hellotvvod.com:9906/1f835fcb15d445c994eabc8efe040464
+龍祥電影,mitv://ns1.hellotvvod.com:9906/ba44fa46b58a4bcc8980de83285ddb18
+
+
+
+衛視電影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b#http://120.84.96.78:808/hls/32/index.m3u8#http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313#http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
+
+
+
 緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 
-龍祥时代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-龍祥時代,http://120.84.96.55:808/hls/35/index.m3u8
+龍祥電影,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 
+星衛電影,mitv://ns1.hellotvvod.com:9906/6fbc9c9dbde540fab85bfb9380102b8b
 星衛電影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
 
 
-HBO,http://220.134.196.147:9557/http/116.50.42.18:8081/hls/71/813/ch41.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+美亞電影臺HD,mitv://ns1.hellotvvod.com:9906/416b0c801a1b44308a5b4012890e532c
+龍華電影,mitv://ns1.hellotvvod.com:9906/1e1786a0045d4ce5bddeae9260043a70
 
-東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+
+HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4#https://epg.pm/stream/f66dccf66c1c9799e624b686bcab696e65007b500d1bae5d47fce5850d3d6f99.m3u8
+
 
 遊戲電競直播,#genre#
 數碼時代,https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
@@ -205,6 +217,64 @@ CSGO袋鼠杯邀請賽,http://tc-tct.douyucdn2.cn/dyliveflv1a/668668rKGc0VsmNo.f
 
 
 成人點播頻道_1314,#genre#
+
+肉食女神的旅拍淫記高梨遙香,https//ss.rongliren.com/api/video/m3u8?id=12863&admin=1
+網紅中國零食初體驗小林紗織,https//ss.rongliren.com/api/video/m3u8?id=12829&admin=1
+深夜約嫖美腿車模葉柔,https//ss.rongliren.com/api/video/m3u8?id=12822&admin=1
+元旦嘉年華_美竹玲美櫻,https//ss.rongliren.com/api/video/m3u8?id=12818&admin=1
+JK女租客蕭悅兒,https//ss.rongliren.com/api/video/m3u8?id=12813&admin=1
+鄰居女網紅雲朵,https//ss.rongliren.com/api/video/m3u8?id=11851&admin=1
+女友閨蜜是我的狗奴林洋,https//ss.rongliren.com/api/video/m3u8?id=11823&admin=1
+黑絲巨乳淫肉BODY夕海,https//ss.rongliren.com/api/video/m3u8?id=11814&admin=1
+我的姐姐不可能這麽淫蕩小林杏,https//ss.rongliren.com/api/video/m3u8?id=11742&admin=1
+女體肉粽小藝,https//ss.rongliren.com/api/video/m3u8?id=11732&admin=1
+私人玩物3高梨遙香,https//ss.rongliren.com/api/video/m3u8?id=11714&admin=1
+私人玩物4終章高梨遙香,https//ss.rongliren.com/api/video/m3u8?id=10922&admin=1
+女體肉粽小藝,https//ss.rongliren.com/api/video/m3u8?id=10921&admin=1
+別樣的健身操茉莉 白英,https//ss.rongliren.com/api/video/m3u8?id=10920&admin=1
+淫欲女家政李小螢,https//ss.rongliren.com/api/video/m3u8?id=10909&admin=1
+綁匪美人計陶杏兒,https//ss.rongliren.com/api/video/m3u8?id=10908&admin=1
+尾隨脅迫強插雙馬尾少女林洋,https//ss.rongliren.com/api/video/m3u8?id=10907&admin=1
+都是疫情惹的禍茉莉 王玥,https//ss.rongliren.com/api/video/m3u8?id=10906&admin=1
+我的姐姐不可能那麽淫蕩2小林杏,https//ss.rongliren.com/api/video/m3u8?id=10516&admin=1
+我的姐姐不可能這麽淫蕩2小林杏,https//ss.rongliren.com/api/video/m3u8?id=10905&admin=1
+我的姐姐不可能這麽淫蕩1小林杏,https//ss.rongliren.com/api/video/m3u8?id=10904&admin=1
+私人玩物3高梨遙香,https//ss.rongliren.com/api/video/m3u8?id=10903&admin=1
+私人玩物海邊露出連續高潮高梨遙香,https//ss.rongliren.com/api/video/m3u8?id=10583&admin=1
+空姐的兼職空姐模特入賊船蕭薔,https//ss.rongliren.com/api/video/m3u8?id=10581&admin=1
+我的姐姐不可能這麽淫蕩,https//ss.rongliren.com/api/video/m3u8?id=10579&admin=1
+性生活本來就沒有自不自私苡若,https//ss.rongliren.com/api/video/m3u8?id=10564&admin=1
+我們這個年紀有性卻沒有未來蘇亦昕,https//ss.rongliren.com/api/video/m3u8?id=10563&admin=1
+人生如果沒有性愛又有什麽意義尤莉,https//ss.rongliren.com/api/video/m3u8?id=10562&admin=1
+誘人情色小野貓撫媚登場徐婕,https//ss.rongliren.com/api/video/m3u8?id=10561&admin=1
+與情欲女教師の~禁斷之戀差點被發現超刺激性愛孟若羽,https//ss.rongliren.com/api/video/m3u8?id=10560&admin=1
+淫欲海賊團工口LIVE秀小夜夜,https//ss.rongliren.com/api/video/m3u8?id=10559&admin=1
+癡漢神棍誘拐長腿少女,https//ss.rongliren.com/api/video/m3u8?id=10555&admin=1
+強行灌醉人妻秘書惡狼客戶強占極品騷穴李娜娜,https//ss.rongliren.com/api/video/m3u8?id=10554&admin=1
+再遇潘金蓮,https//ss.rongliren.com/api/video/m3u8?id=10551&admin=1
+家教老師謝語彤,https//ss.rongliren.com/api/video/m3u8?id=10548&admin=1
+少女的報答戚小憐,https//ss.rongliren.com/api/video/m3u8?id=10547&admin=1
+岳母李瓊,https//ss.rongliren.com/api/video/m3u8?id=10543&admin=1
+賢惠的嫂子袁可妮,https//ss.rongliren.com/api/video/m3u8?id=10539&admin=1
+弟弟的青春期吳語菲,https//ss.rongliren.com/api/video/m3u8?id=10538&admin=1
+女海王盧姍姍,https//ss.rongliren.com/api/video/m3u8?id=10536&admin=1
+再遇班花王美琪,https//ss.rongliren.com/api/video/m3u8?id=10535&admin=1
+墮落少女林妙可,https//ss.rongliren.com/api/video/m3u8?id=10533&admin=1
+
+麻將慘輸只好用肉體當籌碼羽芮,https//ss.rongliren.com/api/video/m3u8?id=10515&admin=1
+女體肉粽,https//ss.rongliren.com/api/video/m3u8?id=10513&admin=1
+中華料理安娜,https//ss.rongliren.com/api/video/m3u8?id=10504&admin=1
+墮落女律師鐘媛,https//ss.rongliren.com/api/video/m3u8?id=10500&admin=1
+反常的妻子徐慧慧,https//ss.rongliren.com/api/video/m3u8?id=10499&admin=1
+不孕的妻子白晶晶,https//ss.rongliren.com/api/video/m3u8?id=10498&admin=1
+被拐賣的外國美女吉娜,https//ss.rongliren.com/api/video/m3u8?id=10497&admin=1
+賢者之愛蘇鳳敏,https//ss.rongliren.com/api/video/m3u8?id=10496&admin=1
+我的表妹陳美惠,https//ss.rongliren.com/api/video/m3u8?id=10492&admin=1
+婚內情楊桃,https//ss.rongliren.com/api/video/m3u8?id=10491&admin=1
+女友的驚喜,https//ss.rongliren.com/api/video/m3u8?id=10378&admin=1
+出差之旅吳語菲,https//ss.rongliren.com/api/video/m3u8?id=10376&admin=1
+女外教安娜,https//ss.rongliren.com/api/video/m3u8?id=10374&admin=1
+穿越到王者榮耀的世界1謝雨彤,https//ss.rongliren.com/api/video/m3u8?id=10369&admin=1
 
 出軌人妻的身體反擊-菲菲,https://v10.ripic.xyz/61044a4211f9b7bd3086323a/video.m3u8
 長腿真理褲誘惑狼師-菲菲,https://v10.ripic.xyz/5ee605ee094c8bb89f6226df/video.m3u8
