@@ -18,7 +18,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
 
 
-民視臺灣,
+民視臺灣,mitv://ns1.hellotvvod.com:9906/f7b1a987bcff4a7588d442253887e6f0
 
 民視第一,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
 
