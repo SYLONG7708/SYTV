@@ -15,27 +15,24 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
-公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
+公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 
+民視台灣,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 
-民視臺灣,mitv://ns1.hellotvvod.com:9906/f7b1a987bcff4a7588d442253887e6f0
-
-民視第一,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
+民視第一,
 
 三立台灣,http://218.32.47.179:18521/.m3u8
 三立台灣,mitv://ns1.hellotvvod.com:9906/634f7f9f00050a98505ec3b869cf191d
 三立台灣,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 三立台灣,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
-
-
 三立台灣,mitv://ns1.hellotvvod.com:9906/57799752b172412ba1f9dc9274e3fd51
 
-三立戲劇,mitv://ns1.hellotvvod.com:9906/2b5209100e034b9e8d73163b0a0523a1
+三立戲劇,http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
+
 
 八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 
-八大综合,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-
+八大综合,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
 
 八大戲劇,http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
@@ -46,8 +43,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 衛視中文台,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
 
 
-TVBS歡樂,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-
+TVBS歡樂,rtmp://59.124.75.138:1935/sat/tv421
 
 愛爾達影劇,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
 愛爾達影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
@@ -99,7 +95,7 @@ TVBS歡樂,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409
 東森新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#https://git.io/JgYl2
+TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19#http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#https://git.io/JgYl2
 
 
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -154,47 +150,60 @@ MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 
 
 愛爾達體育1,mitv://ns1.hellotvvod.com:9906/f21665e293284ce782f0e184a90cd811
-愛爾達體育2,mitv://ns1.hellotvvod.com:9906/365a920cde454b68832ef3f011dfe90d
+愛爾達體育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+愛爾達體育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 愛爾達體育3,mitv://ns1.hellotvvod.com:9906/bafe99ff20e745faaf32a98a1a7ad699
 
+ELEVEN 1,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+ELEVEN 1,rtmp://59.124.75.147/sat/tv731#http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23#http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 
-ELEVEN體育1臺,mitv://ns1.hellotvvod.com:9906/cd9f82215843429ca555533e10a6acd5
+ELEVEN 2,rtmp://59.124.75.147/sat/tv741#http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+
+ELEVEN 3,http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+
+
+ELEVEN體育1臺,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+
 
 ELEVEN體育2臺,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
 
 
 電影,#genre#
 
-衛視電影,mitv://ns1.hellotvvod.com:9906/ec497236a5dc4e9ea9e4144064397494
-東森電影,mitv://ns1.hellotvvod.com:9906/93cdc6bd6ea94f0092fd5251dffdfb32
-緯來電影,mitv://ns1.hellotvvod.com:9906/1f835fcb15d445c994eabc8efe040464
-龍祥電影,mitv://ns1.hellotvvod.com:9906/ba44fa46b58a4bcc8980de83285ddb18
-
-
-
+衛視電影,http://218.32.47.179:18553/.m3u8
 衛視電影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b#http://120.84.96.78:808/hls/32/index.m3u8#http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313#http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
 
+
+東森電影,http://120.84.96.78:808/hls/32/index.m3u8
+東森電影,http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
+東森電影,http://120.84.96.161:808/hls/32/index.m3u8
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 
 
 緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 
-龍祥電影,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+龍祥时代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+龍祥时代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 
-星衛電影,mitv://ns1.hellotvvod.com:9906/6fbc9c9dbde540fab85bfb9380102b8b
+龍祥时代,http://120.84.96.62:808/hls/35/index.m3u8?blog.ntnas.top
+龍祥时代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+
+
+
 星衛電影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
+美亞電影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 
-
-美亞電影臺HD,mitv://ns1.hellotvvod.com:9906/416b0c801a1b44308a5b4012890e532c
-龍華電影,mitv://ns1.hellotvvod.com:9906/1e1786a0045d4ce5bddeae9260043a70
+龍華電影,http://218.32.47.179:18556/.m3u8
+龍華電影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 
 
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4#https://epg.pm/stream/f66dccf66c1c9799e624b686bcab696e65007b500d1bae5d47fce5850d3d6f99.m3u8
 
+東森洋片,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+東森洋片,http://120.84.96.62:808/hls/33/index.m3u8?blog.ntnas.top
 
 遊戲電競直播,#genre#
 數碼時代,https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
