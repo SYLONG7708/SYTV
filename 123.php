@@ -16,15 +16,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
-
-民視台灣,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-
-民視第一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-民視旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-
-三立都會,mitv://ns1.hellotvvod.com:9906/57799752b172412ba1f9dc9274e3fd51#P2p://ns1.hellotvvod.com:9906/57799752b172412ba1f9dc9274e3fd51
-
+民視台灣,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 
 三立台灣,http://218.32.47.179:18521/.m3u8
 三立台灣,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
@@ -34,15 +26,14 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 三立戲劇,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 
 
+八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://123.51.229.65:18539/.m3u8
-
-八大综合,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
-
+八大綜合,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
 八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
 
-中天娛樂,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a#http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 
-衛視中文台,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
+中天娛樂,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a#http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 
 
 TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
@@ -132,6 +123,7 @@ MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 
 蠟筆小新,http://zzy789.xyz/bili.php?id=10375360#http://zzy789.xyz/bili.php?id=1895574#https://epg.112114.xyz/huya/11352970#http://zzy789.xyz/bili.php?id=1895574#https://epg.112114.xyz/huya/11352970
 
+
 東森幼幼,https://git.io/JgYON#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 東森幼幼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
@@ -168,13 +160,13 @@ ELEVEN體育2臺,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
 
 電影,#genre#
 
-衛視電影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-
+衛視电影,http://23.237.10.66:16010
 
 東森電影,http://120.84.96.74:808/hls/32/index.m3u8
 東森電影,http://120.84.96.78:808/hls/32/index.m3u8
 東森電影,http://120.84.96.55:808/hls/32/index.m3u8
 東森電影,http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
+
 
 
 緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
@@ -199,6 +191,100 @@ ELEVEN體育2臺,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 東森洋片,http://120.84.96.62:808/hls/33/index.m3u8?blog.ntnas.top
+
+鬥魚輪播,#genre#
+
+華語經典,http://epg.112114.xyz/douyu/434971
+吃米滴蟲,http://epg.112114.xyz/douyu/315457
+神樂影片1,http://epg.112114.xyz/douyu/122402
+神樂影片2,http://epg.112114.xyz/douyu/85894
+特輯影院,http://epg.112114.xyz/douyu/3637778
+貝爺MAX廳,http://epg.112114.xyz/douyu/4332
+漫威影片,http://epg.112114.xyz/douyu/6140589
+周星馳電影,http://epg.112114.xyz/douyu/3990812
+劉德華電影1,http://epg.112114.xyz/douyu/2516864
+劉德華電影2,http://epg.112114.xyz/douyu/8985415
+喜劇經典,http://epg.112114.xyz/douyu/9650887
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
+林正英電影1,http://epg.112114.xyz/douyu/218859
+林正英電影2,http://epg.112114.xyz/douyu/7356023
+女神金電影,http://epg.112114.xyz/douyu/747764
+貝爺影廳1,http://epg.112114.xyz/douyu/252802
+貝爺影廳2,http://epg.112114.xyz/douyu/36337
+霍格影片,http://epg.112114.xyz/douyu/8814650
+可樂電影,http://epg.112114.xyz/douyu/20415
+冰冰經典電影,http://epg.112114.xyz/douyu/74374
+奶蟲恐怖電影,http://epg.112114.xyz/douyu/263824
+奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
+避風港影院,http://epg.112114.xyz/douyu/9826611
+林林影院,http://epg.112114.xyz/douyu/9652323
+漫威電影,http://epg.112114.xyz/douyu/4282654
+恐怖經典,http://epg.112114.xyz/douyu/1165374
+變種人電影,http://epg.112114.xyz/douyu/9651304
+華語電影,http://epg.112114.xyz/douyu/3928
+華語動作電影,http://epg.112114.xyz/douyu/1504768
+懷舊90,http://epg.112114.xyz/douyu/9275635
+國產影片,http://epg.112114.xyz/douyu/5423
+麓山迷蹤,http://epg.112114.xyz/douyu/4505431
+高幀影片,http://epg.112114.xyz/douyu/6763930
+米婭電影,http://epg.112114.xyz/douyu/6537888
+小九電影,http://epg.112114.xyz/douyu/7136517
+鬥魚電影7,http://epg.112114.xyz/douyu/3637726
+鬥魚電影8,http://epg.112114.xyz/douyu/323876
+鬥魚電影10,http://epg.112114.xyz/douyu/2935323
+鬥魚電影11,http://epg.112114.xyz/douyu/7459925
+鬥魚電影16,http://epg.112114.xyz/douyu/431460
+鬥魚電影18,http://epg.112114.xyz/douyu/4246519
+鬥魚電影19,http://epg.112114.xyz/douyu/7116591
+鬥魚電影21,http://epg.112114.xyz/douyu/6776615
+鬥魚電影22,http://epg.112114.xyz/douyu/1979257
+鬥魚電影23,http://epg.112114.xyz/douyu/7494871
+鬥魚電影26,http://epg.112114.xyz/douyu/8413092
+鬥魚電影35,http://epg.112114.xyz/douyu/248753
+鬥魚電影71,http://epg.112114.xyz/douyu/2987100
+鬥魚電影77,http://epg.112114.xyz/douyu/2758565
+鬥魚電影79,http://epg.112114.xyz/douyu/805235
+鬥魚電影81,http://epg.112114.xyz/douyu/3870925
+鬥魚電影94,http://epg.112114.xyz/douyu/4396972
+鬥魚電影95,http://epg.112114.xyz/douyu/4549169
+鬥魚電影97,http://epg.112114.xyz/douyu/8867878
+鬥魚電影99,http://epg.112114.xyz/douyu/7655471
+鬥魚電影105,http://epg.112114.xyz/douyu/4290711
+鬥魚電影108,http://epg.112114.xyz/douyu/6566671
+鬥魚電影111,http://epg.112114.xyz/douyu/8475821
+鬥魚電影117,http://epg.112114.xyz/douyu/338759
+鬥魚電影124,http://epg.112114.xyz/douyu/2793084
+鬥魚電影125,http://epg.112114.xyz/douyu/5067952
+鬥魚電影128,http://epg.112114.xyz/douyu/675072
+鬥魚電影129,http://epg.112114.xyz/douyu/413573
+鬥魚電影134,http://epg.112114.xyz/douyu/6725858
+鬥魚電影135,http://epg.112114.xyz/douyu/7476264
+鬥魚電影136,http://epg.112114.xyz/douyu/5689514
+鬥魚電影141,http://epg.112114.xyz/douyu/7623292
+鬥魚電影145,http://epg.112114.xyz/douyu/5033502
+鬥魚電影151,http://epg.112114.xyz/douyu/426517
+鬥魚電影153,http://epg.112114.xyz/douyu/8799435
+鬥魚電影155,http://epg.112114.xyz/douyu/4258555
+鬥魚電影165,http://epg.112114.xyz/douyu/8705754
+鬥魚電影166,http://epg.112114.xyz/douyu/5581257
+鬥魚電影169,http://epg.112114.xyz/douyu/7528160
+鬥魚電影90,http://epg.112114.xyz/douyu/6785471
+鬥魚電影92,http://epg.112114.xyz/douyu/7537296
+鬥魚電影110,http://epg.112114.xyz/douyu/8415464
+鬥魚電影113,http://epg.112114.xyz/douyu/5522351
+鬥魚電影114,http://epg.112114.xyz/douyu/562225
+鬥魚電影115,http://epg.112114.xyz/douyu/223521
+鬥魚電影116,http://epg.112114.xyz/douyu/8651489
+鬥魚電影118,http://epg.112114.xyz/douyu/4631599
+鬥魚電影120,http://epg.112114.xyz/douyu/5354713
+鬥魚電影122,http://epg.112114.xyz/douyu/3485629
+鬥魚電影130,http://epg.112114.xyz/douyu/8014467
+鬥魚電影137,http://epg.112114.xyz/douyu/1274132
+鬥魚電影143,http://epg.112114.xyz/douyu/7314294
+鬥魚電影149,http://epg.112114.xyz/douyu/6582435
+鬥魚電影150,http://epg.112114.xyz/douyu/3980787
+鬥魚電影158,http://epg.112114.xyz/douyu/8788687
+鬥魚電影168,http://epg.112114.xyz/douyu/6861249
 
 遊戲電競直播,#genre#
 數碼時代,https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
