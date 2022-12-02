@@ -6,13 +6,17 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 網路流行音樂電台,https://git.io/JgkA6
 
 台灣,#genre#
-民視,http://23.237.10.66:16334
 民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
+民視,http://23.237.10.66:16334
 
+台視,http://23.237.10.66:16344
 台視,http://60.251.33.252:18543/.m3u8#http://60.251.33.252:18543/.m3u8#http://60.251.33.252:18543/.m3u8#http://60.251.33.252:18543/.m3u8
 台視,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 
+
 中視,rtmp://9wv7.mine.nu/sat/tv091
+中視,p2p://ns3.hellotvvod.com:9906/7ed84bab70554ad2ba2e89d6249037a4
+
 
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
@@ -21,14 +25,11 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 
 
 三立台灣,http://198.16.64.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
-三立台湾,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
+三立台灣,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 三立台灣,http://218.32.47.179:18521/.m3u8
 三立台灣,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 衛視中文,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
-
-
-三立戲劇,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 
 
 八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
@@ -177,19 +178,29 @@ ELEVEN體育2臺,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
 
 衛視电影,http://23.237.10.66:16010
 
-東森電影,http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
+東森電影,http://120.84.96.33:808/hls/32/index.m3u8
+東森電影,http://120.84.96.50:808/hls/32/index.m3u8
+東森電影,http://120.84.96.55:808/hls/32/index.m3u8
+東森電影,http://120.84.96.62:808/hls/32/index.m3u8
+東森電影,http://120.84.96.66:808/hls/32/index.m3u8
 東森電影,http://120.84.96.74:808/hls/32/index.m3u8
 東森電影,http://120.84.96.78:808/hls/32/index.m3u8
-東森電影,http://120.84.96.55:808/hls/32/index.m3u8
+東森電影,http://120.84.96.161:808/hls/32/index.m3u8
+東森電影,http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
+
 
 
 
 緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 
 
-
+龍祥時代,http://120.84.96.33:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.50:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.62:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.66:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.161:808/hls/35/index.m3u8
+龍祥時代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
 龍祥时代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-
 龍祥时代,http://120.84.96.62:808/hls/35/index.m3u8?blog.ntnas.top
 龍祥时代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 
@@ -206,7 +217,18 @@ ELEVEN體育2臺,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
 
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+
+
+東森洋片,http://120.84.96.33:808/hls/33/index.m3u8
+東森洋片,http://120.84.96.50:808/hls/33/index.m3u8
+東森洋片,http://120.84.96.62:808/hls/33/index.m3u8
+東森洋片,http://120.84.96.66:808/hls/33/index.m3u8
+東森洋片,http://120.84.96.74:808/hls/33/index.m3u8
+東森洋片,http://120.84.96.78:808/hls/33/index.m3u8
+東森洋片,http://120.84.96.161:808/hls/33/index.m3u8
+東森洋片,http://120.84.96.161:808/hls/33/index.m3u8
 東森洋片,http://120.84.96.62:808/hls/33/index.m3u8?blog.ntnas.top
+
 
 鬥魚輪播,#genre#
 
