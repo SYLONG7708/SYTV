@@ -415,7 +415,7 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 
 
 
-真人線上直播_1314,#genre#
+真人線上(有上線才有影像)_1314,#genre#
 白天,
 Fcup_KEER,https://b-hls-04.doppiocdn.com/hls/79054191/79054191.m3u8
 
@@ -436,6 +436,9 @@ wang1122334,https://b-hls-05.doppiocdn.com/hls/80588572/80588572.m3u8
 JennaMason,https://b-hls-21.doppiocdn.com/hls/73902910/73902910_160p.m3u8
 
 傍晚,
+Anna-fay,https://b-hls-12.doppiocdn.com/hls/94620867/94620867_720p.m3u8
+
+Y-baby,https://b-hls-05.doppiocdn.com/hls/93110167/93110167.m3u8
 
 Sexy_Agent,https://b-hls-12.doppiocdn.com/hls/89518469/89518469.m3u8
 
