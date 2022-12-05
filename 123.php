@@ -13,8 +13,8 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 台視,http://60.251.33.252:18543/.m3u8#http://60.251.33.252:18543/.m3u8#http://60.251.33.252:18543/.m3u8#http://60.251.33.252:18543/.m3u8
 台視,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 
-
-中視,rtmp://9wv7.mine.nu/sat/tv091
+中視,mitv://ns3.hellotvvod.com:9906/663a5b33c5e14369a42c399280d965f2
+中視,P2p://ns3.hellotvvod.com:9906/663a5b33c5e14369a42c399280d965f2
 中視,p2p://ns3.hellotvvod.com:9906/7ed84bab70554ad2ba2e89d6249037a4
 
 
@@ -48,18 +48,16 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 中天娛樂,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a#http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 
 
-TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
+TVBS歡樂台,mitv://ns3.hellotvvod.com:9906/b147b591885c47afbe9140a6dbad2c83
+
 
 
 愛爾達影劇,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
 愛爾達影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 
 
-龍華偶像,http://61.219.170.95:18573/hls/210/10012/cstv12.m3u8
-龍華偶像,http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
 龍華偶像,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-龍華偶像,http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-龍華偶像,http://59.125.122.90:18573/.m3u8
+
 
 龍華日韓,http://60.251.33.252:18551/.m3u8
 龍華日韓,http://59.125.122.90:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
@@ -79,7 +77,12 @@ TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
 
 
+台視新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=26
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台視新聞,mitv://ns3.hellotvvod.com:9906/2549a9c7ccc944118102c6d7fea9f9ce
+
 
 中視新聞,https://git.io/Jgkxz
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
@@ -98,18 +101,22 @@ TVBS歡樂台,rtmp://9wv7.mine.nu/sat/tv421
 
 三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 
+東森新聞,mitv://ns3.hellotvvod.com:9906/9b556ccc34144374a39bd0d2f45561f9
 
-
-東森新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 
 
 TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
 
 
+
+
+TVBS新聞,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞,mitv://ns3.hellotvvod.com:9906/28427ae64d4b4bc5bb5895b72a7704f6
+TVBS新聞,P2p://ns3.hellotvvod.com:9906/28427ae64d4b4bc5bb5895b72a7704f6
 
 壹新聞,http://60.251.59.180:8501/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 
@@ -133,7 +140,7 @@ DAVE卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 MOMO親子台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 
-蠟筆小新,http://zzy789.xyz/bili.php?id=10375360#http://zzy789.xyz/bili.php?id=1895574#https://epg.112114.xyz/huya/11352970#http://zzy789.xyz/bili.php?id=1895574#https://epg.112114.xyz/huya/11352970
+蠟筆小新,http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
 
 東森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
 東森幼幼,https://git.io/JgYON#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
@@ -141,7 +148,10 @@ MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live
 東森幼幼,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
 東森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 
+小豬佩奇,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 小豬佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+小豬佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+
 中二日本搞笑日常,http://epg.112114.xyz/douyu/9505575
 名偵探柯南,http://epg.112114.xyz/douyu/5377297#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525#http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
 名偵探柯南日語中字,http://epg.112114.xyz/douyu/7050342
@@ -176,7 +186,10 @@ ELEVEN體育2臺,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
 
 電影,#genre#
 
-衛視电影,http://23.237.10.66:16010
+衛視電影台,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+
+
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 
 東森電影,http://120.84.96.33:808/hls/32/index.m3u8
 東森電影,http://120.84.96.50:808/hls/32/index.m3u8
@@ -200,20 +213,22 @@ ELEVEN體育2臺,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
 龍祥時代,http://120.84.96.66:808/hls/35/index.m3u8
 龍祥時代,http://120.84.96.161:808/hls/35/index.m3u8
 龍祥時代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
-龍祥时代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-龍祥时代,http://120.84.96.62:808/hls/35/index.m3u8?blog.ntnas.top
-龍祥时代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+龍祥時代,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+龍祥時代,http://120.84.96.62:808/hls/35/index.m3u8?blog.ntnas.top
+龍祥時代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 
-
-星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
 星衛電影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+
 
 美亞電影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 
 龍華電影,http://218.32.47.179:18556/.m3u8
 龍華電影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 
-好萊塢電影,http://www.372583307.top:4022/udp/233.50.201.228:5140
+好萊塢電影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+
+HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
 
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
