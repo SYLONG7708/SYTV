@@ -1,502 +1,2411 @@
+{
+“家”： [
+{"key":"採集","title":"七七資源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"},
+{"key":"網頁","title":"網頁資源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1855.png"},
+{"key":"APP","title":"APP資源","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e4012.png"},
+{"key":"直播","title":"電視直播","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e183d.png"},
+{"key":"歷史","title":"歷史","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"},
+{"key":"收藏","title":"收藏","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"},
+{"key":"推送","title":"推送","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"}
+],
+“竹葉街口”：[
+{"name":"9e國語","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"name":"美劇範","url":"http://ttzmz.net/api.php/v1.vod"},
+{"name":"美劇蟲","url":"https://meijuchong.com/api.php/v1.vod"},
+{"name":"益達影院","url":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
+{"name":"大貓影視","url":"http://app.ishen520.com/api.php/v1.vod"},
+{"name":"漁釣影視","url":"http://luobo.yugenye.site/api.php/v1.vod"},
+{"name":"兔子窩","url":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
+{"name":"躺平影視","url":"http://www.lltpys.com/api.php/app/"},
+{"名稱":"看365","url":"https://www.kan365.xyz/api.php/app/"},
+{"name":"北川","url":"https://www.bcwzg.com/api.php/app/"},
+{"name":"鐘特影視","url":"https://app.zteys.com/api.php/v1.vod"},
+{"name":"天空V2","url":"https://www.tkys.tv/xgapp.php/v2/"},
+{"name":"三日影院","url":"https://www.3ri.net/api.php/v1.vod"},
+{"name":"雙鹿影院","url":"http://cr.slidc.top/mubai_api.php/m2.vod"},
+{"name":"粉絲視頻","url":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
+{"name":"懶貓影視","url":"https://lanmao.lanmaoymw.cn/api.php/v1.vod"},
+{"name":"阿里","url":"http://aliys.cn:90/api.php/v1.vod"},
+{"name":"QC","url":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
+{"name":"黃河","url":"http://i.ledu8.cn/api.php/v1.vod"},
+{"name":"極酷視頻","url":"https://jiku.vip/mogai_api.php/v1.vod"},
+{"name":"橘子","url":"http://jz.juzidy.vip/mogai_api.php/v1.vod"},
+{"name":"奇飛專線","url":"http://mkk.gotka.top/api.php/v1.vod"},
+{"name":"天空影視","url":"https://tkys.tv/xgapp.php/v1/"},
+{"name":"段友2影視","url":"https://shangjihuoke.com/api.php/tv.vod"},
+{"name":"暖光影視","url":"https://app.bl210.com/api.php/v1.vod"},
+{"name":"天誠影視","url":"http://tcspvip.cn/api.php/v1.vod"},
+{"name":"艾特影視","url":"https://www.aitee.cc/api.php/v1.vod"},
+{"name":"段友影視1","url":"http://js.66app.me/api.php/app/"},
+{"name":"比鄰影視","url":"http://0hzy.cn:9990/mogai_api.php/v1.vod"},
+{"name":"追劇達人","url":"https://www.zhuijudaren.com/mogai_api.php/v1.vod"},
+{"name":"69院線","url":"http://app.269w.com/api.php/v1.vod"},
+{"name":"創意","url":"http://www.30dian.cn/api.php/v1.vod"}
+],
 
-中視新聞,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-民視新聞,http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=MA8A6605176766051767&ct=19193&tsum=37e8e3780b1b2bf198c95c2e6b3a9746
-民視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-台視新聞,http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
-中天新聞台,http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-中天新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-TVBS新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-TVBS新聞台,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-東森新聞,http://59.125.122.90:18512/.m3u8
-東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-三立LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
-三立新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-壹新聞台,http://stream.nexttv.com.tw/n001/hd/live.m3u8http://stream.nexttv.com.tw/n001/playlist.m3u8http://stream.nexttv.com.tw/n001/playlist.m3u8
-鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-年代新聞,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-非凡新聞,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-中視,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
-中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
-民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-華視,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
-華視,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
-台視,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
-公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
-公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
-中視經典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-台視綜合台,http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
-三立都會,http://50.7.220.74:8278/sanlidouhui/playlist.m3u8?tid=ME7E1312041113120411&ct=19193&tsum=85c3a9808d57adb680980c1bd4c810f1
-三立戲劇,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
-三立綜合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
-TVBS HD,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
-TVBS歡樂台,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
-MuchTV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
-中天綜合,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
-中天娛樂,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
-中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
-八大第一台,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-八大第一台,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-八大綜合台,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
-八大綜合台,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
-八大綜合台,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-八大戲劇,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
-八大戲劇,http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
-東森綜合,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-東森戲劇,http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
-緯來綜合,http://218.32.47.179:18518/http/192.168.1.9:8081/hls/68/810/ch32.m3u8
-緯來戲劇,http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
-緯來日本,rtmp://59.124.75.150/sat/tv771
-緯來育樂,http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
-衛視中文,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
-龍華戲劇,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-龍華日韓,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
-龍華偶像,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-EYE戲劇,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
-ELTA綜合台,http://iptv12k.com:35461/live/test167/12345/679.m3u8
-愛爾達影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
-HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-HBOhits,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO溫馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-HBO原創鉅獻,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-好萊塢電影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-AXN,http://198.16.64.10:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
-Cinemax,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
-東森洋片,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
-龍華電影台,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
-龍華洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
-龍祥時代,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-衛視電影台,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-星衛電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-星衛電影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
-星衛電影台,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-緯來電影台,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-美亞電影台,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+“菜雞戰”：[
+{"name":"七七","url":"http://api.kunyu77.com/api.php"}
+],
 
+“朱杰希”：[
+{"name":"融興","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
+{"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
+{"name":"左岸2","url":"https://za.kuanjv.com/?url="},
+{"name":"太空","url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
+{"name":"扶風","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
+{"name":"多多","url":"http://qiqi.520say.cn/json/dd.php?url="}
+],
 
-國家地理,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
-國家地理野生頻道,http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-探索頻道,http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
-探索亞洲,http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
-探索亞洲,http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e、
-探索亞洲,EXTINF:-1 tvg-logo=\"http://epg.51zmt.top:8000/tb1/gt/Discovery科學.png\" tvg-id=\"6165\" tvg-name=\"Discovery科學\" group-title=\"港澳台\",Discovery 科學頻道
-探索亞洲,http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
-探索亞洲,http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
-DMAX(高清),http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
-DMAX(高清),http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
-動物星球,http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
-亞洲旅遊,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
-亞洲旅遊,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-愛爾達生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
-中天旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-美食星球頻道,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+“北永傑西”：[
+{"name":"左岸","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"人人","url":"https://jx.blbo.cc:4433/?url="},
+{"name":"蝦米","url":"https://jx.xmflv.com/?url="},
+{"name":"九億","url":"https://m3u8.look4you.top/?url="}
+],
 
-CHC家庭影院 高清,http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
-CHC高清電影 高清,http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
-CHC動作電影 高清,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
+"點石知博": "https://raw.githubusercontent.com/SYLONG7708/SYTV/main/123.php",
+ 
+"guolvdizhi": "player.css#url=#cnzz.com#51.la",
+ 
+“紫丁衣”：[
+{"name": "完美看看",
+"url": "https://www.wanmeikk.me",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電影$/category/1/page/#歐美劇$/category/2/page/#韓劇$/category/3/page/#日劇$/category/4/page/#國產劇$/ category/5/page/#動畫$/category/6/page/#預告片$/category/8/page/#泰劇$/category/9/page/#回憶片$/category/10/page/",
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"stui-vodlist__box",
+"jiequshuzuhou": "</span>",
+"tupianqian": "原始=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/project/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"stui-content__playlist column8 clearfix",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"pic-text text-right\">",
+"莊太后": "</p>",
+"daoyanqian": "class=\"text-muted\">導演：",
+"道延後": "</p>",
+"zhuyanqian": "class=\"text-muted\">主演：",
+"朱彥侯": "</p>",
+"juqingqian": "style=\"display: none;\">",
+"居慶侯": "</p>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<li",
+"bfyjiequshuzuhou": "</li>",
+"bfbiaotiqian": "\">",
+"bfbiaotihou": "</a>",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "樂豬影視",
+"url": "http://www.lezhutv.com",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電視劇$/type/2-#電影$/type/1-#綜藝$/type/3-#動畫$/type/4-#韓劇$/type/14-#美劇$/type/ 15-"，
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"vbox\"",
+"jiequshuzuhou": "</a>",
+"tupianqian": "data-original=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"搜索前": "/search-pg-1-wd-",
+"sousuohou": ".html",
+"搜索厚追": "/詳情/",
+“ssmoshi”：“1”，
+"搜索師傅二節曲": "0",
+"jspic": "空間",
+"jsname": "空",
+"jsid": "空",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "class=\"vbox\"",
+"ssjiequshuzuhou": "</a>",
+"sstupianqian": "data-original=\",
+"sstupianhou": "\",
+"ssbiaotiqian": "title=\",
+"ssbiaotihou": "\",
+"sslianjieqian": "href=\",
+"sslianjiehou": "\",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"list_block show\"",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"yac\">",
+"莊太后": "</p>",
+"daoyanqian": "導演：</span>",
+"道延後": "</p>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</p>",
+"juqingqian": "class=\"tbox_js\">",
+"居慶侯": "</div>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<li>",
+"bfyjiequshuzuhou": "</li>",
+"bfbiaotiqian": "\">",
+"bfbiaotihou": "</a>",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
 
+{"name": "騷火電影",
+"url": "https://shdy3.com",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "影片推薦$/?#電影$/list/1-#電視劇$/list/2-#動畫$/list/4-#脫口秀$/list/28-#真人秀$/list/ 29-#選秀$/list/30-#美食$/list/31-#旅遊$/list/32-#汽車$/list/33-#訪談$/list/34-#紀實$/list/35- #搞笑$/list/36-#其他綜藝$/list/37-",
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "<div class=\"v_img\">",
+"jiequshuzuhou": "<div class=\"v_note\">",
+"tupianqian": "data-original=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/search.php?searchword=",
+"搜搜厚": "",
+"搜索猴追": "/電影/",
+“ssmoshi”：“1”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "<div class=\"v_img\">",
+"ssjiequshuzuhou": "<div class=\"v_note\">",
+"sstupianqian": "data-original=\",
+"sstupianhou": "\",
+"ssbiaotiqian": "title=\",
+"ssbiaotihou": "\",
+"sslianjieqian": "href=\",
+"sslianjiehou": "\",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"play_link\">",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "</h1><p>",
+"zhuangtaihou": "導演",
+"daoyanqian": "導演：",
+"daoyanhou": "主演",
+"朱彥謙": "主演：",
+"朱彥侯": "</p>",
+"juqingqian": "class=\"p_txt show_part\">",
+"居慶侯": "<br",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "影視工廠",
+"url": "https://www.ysgc.cc",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電視劇$/vodshow/2--------#電影$/vodshow/1--------#綜藝$/vodshow/3--------#動畫$/vodshow/4--------",
+"houzhui": "---.html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"myui-vodlist__box\"",
+"jiequshuzuhou": "</span>",
+"tupianqian": "原始=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"otherbox\">",
+"莊太后": "</p>",
+"daoyanqian": "導演：</span>",
+"道延後": "</p>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</p>",
+"juqingqian": "style=\"display: none;\">",
+"居慶侯": "</span>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{“名稱”：“LIBVIO”，
+“網址”：“https://www.libvio.com”，
+"tihuan": "dd520.cc",
+"用戶": "空",
+"fenlei": "電視劇$/show/2--------#電影$/show/1--------#綜藝$/show/3--------#動畫$/show/4--------#動畫片$/show/1---動畫-----#喜劇片$/show/1---喜劇-----#愛情片$/show/1---愛情-----#科幻片$/show/1---科幻-----#奇幻片$/show/1---奇幻-----#恐怖片$/show/1---恐怖----#劇情$/show/1---劇情-----#戰爭片$/show/1---戰爭----- #冒險片$/show/1---冒險-----#國產劇$/show/2-中國大陸------#台灣劇$/show/2-中國台灣---- ---#港劇$/show/2-中國香港------#韓劇$/show/2-韓國------#日劇$/show/2-日本----- --#美劇$/show/2-美國------#英劇$/show/2-英國------,
+"houzhui": "---.html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "數據",
+"jiequshuzuhou": "</h4>",
+"tupianqian": "原始=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"搜索厚追": "/詳情/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"stui-content__playlist",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"data\">總集合數：",
+"莊太后": "</p>",
+"daoyanqian": "class=\"data\">類型：",
+"道延後": "</p>",
+"zhuyanqian": "class=\"data\">主要演員：",
+"朱彥侯": "</p>",
+"juqingqian": "class=\"detail-content\"",
+"居慶侯": "</span>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "花貓TV",
+"url": "http://www.huamaotv.com",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電影$/type/1-#連續劇$/type/2-#綜藝$/type/3-#動畫$/type/4-#",
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian":"class=\"stui-vodlist__item",
+"jiequshuzuhou": "</a>",
+"tupianqian": "data-original=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"搜索厚追": "/詳情/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"stui-content__playlist clearfix\"",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"data\"",
+"莊太后": "</p>",
+"daoyanqian": "導演：</span>",
+"道延後": "</p>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</p>",
+"居慶前": "",
+"居慶侯": "",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<li>",
+"bfyjiequshuzuhou": "</li>",
+"bfbiaotiqian": "\">",
+"bfbiaotihou": "</a>",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "藍光影院",
+"url": "https://www.lgyy.cc",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電影$/vodshow/1--------#電視劇$/vodshow/2--------#國產劇$/vodshow/13-------- #港台劇$/vodshow/14--------#日韓劇$/vodshow/15--------#歐美劇$/vodshow/16--------#泰劇$/vodshow/26--------#動畫片$/vodshow/6--------#喜劇片$/vodshow/7--------#科幻片$/vodshow/9--------#恐怖片$/vodshow/10--------#劇情片$/vodshow/11--------#戰爭片$/ vodshow/12--------#懸疑片$/vodshow/20--------#犯罪片$/vodshow/21--------#懸疑片$/vodshow/ 23--------#動畫$/vodshow/5--------#綜藝$/vodshow/3--------",
+"houzhui": "---.html",
+"Shifouercijiequ": "1",
+"jiequqian": "class=\"module-items module-poster-items-base \"",
+"jiequhou": "id=\"page\"",
+"jiequshuzuqian": "<a",
+"jiequshuzuhou": "</a>",
+"tupianqian": "原始=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"module-play-list-content module-play-list-",
+"bfjiequshuzuhou": "</div>",
+"zhuangtaiqian": "集合數：</span>",
+"zhuangtaihou": "</div>",
+"daoyanqian": "導演：</span>",
+"道延後": "</div>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</div>",
+"juqingqian": "class=\"module-info-introduction-content\">",
+"聚慶侯": "</",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": "<span>",
+"bfbiaotihou": "</span>",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{
+  "name": "真不卡影院(不支持搜索)",
+  "url": "http://www.cerrd.com",
+  "tihuan": "cnzz.com",
+  "守業": "1",
+  "fenlei": "電影$/films/1_#電視劇$/films/2_#綜藝$/films/4_#動畫$/films/3_",
+  "後追": ".html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"stui-vodlist__box\"",
+  "jiequshuzuhou": "</span>",
+  "tupianqian": "原始=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/?c=search&wd=",
+  "搜搜厚": "",
+  "搜索厚追": "/edu-",
+  “ssmoshi”：“1”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "class=\"thumb\"",
+  "ssjiequshuzuhou": "</span>",
+  "sstupianqian": "data-original=\",
+  "sstupianhou": "\",
+  "ssbiaotiqian": "title=\",
+  "ssbiaotihou": "\",
+  "sslianjieqian": "href=\",
+  "sslianjiehou": "\",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "class=\"pic-text text-right\">",
+  "zhuangtaihou": "</span>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</p>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</p>",
+  "juqingqian": "簡介：</span>",
+  "居慶侯": "</div>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "在線之家",
+  "url": "https://www.zxzjtv.com",
+  "用戶": "空",
+  "守業": "1",
+  "fenlei": "電影$/list/1-#美劇$/list/2-#韓劇$/list/3-#日劇$/list/4-#泰劇$/list/5-#動漫$/list /6-",
+  "後追": ".html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"stui-vodlist__box",
+  "jiequshuzuhou": "</li>",
+  "tupianqian": "data-original=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "搜索厚追": "/詳情/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "class=\"data \">類型：",
+  "莊太后": "</p>",
+  "daoyanqian": "class=\"data\">導演：",
+  "道延後": "</p>",
+  "zhuyanqian": "class=\"data\">主要演員：",
+  "朱彥侯": "</p>",
+  "juqingqian": "style=\"display: none;\">",
+  "居慶侯": "</p>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<li",
+  "bfyjiequshuzuhou": "</li>",
+  "bfbiaotiqian": "\">",
+  "bfbiaotihou": "</a>",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "火火影視",
+  "url": "https://www.huohuo99.com",
+  “提環”：“”，
+  "用戶": "空",
+  "守業": "1",
+  "fenlei": "動畫片$/vodtype/6-#喜劇片$/vodtype/7-#愛情片$/vodtype/8-#科幻片$/vodtype/9-#恐怖片$/vodtype/10-#劇情片$/vodtype/11-#戰爭片$/vodtype/12-#驚悚片$/vodtype20-#懸疑片$vodtype/23-#動畫片$/vodtype/24-#國產劇$/vodtype/13- #港台劇$/vodtype/14-#日韓劇$/vodtype15-#歐美劇$vodtype/16-#番劇$/vodtype/31-#綜藝$/vodtype/4-#記錄片$/vodtype/5- ",
+  "後追": ".html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"hl-list-item hl",
+  "jiequshuzuhou": "</div>",
+  "tupianqian": "data-original=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": " id=\"hl-plays-list",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "狀態：</em>",
+  "zhuangtaihou": "</a>",
+  "daoyanqian": "導演：</em>",
+  "道延後": "</a>",
+  "zhuyanqian": "主演：</em>",
+  "朱彥侯": "</a>",
+  "juqingqian": "簡介：</em>",
+  "居慶侯": "</li>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "348電影網",
+  "網址": "https://www.348z.com",
+  "用戶": "空",
+  "守業": "1",
+  "fenlei": "電影$/vodshow/id/1/page/#連續劇$/vodshow/id/2/page/#綜藝$/vodshow/id/3/page/#動畫$/vodshow/id/4/頁面/#4K$/vodshow/id/37/頁面/”，
+  "後追": ".html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"pack-ykpack",
+  "jiequshuzuhou": "</div>",
+  "tupianqian": "data-original=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/",
+  “ssmoshi”：“1”，
+  "搜索師傅二節曲": "0",
+  "jspic": "空間",
+  "jsname": "空",
+  "jsid": "空",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "class=\"thumb",
+  "ssjiequshuzuhou": "</li>",
+  "sstupianqian": "data-original=\",
+  "sstupianhou": "\",
+  "ssbiaotiqian": "title=\",
+  "ssbiaotihou": "\",
+  "sslianjieqian": "href=\",
+  "sslianjiehou": "\",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "<ul class=\"content_playlist",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "狀態：</span>",
+  "zhuangtaihou": "</li>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</li>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</li>",
+  "juqingqian": "詳情：</span>",
+  "居慶侯": "</div>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<li",
+  "bfyjiequshuzuhou": "</li>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "</a>",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "思樂影視",
+  "url": "https://www.4ltv.com",
+  "用戶": "空",
+  "守業": "1",
+  "fenlei": "電視劇$/show/1-----#電影$/show/2-----#綜藝$/show/3-----#動畫$/show/4 ------",
+  "後追": ".html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"module-item-pic",
+  "jiequshuzuhou": "</div>",
+  "tupianqian": "data-src=\"",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/vod/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "class=\"col-md-1",
+  "ssjiequshuzuhou": "</li>",
+  "sstupianqian": "src=\",
+  "sstupianhou": "\",
+  "ssbiaotiqian": "title=\",
+  "ssbiaotihou": "\",
+  "sslianjieqian": "href=\",
+  "sslianjiehou": "\",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"sort-item",
+  "bfjiequshuzuhou": "</div>",
+  "zhuangtaiqian": "分類：</span>",
+  "莊太后": "</p>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</p>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</p>",
+  "juqingqian": "簡介：</span>",
+  "居慶侯": "</span>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": "<span>",
+  "bfbiaotihou": "</span>",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "烏龜影院",
+  "url": "https://www.wuguiyy.com",
+  "用戶": "空",
+  "守業": "1",
+  "fenlei": "電影$/show/dianying--------#電視劇$/show/連旭劇--------#綜藝$/show/綜藝--------#動漫$/show/dongman--------",
+  "houzhui": "---.html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"stui-vodlist__box\"",
+  "jiequshuzuhou": "</span>",
+  "tupianqian": "data-original=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "搜索厚追": "/詳情/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "更新：</span>",
+  "莊太后": "</p>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</p>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</p>",
+  "juqingqian": "style=\"display: none;\">",
+  "居慶侯": "</span>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "愛港劇",
+  "url": "http://www.2gangju.cc",
+  "用戶": "空",
+  "守業": "1",
+  "fenlei": "電影$/vodshow/dianying--------#電視劇$/vodshow/dianshiju--------#綜藝$/vodshow/綜藝--------" ,
+  "houzhui": "---.html",
+  "Shifouercijiequ": "1",
+  "jiequqian": "class=\"stui-vodlist clearfix\"",
+  "接取後": "</ul>",
+  "jiequshuzuqian": "lazyload",
+  "jiequshuzuhou": "</span>",
+  "tupianqian": "data-original=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/vodsearch/------------.html?wd=",
+  "sousuohou": "&submit=",
+  "sousuohouzhui": "/dianshiju/",
+  “ssmoshi”：“1”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "class=\"thumb\"",
+  "ssjiequshuzuhou": "</div>",
+  "sstupianqian": "原始=\"",
+  "sstupianhou": "\",
+  "ssbiaotiqian": "title=\",
+  "ssbiaotihou": "\",
+  "sslianjieqian": "href=\",
+  "sslianjiehou": "\",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix\"",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "class=\"pic-text text-right\">",
+  "zhuangtaihou": "</span>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</p>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</p>",
+  "juqingqian": "<span class=\"detail-sketch\">",
+  "居慶侯": "</span>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "小熊影視",
+  "url": "http://www.xxys520.com/",
+  "用戶": "空",
+  "守業": "1",
+  "fenlei": "最新電影$/vodshow/1------------2022/page/#最新國產劇$/vodshow/2------------2022/page /#港台劇$/vodtype/14-#日韓劇$/vodtype/15-#歐美劇$/vodtype/16-#泰國劇$/vodtype/29-#其他劇$/vodtype/27-#動漫$ /vodtype/3-#綜藝$/vodtype/4-#紀錄片$/vodtype/5-",
+  "後追": ".html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"module-item-pic\"",
+  "jiequshuzuhou": "</div>",
+  "tupianqian": "src=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"scroll-content",
+  "bfjiequshuzuhou": "</div>",
+  "zhuangtaiqian": "集合數：</span>",
+  "zhuangtaihou": "</div>",
+  "daoyanqian": "target=\"_blank\">",
+  "道延後": "</a>",
+  "zhuyanqian": "主演：</span>",
+  "zhuyanhou": "<span class=\"slash\">",
+  "juqingqian": "class=\"video-info-item video-info-content vod_content\"",
+  "居慶侯": "</span>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": "<span>",
+  "bfbiaotihou": "</span>",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "克拉TV",
+  "url": "https://www.kelatv.com",
+  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  "守業": "1",
+  "fenlei": "電影$/dianying/index-#電視劇$/dianshiju/index-#動漫$/dongman/index-",
+  "後追": ".html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"layui-col-md2 layui-col-sm4 layui-col-xs6 item\"",
+  "jiequshuzuhou": "</span>",
+  "tupianqian": "原始=\",
+  "tupianhou": "\",
+  "biaotiqian": "alt=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/search/",
+  "搜搜厚": "",
+  "搜索厚追": "/詳情/",
+  “ssmoshi”：“1”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "class=\"video-txt\"",
+  "ssjiequshuzuhou": "</div>",
+  "sstupianqian": "原始=\"",
+  "sstupianhou": "\",
+  "ssbiaotiqian": "title=\",
+  "ssbiaotihou": "\",
+  "sslianjieqian": "href=\",
+  "sslianjiehou": "\",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"layui-tab-item bt-playlist layui-show\"",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "<p>狀態：",
+  "莊太后": "</p>",
+  "daoyanqian": "導演：",
+  "道延後": "</p>",
+  "朱彥謙": "主演：",
+  "朱彥侯": "</p>",
+  "juqingqian": "class=\"bt-content\"><p>",
+  "居慶侯": "</p>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "利麗婭電影",
+  “網址”：“https://www.llyady.com/”，
+  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  "守業": "1",
+  "fenlei": "電影$/vodshow/1--hits------#國產劇$/vodshow/28------#日韓劇$/vodshow/29------ --#歐美劇$/vodshow/30--------#港台劇$/vodshow/31--------#其他劇$/vodshow/31------ -#綜藝$/vodshow/3--------#動畫$/vodshow/4--------",
+  "houzhui": "---.html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"module-item-pic\"",
+  "jiequshuzuhou": "</div>",
+  "tupianqian": "data-src=\"",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=50",
+  "sousuohouzhui": "/視頻/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"sort-item-",
+  "bfjiequshuzuhou": "</div>",
+  "zhuangtaiqian": "class=\"module-item-text\">",
+  "zhuangtaihou": "</div>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</div>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</div>",
+  "jujingqian": "劇情：</span>",
+  "居慶侯": "</span>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": "<span>",
+  "bfbiaotihou": "</span>",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "七年影視",
+  "url": "https://www.lipinvip.com/",
+  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  "守業": "1",
+  "fenlei": "電影$/vodshow/1--time-----#國產劇$/vodshow/12--------#網劇$/vodshow/20----- --#歐美劇$/vodshow/15--------#日韓劇$/vodshow/14--------#港台劇$/vodshow/13------ -#海外劇$/vodshow/18------#綜藝$/vodshow/3------#動畫$/vodshow/4------#國產動畫$/vodshow/4-大陸------#日本動畫$/vodshow/4-日本------",
+  "houzhui": "---.html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"stui-vodlist__box",
+  "jiequshuzuhou": "</span>",
+  "tupianqian": "原始=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=50",
+  "sousuohouzhui": "/voddetail/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix\"",
+  "bfjiequshuzuhou": "</div>",
+  "zhuangtaiqian": "狀態：</span>",
+  "莊太后": "</p>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</p>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</p>",
+  "juqingqian": "class=\"col-pd\">",
+  "居慶侯": "</p>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "牛馬TV",
+  "url": "http://www.niumatv.com/",
+  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  "守業": "1",
+  "fenlei": "電影$/type/dianying-#電視劇$/type/dianshiju-#國產劇$/vodshow/area/中國大陸/id/dianshiju/page/#港劇$/vodshow/area/中國香港/id /dianshiju/page/#韓劇$/vodshow/area/韓國/id/dianshiju/page/#歐美劇$/vodshow/area/美國/id/dianshiju/page/#綜藝$/type/zongyi-#動漫$/類型/dongman-",
+  "後追": ".html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  // /page/ <span> </span> </div> <div> </ul> </p> '
+  "jiequshuzuqian": "lazyload",
+  "jiequshuzuhou": "</span>",
+  "tupianqian": "原始=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/vod/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "class=\"pic-text text-right\">",
+  "zhuangtaihou": "</span>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</p>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</p>",
+  "juqingqian": "簡介：</span>",
+  "居慶侯": "</div>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "豆角網",
+  "url": "https://m.doujiaow1.com/",
+  "用戶": "空",
+  "守業": "1",
+  "fenlei": "電影$/index.php?m=vod-list-id-1-pg-#國產劇$/index.php?m=vod-list-id-12-pg-#港劇$/index .php?m=vod-list-id-13-pg-#台劇$/index.php?m=vod-list-id-14-pg-#韓劇$/index.php?m=vod-list- id-15-pg-#日劇$/index.php?m=vod-list-id-17-pg-#美劇$/index.php?m=vod-list-id-16-pg-#海外劇$ /index.php?m=vod-list-id-18-pg-#綜藝$/index.php?m=vod-list-id-30-pg-#動畫$/index.php?m=vod-list -id-4-pg-",
+  "houzhui": "-order--by-time-class-0-year-0-letter--area--lang-.html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"con\",
+  "jiequshuzuhou": "</em>",
+  "tupianqian": "data-src=\"",
+  "tupianhou": "\",
+  "biaotiqian": "alt=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php?m=vod-search&wd=",
+  "搜搜厚": "",
+  "sousuohouzhui": "/vodhtml/",
+  “ssmoshi”：“1”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "class=\"pic\"",
+  "ssjiequshuzuhou": "</div>",
+  "sstupianqian": "data-src=\",
+  "sstupianhou": "\",
+  "ssbiaotiqian": "title=\",
+  "ssbiaotihou": "\",
+  "sslianjieqian": "href=\",
+  "sslianjiehou": "\",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"ulNumList clearfix list_1",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "狀態：",
+  "zhuangtaihou": "</span>",
+  "daoyanqian": "導演：",
+  "道延後": "</span>",
+  "朱彥謙": "主演：",
+  "朱彥侯": "</span>",
+  "jujingqian": "劇情:",
+  "居慶侯": "</p>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "愛看電影",
+  "url": "https://ikan6.vip/",
+  "守業": "1",
+  "fenlei": "電影$/vodshow/1--------#國產劇$/vodshow/13--------#港台劇$/vodshow/14------ --#日韓劇$/vodshow/15--------#歐美劇$/vodshow/16------#綜藝$/vodshow/3------#動畫$/vodshow/4--------#記錄片$/vodshow/20--------#國創$/vodshow/21--------#動畫$/vodshow /4--------#動畫$/vodshow/4--------",
+  "後追": "---/",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"module-item-pic\"",
+  "jiequshuzuhou": "</div>",
+  "tupianqian": "data-src=\"",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"scroll-content\"",
+  "bfjiequshuzuhou": "</div>",
+  "zhuangtaiqian": "集合數：</span>",
+  "zhuangtaihou": "</div>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</div>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</div>",
+  "jujingqian": "劇情：</span>",
+  "居慶侯": "</div>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": "<span>",
+  "bfbiaotihou": "</span>",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "作者": "20220612",
+  "name": "4K電影網",
+  "url": "https://www.4kdyw.cn", //填網站鏈接
+  "tihuan": "cnzz.com", //這個不用動，是個網站嗅探時過濾地址使用的
+  "User": "空", //這個不用動，是個網站播放需要請請求頭時間才能用到
+  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  "守業": "1",
 
-CN卡通頻道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
-ELEVEN 1,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
-ELEVEN 2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-Fox News,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-France24,http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
-HBO,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-HBO原創,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-JET綜合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
-TLC,http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
-TVBS,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-TVBS新聞台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-TVBS歡樂台,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-TVB星河,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
-三立戲劇台,http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
-東森幼幼,http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
-東森戲劇,http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
-東森新聞,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-東森羊片,http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
-東森財經新聞,http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
-東森超視,http://198.16.64.10:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-中天亞洲台,http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
-中天娛樂,http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-中天新聞,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-中天綜合,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
-中視,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
-中視新聞,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
-亞洲旅遊台,http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
-八大戲劇台,http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-八大綜合台,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e9449421325575
-動物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
-華視,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
-博斯網球,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-博斯運動二台,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
-博斯高球,http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
-博斯魅力,http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
-衛視中文台,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
-台視,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
-國家地理,http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
-國家地理野生,http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
-大愛,http://198.16.64.10:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
-好消息2台,http://198.16.64.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
-好萊塢電影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-年代新聞,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-探索亞洲,http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
-探索動力,http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
-探索科學,http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
-探索頻道,http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
-民視台灣台,http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-民視新聞台,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-愛爾達體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-愛爾達體育2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-愛爾達影劇台,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
-愛爾達影劇台,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
-緯來體育,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
-美亞電影台,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-靖天國際台,http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
-靖天資訊台,http://198.16.64.10:8278/jingtianinfo_twn/playlist.m3u8?tid=MBBB4193573341935733&ct=19226&tsum=a90c32c7e1c51e5f30cff8add7dbea68
-靖天卡通台,http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
-非凡新聞,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-龍華偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
-龍華卡通,http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
-龍華戲劇,http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
-龍華洋片,http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
-龍華經典,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
-龍祥時代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-ABC News,http://198.16.64.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-BT ESPN,http://198.16.64.10:8278/btespn/playlist.m3u8?tid=MA7A3153817131538171&ct=19225&tsum=9452e06c1cdd6935e85cb94a95212a9a
-BT Sports 1,http://198.16.64.10:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
-BT Sports 2,http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
-BT Sports 3,http://198.16.64.10:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
-Baby TV,http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
-Bein Sports 2,http://198.16.64.10:8278/Bein2hd/playlist.m3u8?tid=MD5D6186771861867718&ct=19225&tsum=7c0ab40062586283b22934ea37318203
-CBS News,http://198.16.64.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-CNA Japan,http://198.16.64.10:8278/cna_japan/playlist.m3u8?tid=MDBD9115772291157722&ct=19225&tsum=afdf94a5d0b7efaa3e64a42a4fde7455
-CNA,http://198.16.64.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
-CNN International,http://198.16.64.10:8278/cnn_antik/playlist.m3u8?tid=MDDD5459459654594596&ct=19225&tsum=6755808cb6aeb34e391b5c7ab695342a
-Cartoon Network,http://198.16.64.10:8278/Cn/playlist.m3u8?tid=MCDC2144535021445350&ct=19225&tsum=32569c846de798e3502372d35d00773f
-DW,http://198.16.64.10:8278/KiX/playlist.m3u8?tid=MC7C1172544811725448&ct=19225&tsum=b8bc88b03797e354c5997adec13d939b
-Euronews,http://198.16.64.10:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
-HGTV,http://198.16.64.10:8278/HGTV/playlist.m3u8?tid=MA6A4582634045826340&ct=19225&tsum=cc71b142aa9f87185b6496fc6c7724ba
-HISTORY,http://198.16.64.10:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f
-Itv 1,http://198.16.64.10:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=19226&tsum=79815878394f0f1cd30a6f043febfbb8
-Itv 2,http://198.16.64.10:8278/itv2_antik/playlist.m3u8?tid=MFFF6920712969207129&ct=19226&tsum=8d0ef3e278e5c4010cec6570464fa2ea
-Music TV,http://198.16.64.10:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
-Sky News,http://198.16.64.10:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
-Sky Sports Arena,http://198.16.64.10:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f
-Sky Sports Cricket,http://198.16.64.10:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
-Sky Sports F1,http://198.16.64.10:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2
-[MY]ASSP 1,http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
-[MY]ASSP 3,http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
-[MY]SPO TV,http://198.16.64.10:8278/Spotvgp/playlist.m3u8?tid=MB6B7102612171026121&ct=19225&tsum=76aaf615979ef9dd5500182243df51ed
-[MY]AOD350,http://198.16.64.10:8278/Aod350/playlist.m3u8?tid=MB1B2059094520590945&ct=19225&tsum=bcc2ef93d38a7d6692870a50d8754563
-[MY]AEC,http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
-MY]華麗台,http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-[MY]雙星,http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
-[MY]全佳,http://198.16.64.10:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
-[MY]歡喜台,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
-[MY]小太陽,http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
-[MY]小太陽,http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
-[MY]天映頻道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
-[MY]天映經典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89
-[MY]GoShop,http://198.16.64.10:8278/Goshopch/playlist.m3u8?tid=ME8E6726672067266720&ct=19225&tsum=fc0c084625e23b3be63c14141de70916
-[MY]TV8,http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-[MY]TVBS,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
-[MY]TVBS新聞台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-[MY]星衛HD電影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-[MY]ANIMAX,http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
-[MY]ARENA 2,http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
-[MY]ARENA,http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
-[MY]AXN,http://198.16.64.10:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
-[MY]Animal Planet,http://198.16.64.10:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
-[MY]Awani,http://198.16.64.10:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
-[MY]BBC 1,http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
-[MY]BBC 2,http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-[MY]BBC Lifestyle,http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
-[MY]BBC WORLD NEWS,http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-[MY]BERNAMA,http://198.16.64.10:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
-[MY]Bloomberg,http://198.16.64.10:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
-[MY]CBBC,http://198.16.64.10:8278/cbbc_antik/playlist.m3u8?tid=MA4A9598485295984852&ct=19225&tsum=f014b03e65dd6b89eacae112ac675ef6
-[MY]CBeebies,http://198.16.64.10:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
-[MY]Golf Channel,http://198.16.64.10:8278/Astrogolf/playlist.m3u8?tid=ME0E1209799712097997&ct=19225&tsum=b3a5a85654e70c92ffd9f877528cf62b
-[MY]NAT GEO WILD,http://198.16.64.10:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
-[MY]NAT GEO,http://198.16.64.10:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
-[MY]Nick Jr,http://198.16.64.10:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
-[MY]Nickelodeon,http://198.16.64.10:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
-[MY]Oh!k,http://198.16.64.10:8278/Ohk/playlist.m3u8?tid=MF4F8315986583159865&ct=19225&tsum=ca2352c9f1852dd9395c2bd259afe372
-[MY]One,http://198.16.64.10:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
-[MY]TLC,http://198.16.64.10:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
-[MY]WWE,http://198.16.64.10:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
-[MY]Warner TV,http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
-[CN]CCTV-1,http://198.16.64.10:8278/cctv1/playlist.m3u8?tid=MB2B9826281798262817&ct=19225&tsum=c3e8198631cfa41940fb6aba4b1ae841
-[CN]CCTV-2,http://198.16.64.10:8278/cctv2/playlist.m3u8?tid=ME0E6752603767526037&ct=19225&tsum=8937e0b8c7c22fce4834f366a2ab6bde
-[CN]CCTV-4,http://198.16.64.10:8278/cctv4/playlist.m3u8?tid=MB9B9242441792424417&ct=19225&tsum=ed1fc427f02a63dffacdedae975959ce
-[CN]CCTV-5,http://198.16.64.10:8278/cctv5/playlist.m3u8?tid=MD2D5656337456563374&ct=19225&tsum=29861256a9ff86acc68cce955fb93829
-[CN]CCTV-5+,http://198.16.64.10:8278/cctv5plus/playlist.m3u8?tid=MF6F3069243930692439&ct=19225&tsum=7f79687e9afcfd2a0757b7b74c32fedd
-[CN]CCTV-6,http://198.16.64.10:8278/cctv6/playlist.m3u8?tid=MF9F5072146350721463&ct=19225&tsum=4a988a91f37a523b17f426e19716e532
-[CN]CCTV-8,http://198.16.64.10:8278/cctv8hd/playlist.m3u8?tid=MB9B2648043726480437&ct=19225&tsum=570c59d4ae344fe8968eeebf18261612
-[CN]CCTV-9,http://198.16.64.10:8278/cctv9hd/playlist.m3u8?tid=MB3B2175701421757014&ct=19225&tsum=a8e4eb20b41c000aaec59f1994e5884c
-[CN]CCTV-10,http://198.16.64.10:8278/cctv10hd/playlist.m3u8?tid=MD5D5225889152258891&ct=19225&tsum=1aa176c8bde01378d6ba42864e80f8c6
-[CN]CCTV-12,http://198.16.64.10:8278/cctv12/playlist.m3u8?tid=ME5E1868210218682102&ct=19225&tsum=91f63d21af1bd01ed7de6e5cde5cd55c
-[CN]CCTV-13,http://198.16.64.10:8278/cctv13/playlist.m3u8?tid=MEAE5893429158934291&ct=19225&tsum=7e437e531910f3c24213fd3661fcc983
-[CN]CCTV-14,http://198.16.64.10:8278/cctv14/playlist.m3u8?tid=MA1A2502333425023334&ct=19225&tsum=c1ac4fbf128b149d27738f3315c5dfc1
-[CN]CGTN,http://198.16.64.10:8278/CGTN/playlist.m3u8?tid=MDED6717475367174753&ct=19225&tsum=096735a63d2e871c3ab4980cfea64fe4
-[CN]浙江衛視,http://198.16.64.10:8278/Zhejiang/playlist.m3u8?tid=MC7C4621237046212370&ct=19226&tsum=78beb1b45c44b53e621403b4327efa56
-[CN]浙江衛視(備),http://198.16.64.10:8278/zhejiang_twn/playlist.m3u8?tid=MD7D8766114087661140&ct=19226&tsum=c7f1ba96c1394e50a2a8b646bd398cae
-[CN]湖南衛視,http://198.16.64.10:8278/hunan_twn/playlist.m3u8?tid=MC9C7618917276189172&ct=19226&tsum=2610487b0e9424def632889b293c0e9e
-[CN]江蘇衛視,http://198.16.64.10:8278/jiangsu_twn/playlist.m3u8?tid=MA6A5213905852139058&ct=19226&tsum=561feb226ebe64b3644f03d929c2a88a
-[CN]深圳衛視,http://198.16.64.10:8278/shenzhen/playlist.m3u8?tid=MB9B3874889638748896&ct=19226&tsum=ade93def83a9c1eff7bceddd6ce76483
-[CN]四川衛視,http://198.16.64.10:8278/sichuan_twn/playlist.m3u8?tid=MD4D5174810351748103&ct=19226&tsum=dd620e398eb2b4f07c3a05dc39bd6673
-[CN]廣西衛視,http://198.16.64.10:8278/guangxi/playlist.m3u8?tid=MB5B3787443737874437&ct=19226&tsum=fff4886674a160d3d57ddf759569c511
-CN]湖北衛視,http://198.16.64.10:8278/hubei/playlist.m3u8?tid=MF2F5899308558993085&ct=19226&tsum=a2b015b4bc0a21b9ffcbf3db2655b579
-[KO]AllTheKpop,http://198.16.64.10:8278/allthekpop_korea/playlist.m3u8?tid=MDDD8149394181493941&ct=19225&tsum=9f1d9df0da62cc0a30d0e5357356e012
-[KO]ARIRANG,http://198.16.64.10:8278/arirang_korea/playlist.m3u8?tid=MF0F4469644244696442&ct=19225&tsum=74c6b6af7ddf9d5cdada2a0bf81650a7
-[KO]NHK,http://198.16.64.10:8278/nhkworld_japan/playlist.m3u8?tid=MD5D5829793458297934&ct=19225&tsum=88195c0527d1cf627a24133aa7fbacad
-[KO]The K-POP,http://198.16.64.10:8278/jthekpop_korea/playlist.m3u8?tid=MCCC8163723981637239&ct=19225&tsum=53c895b4be81be369500a38192516c6b
-[KO]CBS,http://198.16.64.10:8278/cbs_korea/playlist.m3u8?tid=MDAD4507283145072831&ct=19225&tsum=2a813574c958e8ae1a2f5c64237e9bb9
-[KO]CGNTV,http://198.16.64.10:8278/cgntv_korea/playlist.m3u8?tid=MABA6473602964736029&ct=19225&tsum=8564b434d07391db48f35d6545cb33b1
-[KO]EBS 2,http://198.16.64.10:8278/ebs2_korea/playlist.m3u8?tid=MDAD9379144693791446&ct=19225&tsum=67f9bca3b4c05139b9fbcb009d11b368
-[KO]EBS KIDS,http://198.16.64.10:8278/ebskids_korea/playlist.m3u8?tid=MA3A1606825116068251&ct=19225&tsum=ba2e74385295167bc2752c628474354c
-[KO]MBC,http://198.16.64.10:8278/mbc_korea/playlist.m3u8?tid=MEAE9573382995733829&ct=19225&tsum=a0b7c980377ecbf15c1c9b8ae93b82aa
-[KO]SBS,http://198.16.64.10:8278/sbs_korea/playlist.m3u8?tid=MD4D1766226017662260&ct=19225&tsum=f1b382d363dc059ae4d9d14bc0c66913
-[KO]TVN,http://198.16.64.10:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
-[HK]翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8
-[HK]無線新聞台,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
-[HK]無線財經資訊台,http://iptv12k.com:35461/live/test167/12345/1011.m3u8
-[HK]J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8
-[HK]明珠台,http://iptv12k.com:35461/live/test167/12345/1020.m3u8
-[HK]TVB娛樂新聞台,http://iptv12k.com:35461/live/test167/12345/1001.m3u8
-[HK]TVB千禧經典台,http://iptv12k.com:35461/live/test167/12345/1003.m3u8
-[HK]TVB星河,http://iptv12k.com:35461/live/test167/12345/1000.m3u8
-[HK]RTHK31,http://iptv12k.com:35461/live/test167/12345/1004.m3u8
-[HK]RTHK32,http://iptv12k.com:35461/live/test167/12345/1005.m3u8
-[HK]有線新聞台,http://iptv12k.com:35461/live/test167/12345/1018.m3u8
-[HK]有線電影台,http://iptv12k.com:35461/live/test167/12345/1010.m3u8
-[HK]有線體育台,http://iptv12k.com:35461/live/test167/12345/1017.m3u8
-[HK]有線18台,http://iptv12k.com:35461/live/test167/12345/1022.m3u8
-[HK]有線603台,http://iptv12k.com:35461/live/test167/12345/1023.m3u8
-[HK]香港開電視,http://iptv12k.com:35461/live/test167/12345/1013.m3u8
-[HK]Now新聞台,http://iptv12k.com:35461/live/test167/12345/1002.m3u8
-[HK]Now直播台,http://iptv12k.com:35461/live/test167/12345/1015.m3u8
-[HK]Now Sports Prime,http://iptv12k.com:35461/live/test167/12345/1014.m3u8
-[HK]VIUTV,http://iptv12k.com:35461/live/test167/12345/1008.m3u8
-[HK]VIUTV 6,http://iptv12k.com:35461/live/test167/12345/1007.m3u8
-[HK]耀才財經台,http://iptv12k.com:35461/live/test167/12345/1016.m3u8
-[MY]ASSP,http://iptv12k.com:35461/live/test167/12345/972.m3u8
-[MY]ASSP(b),http://iptv12k.com:35461/live/test167/12345/7990.m3u8
-[MY]ASSP2,http://iptv12k.com:35461/live/test167/12345/971.m3u8
-[MY]ASSP2(b),http://iptv12k.com:35461/live/test167/12345/655.m3u8
-[MY]ASSP2(b2),http://iptv12k.com:35461/live/test167/12345/7988.m3u8
-[MY]ASSP3,http://iptv12k.com:35461/live/test167/12345/970.m3u8
-[MY]ASSP3(b),http://iptv12k.com:35461/live/test167/12345/654.m3u8
-[MY]ASSP3(b2),http://iptv12k.com:35461/live/test167/12345/7985.m3u8
-[MY]ASSP4,http://iptv12k.com:35461/live/test167/12345/7983.m3u8
-[MY]ASSP4(b),http://iptv12k.com:35461/live/test167/12345/969.m3u8
-[MY]ASSP4(b2),http://iptv12k.com:35461/live/test167/12345/653.m3u8
-[MY]ASSP5,http://iptv12k.com:35461/live/test167/12345/7982.m3u8
-[MY]AEC,http://iptv12k.com:35461/live/test167/12345/709.m3u8
-[MY]AOD351,http://iptv12k.com:35461/live/test167/12345/705.m3u8
-[MY]AOD352,http://iptv12k.com:35461/live/test167/12345/704.m3u8
-[MY]AOD353,http://iptv12k.com:35461/live/test167/12345/703.m3u8
-[MY]AOD354,http://iptv12k.com:35461/live/test167/12345/702.m3u8
-[MY]AOD355,http://iptv12k.com:35461/live/test167/12345/701.m3u8
-[MY]翡翠華麗台,http://iptv12k.com:35461/live/test167/12345/698.m3u8
-[MY]雙星,http://iptv12k.com:35461/live/test167/12345/706.m3u8
-[MY]全佳,http://iptv12k.com:35461/live/test167/12345/710.m3u8
-[MY]歡喜台,http://iptv12k.com:35461/live/test167/12345/707.m3u8
-[MY]愛奇藝,http://iptv12k.com:35461/live/test167/12345/708.m3u8
-[MY]小太陽,http://iptv12k.com:35461/live/test167/12345/700.m3u8
-[MY]中天亞洲台,http://iptv12k.com:35461/live/test167/12345/694.m3u8
-[MY]TVBS亞洲台,http://iptv12k.com:35461/live/test167/12345/695.m3u8
-[MY]TVB星河,http://iptv12k.com:35461/live/test167/12345/696.m3u8
-[MY]TVB娛樂新聞台,http://iptv12k.com:35461/live/test167/12345/697.m3u8
-[MY]TVB經典台,http://iptv12k.com:35461/live/test167/12345/699.m3u8
-[MY]天映頻道,http://iptv12k.com:35461/live/test167/12345/581.m3u8
-[MY]天映頻道,http://iptv12k.com:35461/live/test167/12345/692.m3u8
-[MY]天映經典,http://iptv12k.com:35461/live/test167/12345/693.m3u8
-[MY]8TV,http://iptv12k.com:35461/live/test167/12345/738.m3u8
-[MY]ABC,http://iptv12k.com:35461/live/test167/12345/592.m3u8
-[MY]AFN,http://iptv12k.com:35461/live/test167/12345/640.m3u8
-[MY]ANIMAX,http://iptv12k.com:35461/live/test167/12345/605.m3u8
-[MY]ANIPLUS,http://iptv12k.com:35461/live/test167/12345/686.m3u8
-[MY]AXN,http://iptv12k.com:35461/live/test167/12345/608.m3u8
-[MY]AXN,http://iptv12k.com:35461/live/test167/12345/1243.m3u8
-[MY]AnimalPlanet,http://iptv12k.com:35461/live/test167/12345/633.m3u8
-[MY]BBCEarth,http://iptv12k.com:35461/live/test167/12345/624.m3u8
-[MY]BBC,http://iptv12k.com:35461/live/test167/12345/623.m3u8
-[MY]BOOMERANG,http://iptv12k.com:35461/live/test167/12345/614.m3u8
-[MY]BabyTV,http://iptv12k.com:35461/live/test167/12345/616.m3u8
-[MY]Bloomberg,http://iptv12k.com:35461/live/test167/12345/590.m3u8
-[MY]CARTOON,http://iptv12k.com:35461/live/test167/12345/613.m3u8
-[MY]CBeebies,http://iptv12k.com:35461/live/test167/12345/615.m3u8
-[MY]CI,http://iptv12k.com:35461/live/test167/12345/634.m3u8
-[MY]CINEMAX,http://iptv12k.com:35461/live/test167/12345/607.m3u8
-[MY]CN,http://iptv12k.com:35461/live/test167/12345/618.m3u8
-[MY]CNBC,http://iptv12k.com:35461/live/test167/12345/593.m3u8
-[MY]CNN,http://iptv12k.com:35461/live/test167/12345/594.m3u8
-[MY]CinemaWorld,http://iptv12k.com:35461/live/test167/12345/1881.m3u8
-[MY]Cinemax,http://iptv12k.com:35461/live/test167/12345/1882.m3u8
-[MY]Cinemax,http://iptv12k.com:35461/live/test167/12345/1883.m3u8
-[MY]ComedyCentral,http://iptv12k.com:35461/live/test167/12345/683.m3u8
-[MY]Cricket,http://iptv12k.com:35461/live/test167/12345/684.m3u8
-[MY]DMAX,http://iptv12k.com:35461/live/test167/12345/636.m3u8
-[MY]DW,http://iptv12k.com:35461/live/test167/12345/622.m3u8
-[MY]Discovery,http://iptv12k.com:35461/live/test167/12345/627.m3u8
-[MY]DisneyXD,http://iptv12k.com:35461/live/test167/12345/626.m3u8
-[MY]Eentertainment,http://iptv12k.com:35461/live/test167/12345/637.m3u8
-[MY]EURONEWS,http://iptv12k.com:35461/live/test167/12345/588.m3u8
-[MY]EUROSPORT,http://iptv12k.com:35461/live/test167/12345/647.m3u8
-[MY]FOXMOVIES+,http://iptv12k.com:35461/live/test167/12345/611.m3u8
-[MY]FOXMOVIES+,http://iptv12k.com:35461/live/test167/12345/612.m3u8
-[MY]FOXMOVIES,http://iptv12k.com:35461/live/test167/12345/610.m3u8
-[MY]FOXNEWS,http://iptv12k.com:35461/live/test167/12345/587.m3u8
-[MY]FOX,http://iptv12k.com:35461/live/test167/12345/609.m3u8
-[MY]FRANCE24,http://iptv12k.com:35461/live/test167/12345/589.m3u8
-[MY]FoodChannel,http://iptv12k.com:35461/live/test167/12345/638.m3u8
-[MY]GOLF,http://iptv12k.com:35461/live/test167/12345/651.m3u8
-[MY]HBOFamily,http://iptv12k.com:35461/live/test167/12345/1891.m3u8
-[MY]HBOFamily,http://iptv12k.com:35461/live/test167/12345/597.m3u8
-[MY]HBOHiTS,http://iptv12k.com:35461/live/test167/12345/603.m3u8
-[MY]HBOHits,http://iptv12k.com:35461/live/test167/12345/1889.m3u8
-[MY]HBOHits,http://iptv12k.com:35461/live/test167/12345/598.m3u8
-[MY]HBOSignature,http://iptv12k.com:35461/live/test167/12345/596.m3u8
-[MY]HBO,http://iptv12k.com:35461/live/test167/12345/599.m3u8
-[MY]HGTV,http://iptv12k.com:35461/live/test167/12345/641.m3u8
-[MY]HISTORY,http://iptv12k.com:35461/live/test167/12345/629.m3u8
-[MY]HITSMOVIES,http://iptv12k.com:35461/live/test167/12345/602.m3u8
-[MY]KBSWorld,http://iptv12k.com:35461/live/test167/12345/713.m3u8
-[MY]Kix,http://iptv12k.com:35461/live/test167/12345/689.m3u8
-[MY]LOVENATURE,http://iptv12k.com:35461/live/test167/12345/621.m3u8
-[MY]MTV,http://iptv12k.com:35461/live/test167/12345/586.m3u8
-[MY]NAT GEO,http://iptv12k.com:35461/live/test167/12345/632.m3u8
-[MY]NAT GEO WILD,http://iptv12k.com:35461/live/test167/12345/630.m3u8
-[MY]NET GEO WILD,http://iptv12k.com:35461/live/test167/12345/1222.m3u8
-[MY]NBATV,http://iptv12k.com:35461/live/test167/12345/942.m3u8
-[MY]NHKWORLD,http://iptv12k.com:35461/live/test167/12345/585.m3u8
-[MY]Oh!K,http://iptv12k.com:35461/live/test167/12345/712.m3u8
-[MY]One,http://iptv12k.com:35461/live/test167/12345/711.m3u8
-[MY]Outdoor,http://iptv12k.com:35461/live/test167/12345/582.m3u8
-[MY]PREMIERSPORTS,http://iptv12k.com:35461/live/test167/12345/687.m3u8
-[MY]ROCKENTERTAINMENT,http://iptv12k.com:35461/live/test167/12345/601.m3u8
-[MY]ROCKEXTREME,http://iptv12k.com:35461/live/test167/12345/600.m3u8
-[MY]SKYNEWS,http://iptv12k.com:35461/live/test167/12345/591.m3u8
-[MY]TLC,http://iptv12k.com:35461/live/test167/12345/639.m3u8
-[MY]TSN,http://iptv12k.com:35461/live/test167/12345/1878.m3u8
-[MY]TrvlChannel,http://iptv12k.com:35461/live/test167/12345/635.m3u8
-[MY]WARNERTV,http://iptv12k.com:35461/live/test167/12345/604.m3u8
-[MY]WWE,http://iptv12k.com:35461/live/test167/12345/652.m3u8
-[MY]nickjr,http://iptv12k.com:35461/live/test167/12345/619.m3u8
-[MY]nick,http://iptv12k.com:35461/live/test167/12345/617.m3u8
-[MY]tvNMovies,http://iptv12k.com:35461/live/test167/12345/715.m3u8
-[MY]tvN,http://iptv12k.com:35461/live/test167/12345/714.m3u8
-TVBS,http://iptv12k.com:35461/live/test167/12345/1272.m3u8
-TVBS歡樂台,http://iptv12k.com:35461/live/test167/12345/1271.m3u8
-三立iNews,http://iptv12k.com:35461/live/test167/12345/1358.m3u8
-三立台灣台,http://iptv12k.com:35461/live/test167/12345/1286.m3u8
-三立新聞,http://iptv12k.com:35461/live/test167/12345/1285.m3u8
-三立都會台,http://iptv12k.com:35461/live/test167/12345/1287.m3u8
-東森電影台,http://iptv12k.com:35461/live/test167/12345/1866.m3u8
-東森戲劇,http://iptv12k.com:35461/live/test167/12345/1255.m3u8
-東森綜合,http://iptv12k.com:35461/live/test167/12345/1280.m3u8
-東森羊片,http://iptv12k.com:35461/live/test167/12345/1256.m3u8
-東森洋片,http://iptv12k.com:35461/live/test167/12345/1867.m3u8
-東森財經新聞,http://iptv12k.com:35461/live/test167/12345/1356.m3u8
-中天亞洲台,http://iptv12k.com:35461/live/test167/12345/1278.m3u8
-中天新聞,http://iptv12k.com:35461/live/test167/12345/1357.m3u8
-中視新聞,http://iptv12k.com:35461/live/test167/12345/1291.m3u8
-中視菁采台,http://iptv12k.com:35461/live/test167/12345/1273.m3u8
-八大娛樂台,http://iptv12k.com:35461/live/test167/12345/1281.m3u8
-八大戲劇台,http://iptv12k.com:35461/live/test167/12345/1284.m3u8
-八大第一台,http://iptv12k.com:35461/live/test167/12345/1282.m3u8
-八大綜合台,http://iptv12k.com:35461/live/test167/12345/1283.m3u8
-衛視中文台,http://iptv12k.com:35461/live/test167/12345/1257.m3u8
-衛視電影台,http://iptv12k.com:35461/live/test167/12345/1258.m3u8
-衛視電影台,http://iptv12k.com:35461/live/test167/12345/1261.m3u8
-衛視電影台,http://iptv12k.com:35461/live/test167/12345/1868.m3u8
-台視,http://iptv12k.com:35461/live/test167/12345/1290.m3u8
-壹新聞,http://iptv12k.com:35461/live/test167/12345/1293.m3u8
-年代新聞,http://iptv12k.com:35461/live/test167/12345/1359.m3u8
-星衛HD電影,http://iptv12k.com:35461/live/test167/12345/1870.m3u8
-星衛娛樂台,http://iptv12k.com:35461/live/test167/12345/1247.m3u8
-緯來體育,http://iptv12k.com:35461/live/test167/12345/1237.m3u8
-緯來日本,http://iptv12k.com:35461/live/test167/12345/1238.m3u8
-緯來電影,http://iptv12k.com:35461/live/test167/12345/1236.m3u8
-緯來精采,http://iptv12k.com:35461/live/test167/12345/1239.m3u8
-緯來綜合,http://iptv12k.com:35461/live/test167/12345/1240.m3u8
-美亞電影台,http://iptv12k.com:35461/live/test167/12345/1260.m3u8
-美亞電影台,http://iptv12k.com:35461/live/test167/12345/1869.m3u8
-美食星球,http://iptv12k.com:35461/live/test167/12345/1259.m3u8
-ELEVEN2,http://iptv12k.com:35461/live/test167/12345/1217.m3u8
-ELTA體育1台,http://iptv12k.com:35461/live/test167/12345/1221.m3u8
-ELTA體育3台,http://iptv12k.com:35461/live/test167/12345/1219.m3u8
-ELTA綜合,http://iptv12k.com:35461/live/test167/12345/679.m3u8
-ELTA影劇,http://iptv12k.com:35461/live/test167/12345/1248.m3u8
-EYE TV旅遊,http://iptv12k.com:35461/live/test167/12345/1223.m3u8
-JET綜合,http://iptv12k.com:35461/live/test167/12345/1262.m3u8
-霹靂台灣台,http://iptv12k.com:35461/live/test167/12345/690.m3u8
-大愛,http://iptv12k.com:35461/live/test167/12345/1204.m3u8
-天映頻道,http://iptv12k.com:35461/live/test167/12345/1875.m3u8
-天映經典,http://iptv12k.com:35461/live/test167/12345/1253.m3u8
-天映經典,http://iptv12k.com:35461/live/test167/12345/1871.m3u8
-新唐人亞太台,http://iptv12k.com:35461/live/test167/12345/1200.m3u8
-momo親子台,http://iptv12k.com:35461/live/test167/12345/1209.m3u8
-人間衛視,http://iptv12k.com:35461/live/test167/12345/1202.m3u8
-SBN全球財經台,http://iptv12k.com:35461/live/test167/12345/1251.m3u8
-SBN全球財經台,http://iptv12k.com:35461/live/test167/12345/1277.m3u8
-AFN亞洲美食,http://iptv12k.com:35461/live/test167/12345/1229.m3u8
-動物星球,http://iptv12k.com:35461/live/test167/12345/1233.m3u8
-好萊塢電影,http://iptv12k.com:35461/live/test167/12345/1249.m3u8
-AXN b,http://iptv12k.com:35461/live/test167/12345/2127.m3u8
-AXN,http://iptv12k.com:35461/live/test167/12345/1885.m3u8
-CATCHPLAY電影台,http://iptv12k.com:35461/live/test167/12345/1252.m3u8
-CINEMAX,http://iptv12k.com:35461/live/test167/12345/1214.m3u8
-CatchPlay電影台,http://iptv12k.com:35461/live/test167/12345/1865.m3u8
-Ci罪案偵緝頻道,http://iptv12k.com:35461/live/test167/12345/1246.m3u8
-DW,http://iptv12k.com:35461/live/test167/12345/1208.m3u8
-HBO HD,http://iptv12k.com:35461/live/test167/12345/1893.m3u8
-HBO HD,http://iptv12k.com:35461/live/test167/12345/1266.m3u8
-HBO原創,http://iptv12k.com:35461/live/test167/12345/1887.m3u8
-HBO原創,http://iptv12k.com:35461/live/test167/12345/1263.m3u8
-HBO家庭,http://iptv12k.com:35461/live/test167/12345/1265.m3u8
-HBO強檔,http://iptv12k.com:35461/live/test167/12345/1264.m3u8
-HISTORY,http://iptv12k.com:35461/live/test167/12345/1206.m3u8
-HISTORY2,http://iptv12k.com:35461/live/test167/12345/1201.m3u8
-[CN]CCTV1,http://iptv12k.com:35461/live/test167/12345/1333.m3u8
-[CN]CCTV2,http://iptv12k.com:35461/live/test167/12345/1332.m3u8
-[CN]CCTV3,http://iptv12k.com:35461/live/test167/12345/1331.m3u8
-[CN]CCTV4,http://iptv12k.com:35461/live/test167/12345/1330.m3u8
-[CN]CCTV5,http://iptv12k.com:35461/live/test167/12345/1329.m3u8
-[CN]CCTV5+,http://iptv12k.com:35461/live/test167/12345/1328.m3u8
-[CN]CCTV6,http://iptv12k.com:35461/live/test167/12345/1327.m3u8
-[CN]CCTV7,http://iptv12k.com:35461/live/test167/12345/1326.m3u8
-[CN]CCTV8,http://iptv12k.com:35461/live/test167/12345/1325.m3u8
-[CN]CCTV9,http://iptv12k.com:35461/live/test167/12345/1324.m3u8
-[CN]CCTV10,http://iptv12k.com:35461/live/test167/12345/1323.m3u8
-[CN]CCTV11,http://iptv12k.com:35461/live/test167/12345/1322.m3u8
-[CN]CCTV12,http://iptv12k.com:35461/live/test167/12345/1321.m3u8
-[CN]CCTV13,http://iptv12k.com:35461/live/test167/12345/1320.m3u8
-[CN]CCTV14,http://iptv12k.com:35461/live/test167/12345/1319.m3u8
-[CN]CCTV15,http://iptv12k.com:35461/live/test167/12345/1318.m3u8
-[CN]東方衛視,http://iptv12k.com:35461/live/test167/12345/1309.m3u8
-[CN]北京衛視,http://iptv12k.com:35461/live/test167/12345/1312.m3u8
-[CN]廣東衛視,http://iptv12k.com:35461/live/test167/12345/1313.m3u8
-[CN]浙江衛視,http://iptv12k.com:35461/live/test167/12345/1316.m3u8
-[CN]湖南衛視,http://iptv12k.com:35461/live/test167/12345/1317.m3u8
-[CN]深圳衛視,http://iptv12k.com:35461/live/test167/12345/1302.m3u8
-[CN]天津衛視,http://iptv12k.com:35461/live/test167/12345/1303.m3u8
-[CN]山東衛視,http://iptv12k.com:35461/live/test167/12345/1307.m3u8
-[CN]安徽衛視,http://iptv12k.com:35461/live/test167/12345/1308.m3u8
-[CN]遼寧衛視,http://iptv12k.com:35461/live/test167/12345/1295.m3u8
-[CN]黑龍江衛視,http://iptv12k.com:35461/live/test167/12345/1298.m3u8
-[CN]重慶衛視,http://iptv12k.com:35461/live/test167/12345/1299.m3u8
-[CN]海南衛視,http://iptv12k.com:35461/live/test167/12345/1301.m3u8
-[CN]雲南衛視,http://iptv12k.com:35461/live/test167/12345/1297.m3u8
-[CN]河南衛視,http://iptv12k.com:35461/live/test167/12345/1300.m3u8
+  "fenlei": "國產劇$/vodshow/13--------#港台劇$/vodshow/14--------#日韓劇$/vodshow/15----- ---#歐洲劇$/vodshow/16------#電視劇(B站)$/vodshow/45------#紀錄片$/vodshow/24------ ---#紀錄片(B站)$/vodshow/46--------#日本動畫$/vodshow/21--------#國產動畫$/vodshow/20---- ----#歐美動畫$/vodshow/22--------#動畫電影$/vodshow/25--------#番劇(B站)$/vodshow/42-- ------#國創(B站)$/vodshow/43--------#綜藝$/vodshow/3--------#動畫片$/vodshow/6- ------#喜劇片$/vodshow/7--------#愛情片$/vodshow/8--------#科幻片$/vodshow/9--- -----#恐怖片$/vodshow/10--------#劇情片$/vodshow/11--------#戰爭片$/vodshow/12----- ---#犯罪片$/vodshow/27--------#災難片$/vodshow/28-------#歷史片$/vodshow/29------- -#傳記片$/vodshow/30--------#歌舞片$/vodshow/47--------#電影(B站)$/vodshow/44------ --", //網站列表的分類
+  "houzhui": "---.html", //網站翻頁鏈接的後綴
+
+  "shifouercijiequ": "0", //截取的列表數組是否需要二次截取，0不需要，1需要
+  "jiequqian": "空", //不需要二次截圖就填空
+  "jiequhou": "空", //不需要二次截取就填空
+  "jiequshuzuqian": "class=\"module-item-pic", //截取的列表數組的前關鍵詞,截取的關鍵詞有 " 的用途 \ 進行轉義
+  "jiequshuzuhou": "alt=\"", //截取的列表數組的後關鍵字,截取的關鍵字有"的用途\進行轉義
+  "tupianqian": "data-src=\"", //列表中資源的圖片前關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "tupianhou": "\"", //列表中資源的圖片後關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "biaotiqian": "title=\"", //列表中資源的標題前關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "biaotihou": "\"", //列表中資源的標題後關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "lianjieqian": "href=\"", //列表中資源的詳情頁跳轉鏈接接入前關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "lianjiehou": "\"", //列表中資源的詳情頁跳轉鏈接連接後關鍵詞,截取的關鍵詞有"的用途\進行轉義
+
+  //搜索部分基礎不可用，現在網站基礎都是蘋果CMS，所有搜索都是固定的。
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/", //搜索頁面跳轉詳情頁的中間標籤鏈接部分
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"sort-item", //播放截取的列表數組的前關鍵詞
+  "bfjiequshuzuhou": "</div>", //播放截取的列表數組的後關鍵字
+
+  "zhuangtaiqian": "集數：</span><div class=\"video-info-item\">", //狀態前關鍵詞
+  "zhuangtaihou": "</div>", //狀態後關鍵詞
+  "daoyanqian": "導演：</span>", //導演前關鍵詞
+  "daoyanhou": "</div>", //引導狀態後關鍵字
+  "zhuyanqian": "主演：</span>", //主演前關鍵詞
+  "zhuyanhou": "</div>", //主演後關鍵詞
+  "juqingqian": "vod_content\"><span>, //劇情前關鍵詞
+  "juqinghou": "</span>", //劇情后關鍵詞
+
+  "bfyshifouercijiequ": "0", //截圖的播放列表數組是否需要二次截圖，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截圖就填空
+  "bfyjiequhou": "空", //不需要二次截圖就填空
+  "bfyjiequshuzuqian": "<a", //播放劇集數字組前關鍵詞
+  "bfyjiequshuzuhou": "/a>", //播放劇集分組後關鍵詞
+  "bfbiaotiqian": "span>", //播出劇集標題前關鍵詞
+  "bfbiaotihou": "</span", //狀態播放劇集標題後關鍵詞
+  "bflianjieqian": "href=\"", //播放劇集鏈接前關鍵詞
+  "bflianjiehou": "\""
+},
+{
+  "作者": "20220611",
+  "name": "麻衣高清",
+  "url": "https://www.mayigq.com", //填網站鏈接
+  "tihuan": "cnzz.com", //這個不用動，是個網站嗅探時過濾地址使用的
+  "User": "空", //這個不用動，是個網站播放需要請請求頭時間才能用到
+  "守業": "1",
+
+  "fenlei": "劇集$/lists/2--------#動畫$/lists/3--------#動畫片$/lists/1---動畫--- --#綜藝$/lists/4--------#記錄片$/lists/5--------#國產劇$/lists/2---國產----#日韓劇$/lists/2---日韓----#歐美劇$/lists/2---歐美-----#港台劇$/lists/2---港台-- ---#海外劇$/lists/2---國產----#喜劇$/lists/1---喜劇----#愛情片$/lists/1---愛情- ----#恐怖片$/lists/1---恐怖----#動畫片$/lists/1---動畫----#科幻片$/lists/1---科幻-----#劇情$/lists/1----劇情-----#戰爭片$/lists/1---戰爭----#警匪片$/lists/1---警匪-----#犯罪片$/lists/1---犯罪-----#奇幻片$/lists/1---奇幻----#武俠片$/lists/1-- -武俠-----#冒險片$/lists/1---冒險-----#槍戰片$/lists/1---槍戰----#懸疑片$/lists/1- --懸疑-----#驚疑片$/lists/1---驚疑-----#青春片$/lists/1---青春----#文藝片$/lists/1 ---文藝-----#古裝片$/lists/1---古裝----#歷史片$/lists/1---歷史----#運動片$/lists/ 1---運動-----#農村片$/lists/1---農村-----#兒童片$/lists/1---兒童-----",//網站列表的分類
+  "houzhui": "---.html", //網站翻頁鏈接的後綴
+
+  "shifouercijiequ": "0", //截取的列表數組是否需要二次截取，0不需要，1需要
+  "jiequqian": "空", //不需要二次截圖就填空
+  "jiequhou": "空", //不需要二次截取就填空
+  "jiequshuzuqian": "class=\"module-item-pic", //截取的列表數組的前關鍵詞,截取的關鍵詞有 " 的用途 \ 進行轉義
+  "jiequshuzuhou": "alt=\"", //截取的列表數組的後關鍵字,截取的關鍵字有"的用途\進行轉義
+  "tupianqian": "data-src=\"", //列表中資源的圖片前關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "tupianhou": "\"", //列表中資源的圖片後關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "biaotiqian": "title=\"", //列表中資源的標題前關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "biaotihou": "\"", //列表中資源的標題後關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "lianjieqian": "href=\"", //列表中資源的詳情頁跳轉鏈接接入前關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "lianjiehou": "\"", //列表中資源的詳情頁跳轉鏈接連接後關鍵詞,截取的關鍵詞有"的用途\進行轉義
+
+  //搜索部分基礎不可用，現在網站基礎都是蘋果CMS，所有搜索都是固定的。
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/show/", //搜索頁面跳轉詳情頁的中間標籤鏈接部分
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"sort-item", //播放截取的列表數組的前關鍵詞
+  "bfjiequshuzuhou": "</div>", //播放截取的列表數組的後關鍵字
+
+  "zhuangtaiqian": "集合數：</span>", //狀態前關鍵詞
+  "zhuangtaihou": "</div>", //狀態後關鍵詞
+  "daoyanqian": "導演：</span>", //導演前關鍵詞
+  "daoyanhou": "</div>", //引導狀態後關鍵字
+  "zhuyanqian": "主演：</span>", //主演前關鍵詞
+  "zhuyanhou": "</div>", //主演後關鍵詞
+  "juqingqian": "vod_content\"><span>, //劇情前關鍵詞
+  "juqinghou": "</span", //劇情后關鍵詞
+
+  "bfyshifouercijiequ": "0", //截圖的播放列表數組是否需要二次截圖，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截圖就填空
+  "bfyjiequhou": "空", //不需要二次截圖就填空
+  "bfyjiequshuzuqian": "<a", //播放劇集數字組前關鍵詞
+  "bfyjiequshuzuhou": "/a>", //播放劇集分組後關鍵詞
+  "bfbiaotiqian": "span>", //播出劇集標題前關鍵詞
+  "bfbiaotihou": "</span", //狀態播放劇集標題後關鍵詞
+  "bflianjieqian": "href=\"", //播放劇集鏈接前關鍵詞
+  "bflianjiehou": "\""
+},
+{
+  "作者": "20220612",
+  "name": "大米星球",
+  "url": "https://www.dmxq.fun", //填網站鏈接
+  "tihuan": "cnzz.com", //這個不用動，是個網站嗅探時過濾地址使用的
+  "User": "空", //這個不用動，是個網站播放需要請請求頭時間才能用到
+  "守業": "1",
+
+  “粉蕾”：“電影$/vodshow/20--------#電視劇$/vodshow/21--------#動畫$/vodshow/22--------#綜藝$/vodshow/ 23--------#Netflix(劇)$/vodshow/21---Netflix-----#國產劇$/vodshow/21-大陸------#韓國劇$/ vodshow/21-韓國------#美國劇$/vodshow/21-美國------#英國劇$/vodshow/21-英國------#泰國劇$ /vodshow/21-泰國------#日本劇$/vodshow/21-日本------#香港劇$/vodshow/21-香港------#台灣劇$/vodshow/21-台灣------#Netflix(片)$/vodshow/20---Netflix-----#仙俠片$/vodshow/20---仙俠--- --#劇情片$/vodshow/20---劇情-----#科幻片$/vodshow/20---科幻----#動畫片$/vodshow/20---動畫-- ---#喜劇片$/vodshow/20---喜劇-----#愛情片$/vodshow/20---愛情-----#冒險片$/vodshow/20---冒險- ----#兒童片$/vodshow/20---兒童----#歌舞片$/vodshow/20---歌舞-----#音樂片$/vodshow/20---音樂-----#奇幻片$/vodshow/20---奇幻-----#動畫片$/vodshow/20---動畫-----#恐怖片$/vodshow/20---恐怖-----#驚悚片$/vodshow/20---驚奇-----#戰爭片$/vodshow/20---戰爭----#傳奇片$/vodshow/20-- -傳記-----#紀錄片$/vodshow/20---紀-----#犯罪片$/vodshow/20---犯罪----#懸疑片$/vodshow/20---懸疑-----#西部片$/vodshow/20---西部-----#災難片$/vodshow/20---災難----#古裝片$/vodshow/ 20---古裝-----#武俠片$/vodshow/20---武俠-----#家庭片$/vodshow/20---家庭----#短片$/vodshow/ 20---短片-----#運動片$/vodshow/20---運動-----#青春片$/vodshow/20---青春-----#同性片$/vodshow /20---同性-----#勵志片$/vodshow/20---勵志-----#歷史片$/vodshow/20---歷史-----", //網站列表的分類
+  "houzhui": "---.html", //網站翻頁鏈接的後綴
+
+  "shifouercijiequ": "1", //截取的列表數組是否需要二次截取，0不需要，1需要
+  "jiequqian": "class=\"module-items", //不需要二次截圖就填空
+  "jiequhou": "class=\"fixedGroup", //不需要二次截圖就填空
+  "jiequshuzuqian": "<a", //截取的列表數組的前面關鍵詞,截取的關鍵詞有 " 的用途\進行轉義
+  "jiequshuzuhou": "alt=\"", //截取的列表數組的後關鍵字,截取的關鍵字有"的用途\進行轉義
+  "tupianqian": "data-original=\"", //列表中資源的圖片前關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "tupianhou": "\"", //列表中資源的圖片後關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "biaotiqian": "title=\"", //列表中資源的標題前關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "biaotihou": "\"", //列表中資源的標題後關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "lianjieqian": "href=\"", //列表中資源的詳情頁跳轉鏈接接入前關鍵詞,截取的關鍵詞有"的用途\進行轉義
+  "lianjiehou": "\"", //列表中資源的詳情頁跳轉鏈接連接後關鍵詞,截取的關鍵詞有"的用途\進行轉義
+
+  //搜索部分基礎不可用，現在網站基礎都是蘋果CMS，所有搜索都是固定的。
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/", //搜索頁面跳轉詳情頁的中間標籤鏈接部分
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"module-play-list\"", //播放截圖的列表數組的前關鍵詞
+  "bfjiequshuzuhou": "</div>", //播放截取的列表數組的後關鍵字
+
+  "zhuangtaiqian": "備註：</span>", //狀態前關鍵詞
+  "zhuangtaihou": "</div>", //狀態後關鍵詞
+  "daoyanqian": "導演：</span>", //導演前關鍵詞
+  "daoyanhou": "</div>", //引導狀態後關鍵字
+  "zhuyanqian": "主演：</span>", //主演前關鍵詞
+  "zhuyanhou": "</div>", //主演後關鍵詞
+  "juqingqian": "n-content\"><p>, //劇情前關鍵詞
+  "juqinghou": "</p>", //劇情后關鍵詞
+
+  "bfyshifouercijiequ": "0", //截圖的播放列表數組是否需要二次截圖，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截圖就填空
+  "bfyjiequhou": "空", //不需要二次截圖就填空
+  "bfyjiequshuzuqian": "<a", //播放劇集數字組前關鍵詞
+  "bfyjiequshuzuhou": "/a>", //播放劇集分組後關鍵詞
+  "bfbiaotiqian": "span>", //播出劇集標題前關鍵詞
+  "bfbiaotihou": "</span", //狀態播放劇集標題後關鍵詞
+  "bflianjieqian": "href=\"", //播放劇集鏈接前關鍵詞
+  "bflianjiehou": "\""
+},
+{"name": "看31影視",
+"url": "https://www.31kan.vip",
+“作者”：“dj”，
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "熱播劇集$/vodshow/2--hits-----#熱播電影$/vodshow/1--hits------#熱播綜藝$/vodshow/3 --hits------#熱播少年$/vodshow/33--hits------#國產劇$/vodshow/2-大陸------#港劇$/vodshow/ 2-香港-----#韓劇$/vodshow/2-韓國-----#美劇$/vodshow/2-美國-----#泰劇$/vodshow/2 -泰國------#日劇$/vodshow/2-日本------#英劇$/vodshow/2-英國------,
+"houzhui": "---.html",
+"Shifouercijiequ": "1",
+"jiequqian": "<ul class=\"myui-vodlist",
+"接取後": "</ul>",
+"jiequshuzuqian": "class=\"myui-vodlist__box\"",
+"jiequshuzuhou": "</span>",
+"tupianqian": "原始=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/","ssmoshi": "0","sousuoshifouercijiequ": "0","jspic": "pic","jsname": "name","jsid": "id", "ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "更新：</span>",
+"莊太后": "</p>",
+"daoyanqian": "導演：</span>",
+"道延後": "</p>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</p>",
+"juqingqian": "簡介：</span>",
+"居慶侯": "</p>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "YYDS影院",
+"url": "https://www.yydsvod.com",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電視劇$/vod/show/drama--------#電影$/vod/show/movie--------#綜藝$/vod/show/varietyshow--- -----#動畫$/vod/show/animes--------",
+"houzhui": "---.html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"col-lg-6 col-md-6 col-sm-4 col-xs-3\"",
+"jiequshuzuhou": "</li>",
+"tupianqian": "data-original=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\"","lianjiehou": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/vod/detail/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "class=\"col-md-1",
+"ssjiequshuzuhou": "</li>",
+"sstupianqian": "src=\",
+"sstupianhou": "\",
+"ssbiaotiqian": "title=\",
+"ssbiaotihou": "\",
+"sslianjieqian": "href=\",
+"sslianjiehou": "\",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"myui-content__list",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "分類：</span>",
+"莊太后": "</p>",
+"daoyanqian": "導演：</span>",
+"道延後": "</p>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</p>",
+"juqingqian": "簡介：</span>",
+"居慶侯": "</span>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "火影影視",
+"url": "https://www.huohuo99.com",
+“提環”：“”，
+"用戶": "空",
+"fenlei":"動畫片$/vodtype/6-#喜劇片$/vodtype/7-#愛情片$/vodtype/8-#科幻片$/vodtype/9-#恐怖片$/vodtype/10-#劇情片$/vodtype/11-#戰爭片$/vodtype/12-#驚悚片$/vodtype20-#懸疑片$vodtype/23-#動畫片$/vodtype/24-#國產劇$/vodtype/13- #港台劇$/vodtype/14-#日韓劇$/vodtype15-#歐美劇$vodtype/16-#番劇$/vodtype/31-#綜藝$/vodtype/4-#記錄片$/vodtype/5- ",
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"hl-list-item hl",
+"jiequshuzuhou": "</div>",
+"tupianqian": "data-original=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"搜索前":"/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": " id=\"hl-plays-list",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "狀態：</em>",
+"zhuangtaihou": "</a>",
+"daoyanqian": "導演：</em>",
+"道延後": "</a>",
+"zhuyanqian": "主演：</em>",
+"朱彥侯": "</a>",
+"juqingqian": "簡介：</em>",
+"居慶侯": "</li>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{“名稱”：“Cokemv”，
+"url": "https://cokemv.me",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電影$/vodshow/1--------#電視劇$/vodshow/2--------#動畫$/vodshow/4--------#綜藝$/vodshow/3--------#推薦$/vodshow/5--------",
+"houzhui": "---.html",
+"Shifouercijiequ": "1",
+"jiequqian": "class=\"module-items module-poster-items-base \"",
+"jiequhou": "id=\"page\"",
+"jiequshuzuqian": "<a",
+"jiequshuzuhou": "</a>",
+"tupianqian": "原始=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"module-play-list-content module-play-list-",
+"bfjiequshuzuhou": "</div>",
+"zhuangtaiqian": "集合數：</span>",
+"zhuangtaihou": "</div>",
+"daoyanqian": "導演：</span>",
+"道延後": "</div>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</div>",
+"juqingqian": "class=\"module-info-introduction-content\">",
+"聚慶侯": "</",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": "<span>",
+"bfbiaotihou": "</span>",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "口袋影院",
+"url": "http://www.koudaitv.com",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電影$/type/1-1--hits-----#連續劇$/type/2-1--hits------#動畫$/type/4-1- ------#綜藝$/type/3-1--------#韓劇$/type/14-1--------#美劇$/type/15-1 --------",
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"vbox\"",
+"jiequshuzuhou": "</a>",
+"tupianqian": "data-original=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"搜索前": "/search-pg-1-wd-",
+"sousuohou": ".html",
+"搜索厚追": "/詳情/",
+“ssmoshi”：“1”，
+"搜索師傅二節曲": "0",
+"jspic": "空間",
+"jsname": "空",
+"jsid": "空",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "class=\"vbox\"",
+"ssjiequshuzuhou": "</a>",
+"sstupianqian": "data-original=\",
+"sstupianhou": "\",
+"ssbiaotiqian": "title=\",
+"ssbiaotihou": "\",
+"sslianjieqian": "href=\",
+"sslianjiehou": "\",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"list_block show\"",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"yac\">",
+"莊太后": "</p>",
+"daoyanqian": "導演：</span>",
+"道延後": "</p>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</p>",
+"juqingqian": "class=\"tbox_js\">",
+"居慶侯": "</div>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<li>",
+"bfyjiequshuzuhou": "</li>",
+"bfbiaotiqian": "\">",
+"bfbiaotihou": "</a>",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "9億國語",
+"url": "http://www.9e03.com",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"分雷": "熱播劇集$/vodshow/zuijinrebodianshiju/page/#熱播電影$/vodshow/zuijinrebodianying/page/#綜藝$/vodshow/zongyi/page/#動畫$/vodshow/dongman/page/#國語配音電影$/vodshow/gypy/page/#國語配音劇集$/vodshow/guoyupeiyinhanju/page/#國語配音動畫$/vodshow/guoyupeiyindongman/page/#國產劇$/vodshow/lianxuju/area/中國大陸/ page/#港劇$/vodshow/lianxuju/area/香港/page/#韓劇$/vodshow/lianxuju/area/韓國/page/#美劇$/vodshow/lianxuju/area/美國/page/#泰劇$/vodshow /lianxuju/area/泰國/page/#日劇$/vodshow/lianxuju/area/日本/page/#英劇$/vodshow/lianxuju/area/英國/page/",
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"myui-vodlist__box\"",
+"jiequshuzuhou": "</span>",
+"tupianqian": "原始=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "更新：</span>",
+"莊太后": "</p>",
+"daoyanqian": "導演：</span>",
+"道延後": "</p>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</p>",
+"juqingqian": "簡介：</span>",
+"居慶侯": "<a",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{
+  "name": "凜冬又至",
+  "url": "https://ldyz.live/",
+  "守業": "1",
+  "fenlei": "電影$/vodtype/1-#歐美劇$/vodtype/20-#日劇$/vodtype/24-#韓劇$/vodtype/21-#泰劇$/vodtype/23-#動漫$/視頻類型/4-",
+  "後追": ".html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"myui-vodlist__box\"",
+  "jiequshuzuhou": "</span>",
+  "tupianqian": "原始=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"playlist",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "更新：</span>",
+  "莊太后": "</p>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</p>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</p>",
+  "juqingqian": "簡介：</span>",
+  "居慶侯": "</div>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{"name": "黑洞網",
+"url": "https://www.nulltm.com",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電視劇$/vodtype/2-#電影$/vodtype/1-#綜藝$/vodtype/3-#動畫$/vodtype/4-",
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"stui-vodlist__box",
+"jiequshuzuhou": "</li>",
+"tupianqian": "data-original=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/vodsearch/",
+"sousuohou": "------------1---.html",
+"sousuohouzhui": "/voddetail/",
+“ssmoshi”：“1”，
+"搜索師傅二節曲": "0",
+"jspic": "空間",
+"jsname": "空",
+"jsid": "空",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "class=\"stui-vodlist__box",
+"ssjiequshuzuhou": "</li>",
+"sstupianqian": "data-original=\",
+"sstupianhou": "\",
+"ssbiaotiqian": "title=\",
+"ssbiaotihou": "\",
+"sslianjieqian": "href=\",
+"sslianjiehou": "\",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "更新：",
+"莊太后": "</p>",
+"daoyanqian": "導演：",
+"道延後": "</p>",
+"朱彥謙": "主演：",
+"朱彥侯": "</p>",
+"juqingqian": "簡介：",
+"居慶侯": "</p>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<li",
+"bfyjiequshuzuhou": "</li>",
+"bfbiaotiqian": "\">",
+"bfbiaotihou": "</a>",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "北川影視",
+"url": "https://www.bcwzg.com",
+"tihuan": "51.la",
+"User": "Referer: https://j.bcyingshi.ink/",
+"fenlei": "電視劇$/vodshow/2--------#電影$/vodshow/1--------#綜藝$/vodshow/3--------#動畫$/vodshow/4--------#體育專欄$/vodshow/29--------#動畫片$/vodshow/6--------#喜劇片$ /vodshow/7--------#愛情片$/vodshow/8--------#科幻片$/vodshow/9--------#恐怖片$/vodshow /10--------#劇情$/vodshow/11--------#戰爭片$/vodshow/12--------#國產劇$/vodshow/13 --------#港台劇$/vodshow/14--------#日韓劇$/vodshow/15--------#歐美劇$/vodshow/16- ------",
+"後追": "---/",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"module-item-pic\"",
+"jiequshuzuhou": "class=\"loading\"",
+"tupianqian": "data-src=\"",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"scroll-content\"",
+"bfjiequshuzuhou": "</div>",
+"zhuangtaiqian": "備註：</span>",
+"zhuangtaihou": "</div>",
+"daoyanqian": "導演：</span>",
+"道延後": "</div>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</div>",
+"juqingqian": "class=\"video-info-item video-info-content vod_content\">",
+"居慶侯": "<a",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "</a>",
+"bfbiaotiqian": "<span>",
+"bfbiaotihou": "</span>",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "達達龜",
+"url": "http://www.dadagui.com",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電視劇$/vodtype/2-#電影$/vodtype/1-#綜藝$/vodtype/3-#動畫$/vodtype/4-",
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"stui-vodlist__box",
+"jiequshuzuhou": "</li>",
+"tupianqian": "data-original=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/vodsearch/------------.html?wd=",
+"搜搜厚": "",
+"sousuohouzhui": "/voddetail/",
+“ssmoshi”：“1”，
+"搜索師傅二節曲": "0",
+"jspic": "空間",
+"jsname": "空",
+"jsid": "空",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "class=\"thumb",
+"ssjiequshuzuhou": "</li>",
+"sstupianqian": "data-original=\",
+"sstupianhou": "\",
+"ssbiaotiqian": "title=\",
+"ssbiaotihou": "\",
+"sslianjieqian": "href=\",
+"sslianjiehou": "\",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"stui-content__playlist clearfix",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "類型：",
+"莊太后": "</p>",
+"daoyanqian": "導演：",
+"道延後": "</p>",
+"朱彥謙": "主演：",
+"朱彥侯": "</p>",
+"juqingqian": "style=\"display: none;\">",
+"居慶侯": "</span>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空","bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "電視劇白白-藍光",
+"url": "https://www.jubaibai.cc",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電視劇$/type/dianshiju-#電影$/type/dianying-#綜藝$/type/綜藝-#動畫$/type/東漫-#紀錄片$/type/劇集-#動畫片$/vodshow /id/動畫片/page/#歡樂片$/vodshow/id/戲篇/page/#愛情片$/vodshow/id/愛情片/page/#科幻片$/vodshow/id/客環片/page/#恐怖片$ /vodshow/id/控布片/page/#電視劇$/vodshow/id/劇情片/page/#戰爭片$/vodshow/id/戰正片/page/#國產劇$/vodshow/id/國產劇/page/#港台劇$/vodshow/id/gangtaiju/page/#日韓劇$/vodshow/id/rihanju/page/#歐美劇$/vodshow/id/oumeiju/page/#其他劇$/vodshow/id/qitaju/page /",
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"stui-vodlist__box\"",
+"jiequshuzuhou": "</a>",
+"tupianqian": "原始=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/vod/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupian hou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"stui-content__playlist sort-list",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"data hidden-xs\">類型：",
+"莊太后": "</p>",
+"daoyanqian": "class=\"data\">導演：",
+"道延後": "</p>",
+"zhuyanqian": "class=\"data\">主要演員：",
+"朱彥侯": "</p>",
+"juqingqian": "style=\"display: none;\">",
+"居慶侯": "</span>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{
+  "name": "伊雪灣",
+  "tihuan": "cnzz.com",
+  "守業": "1",
+  "url": "https://www.yixuewan.com",
+  "fenlei": "電視劇$/vodtype/2-#電影$/vodtype/1-#綜藝$/vodtype/3-#動畫$/vodtype/4-#紀錄片$/vodtype/5-#動畫$/vodtype/ 6-#喜劇$/vodtype/7-#愛情$/vodtype/8-#科幻$/vodtype/9-#恐怖$/vodtype/10-#劇情$/vodtype/11-#戰爭$/vodtype/12- #震驚$/vodtype/20-#犯罪$/vodtype/21-#冒險$/vodtype/22-#國產劇$/vodtype/13-#港台劇$/vodtype/14-#日韓劇$/vodtype/ 15-#歐美劇$/vodtype/16-#泰劇$/vodtype/29-",
+  "後追": ".html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"module-item-pic\"",
+  "jiequshuzuhou": "</div>",
+  "tupianqian": "data-src=\"",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"module-blocklist scroll-box scroll-box-y\">",
+  "bfjiequshuzuhou": "</div>",
+  "zhuangtaiqian": "備註：</span>",
+  "zhuangtaihou": "</div>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</div>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</div>",
+  "jujingqian": "劇情：</span>",
+  "居慶侯": "<a",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "</a>",
+  "bfbiaotiqian": "<span>",
+  "bfbiaotihou": "</span>",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{
+  "name": "極品影視",
+  "網址": "https://www.jpys.me/",
+  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  "守業": "1",
+  "fenlei": "電影$/vodshow/1--------#電視劇$/vodshow/2--------#國產劇$/vodshow/13-------- #港台劇$/vodshow/14--------#日韓劇$/vodshow/15--------#歐美劇$/vodshow/16--------#綜藝$/vodshow/3--------#動畫$/vodshow/4--------",
+  "houzhui": "---.html",
+  "施佛爾次捷解": "0",
+  "接取錢": "空",
+  "jiequhou": "空",
+  "jiequshuzuqian": "class=\"myui-vodlist__box\"",
+  "jiequshuzuhou": "</span>",
+  "tupianqian": "原始=\",
+  "tupianhou": "\",
+  "biaotiqian": "title=\",
+  "表體後": "\",
+  "lianjieqian": "href=\",
+  "連杰侯": "\",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/",
+  “ssmoshi”：“0”，
+  "搜索師傅二節曲": "0",
+  "jspic": "圖片",
+  "jsname": "名稱",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "id=\"playlist",
+  "bfjiequshuzuhou": "</ul>",
+  "zhuangtaiqian": "更新：</span>",
+  "莊太后": "</p>",
+  "daoyanqian": "導演：</span>",
+  "道延後": "</p>",
+  "zhuyanqian": "主演：</span>",
+  "朱彥侯": "</p>",
+  "juqingqian": "簡介：</span>",
+  "居慶侯": "</div>",
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\",
+  "bflianjiehou": "\""
+},
+{"name": "鴨奈飛",
+“網址”：“https://netflix.mom”，
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電影$/index.php/vod/show/id/1/page/#連續劇$/index.php/vod/show/id/2/page/#綜藝$/index.php/vod/ show/id/3/page/#動畫$/index.php/vod/show/id/4/page/",
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "<div class=\"module-item-pic\">",
+"jiequshuzuhou": "</div>",
+"tupianqian": "data-src=\"",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後":"\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/index.php/vod/detail/id/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"sort-item",
+"bfjiequshuzuhou": "</div>",
+"zhuangtaiqian": "集合數：</span>",
+"zhuangtaihou": "</div>",
+"daoyanqian": "導演：</span>",
+"道延後": "</div>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</div>",
+"jujingqian": "劇情：</span>",
+"居慶侯": "</span>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian":"空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": "<span>",
+"bfbiaotihou": "</span>",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "莫扎兔",
+"url": "https://mozhatu.com",
+"tihuan": "cnzz.com",
+"用戶": "空",
+"fenlei": "電影$/index.php/vod/show/id/1/page/#電視劇$/index.php/vod/show/id/2/page/#國產劇$/index.php/vod /show/id/201/page/#港台劇$/index.php/vod/show/id/202/page/#日韓劇$/index.php/vod/show/id/203/page/#歐美劇$/index.php/vod/show/id/204/page/#海外劇$/index.php/vod/show/id/205/page/#綜藝$/index.php/vod/show/id/ 3/page/#動畫$/index.php/vod/show/id/4/page/",
+"後追": ".html",
+"Shifouercijiequ": "1",
+"jiequqian": "class=\"module-items module-poster-items-base",
+"jiequhou": "id=\"page\"",
+"jiequshuzuqian": "<a",
+"jiequshuzuhou": "</a>",
+"tupianqian": "data-original=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/index.php/vod/detail/id/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"module-play-list\"",
+"bfjiequshuzuhou": "</div>",
+"zhuangtaiqian": "集數：",
+"zhuangtaihou": "</div>",
+"daoyanqian": "導演：",
+"道延後": "</div>",
+"朱彥謙": "主演：",
+"朱彥侯": "</div>",
+"juqingqian": "class=\"module-info-introduction-content\">",
+"居慶侯": "</p>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "</a>",
+"bfbiaotiqian": "<span>",
+"bfbiaotihou": "</span>",
+"bflianjieqian": "href=\",
+"bflianjiehou": "\""},
+{"name": "龍騰影視",
+"tihuan": "cnzz.com",
+"網址": "https://www.118232.com",
+"fenlei": "電影$/vodtype/1/page/#電視劇$/vodtype/2/page/#綜藝$/vodtype/3/page/#國產$/vodtype/13/page/#港台$/vodtype /14/page/#日韓$/vodtype/15/page/#歐美$/vodtype/16/page/#動畫$/vodtype/4/page/#動畫$/vodtype/6/page/#喜劇$/ vodtype/7/page/#愛情$/vodtype/8/page/#科幻$/vodtype/9/page/#恐怖$/vodtype/10/page/#劇情$/vodtype/11/page/#戰爭$/視頻類型/12/頁/"，
+"後追": ".html",
+"施佛爾次捷解": "0",
+"接取錢": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"myui-vodlist__box\"",
+"jiequshuzuhou": "<span",
+"tupianqian": "data-original=\",
+"tupianhou": "\",
+"biaotiqian": "title=\",
+"表體後": "\",
+"lianjieqian": "href=\",
+"連杰侯": "\",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+“ssmoshi”：“0”，
+"搜索師傅二節曲": "0",
+"jspic": "圖片",
+"jsname": "名稱",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"otherbox\">",
+"莊太后": "</p>",
+"daoyanqian": "導演：</span>",
+"道延後": "</p>",
+"zhuyanqian": "主演：</span>",
+"朱彥侯": "</p>",
+"juqingqian": "style=\"display: none;\">",
+"居慶侯": "</span>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a","bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<","bflianjieqian": "href=\",
+"bflianjiehou": "\""}
+]
+}
