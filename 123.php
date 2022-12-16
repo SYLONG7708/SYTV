@@ -17,6 +17,8 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
+
+民視台灣,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 民視台灣,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 
 民視第一,https://315600.xyz/hatv.php?id=151
@@ -82,10 +84,7 @@ TVBS歡樂台,https://315600.xyz/hatv.php?id=42
 中視新聞,https://git.io/Jgkxz
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
-
-三立iNEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
-三立iNEWS,http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
-
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 
 中天新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
 中天新聞,https://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
@@ -186,28 +185,14 @@ ELEVEN體育2臺,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
 
 衛視電影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 
-
-東森電影,http://zb.iptv6.top/gg/gg1/dsm.m3u8
-東森電影,http://120.84.96.33:808/hls/32/index.m3u8
-東森電影,http://120.84.96.50:808/hls/32/index.m3u8
-東森電影,http://120.84.96.55:808/hls/32/index.m3u8
-東森電影,http://120.84.96.62:808/hls/32/index.m3u8
-東森電影,http://120.84.96.66:808/hls/32/index.m3u8
-東森電影,http://120.84.96.74:808/hls/32/index.m3u8
-東森電影,http://120.84.96.78:808/hls/32/index.m3u8
-東森電影,http://120.84.96.161:808/hls/32/index.m3u8
-
+東森電影,http://anan.jxin122.top/cstv/cjj.php?id=29
 
 
 緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 
 
-龍祥時代,https://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
-龍祥時代,http://120.84.96.33:808/hls/35/index.m3u8
-龍祥時代,http://120.84.96.50:808/hls/35/index.m3u8
-龍祥時代,http://120.84.96.62:808/hls/35/index.m3u8
-龍祥時代,http://120.84.96.66:808/hls/35/index.m3u8
-龍祥時代,http://120.84.96.161:808/hls/35/index.m3u8
+龍祥時代,http://anan.jxin122.top/cstv/cjj.php?id=31
+
 
 星衛電影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 星衛電影,P2p://generationnexxxt.com:9906/ea747c2047eb4942a2ad519b5475235f
@@ -219,23 +204,15 @@ ELEVEN體育2臺,mitv://ns1.hellotvvod.com:9906/1c37b81d27744e17a992e864e0ffeec0
 龍華電影,http://218.32.47.179:18556/.m3u8
 龍華電影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 
-好萊塢電影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+東森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+
+好萊塢電影,https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+好萊塢電影,https://epg.pm/stream/b9ff906dcec0ff28bef10c0dc407d3c3884548cbf49661b09593dc0bc60b5f31.ctv
 
 HBO HD,http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/10407.m3u8
 HBO HD,http://45.174.84.154:8000/play/a00r/index.m3u8
 
 HBO2 HD,http://45.174.84.154:8000/play/a00s/index.m3u8
-
-東森洋片,https://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
-東森洋片,http://120.84.96.33:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.50:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.62:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.66:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.74:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.78:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.161:808/hls/33/index.m3u8
-東森洋片,http://120.84.96.161:808/hls/33/index.m3u8
-
 
 
 
