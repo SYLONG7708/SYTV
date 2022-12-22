@@ -22,7 +22,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 民視台灣,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 民視台灣,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 
-民視第一,https://315600.xyz/hatv.php?id=151
+民視第一台,https://epg.pm/stream/e6600143b77b6576c7d78287698f06b73322391885a647f5441b6e41aaea196c.m3u8
 
 
 
@@ -34,7 +34,7 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 三立台灣,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 
 
-
+衛視中文,https://epg.pm/stream/9cfa99c2153accde25995a80725eb5abda4dc5c28b8ff0a4aca65aad5b9e72e5.m3u8
 衛視中文,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
 
 八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
@@ -210,15 +210,14 @@ ELEVEN 6,http://cineapp.org:8000/Fernando/Fernando/7456
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 東森電影,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=120.84.96.i&tvid=dsdy
 
-
-
+緯來電影,https://epg.pm/stream/c8ef4f68abdee55a06c078230c904e4ee9073bab68de3ef63e54b4ac3c7df74f.m3u8
 緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 
 
 龍祥時代,http://120.84.96.161:808/hls/35/index.m3u8
 龍祥時代,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
 
-
+星衛電影,https://epg.pm/stream/4237b1f6bda8e86d182b634a673a05686290c39aab586635fb85179880e2e548.m3u8
 星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 
 
