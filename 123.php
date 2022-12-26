@@ -202,7 +202,7 @@ MOMO親子台,https://epg.pm/stream/42c015118245f6ebd7beecc657d8a5752c477cecc0c9
 
 緯來體育,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育,http://123.51.229.65:18509/.m3u8
-
+緯來體育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 
 愛爾達體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 
@@ -233,8 +233,7 @@ ELEVEN 2,https://epg.pm/stream/db88486442d46364734d5dfacd58cf09de55b290cf8a5f2b3
 
 電影,#genre#
 
-衛視電影,http://123.58.201.173:52411/test/lshotel.php?id=51
-衛視電影,https://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8
+衛視電影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 
 
 
@@ -244,7 +243,9 @@ ELEVEN 2,https://epg.pm/stream/db88486442d46364734d5dfacd58cf09de55b290cf8a5f2b3
 東森電影,http://120.84.96.78:808/hls/32/index.m3u8
 
 緯來電影,http://123.58.201.173:52411/test/lshotel.php?id=56
-緯來電影,http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
+緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
+
+
 
 
 龍祥時代,https://epg.pm/stream/66ff470bb6eba29ccecd08781f1919899accd440a1a0f61860b578feb1451511.m3u8
