@@ -28,13 +28,12 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 
 民視第一台,https://epg.pm/stream/e6600143b77b6576c7d78287698f06b73322391885a647f5441b6e41aaea196c.m3u8
 
-
 三立台灣,http://198.16.64.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 三立台灣,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 
 
-衛視中文,http://123.58.201.173:52411/test/lshotel.php?id=23
-
+衛視中文,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
+衛視中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 
 八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://123.51.229.65:18539/.m3u8
@@ -45,28 +44,32 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 八大综合,http://218.32.47.179:18520/.m3u8
 
 
-
-八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 八大戲劇 HD,https://epg.pm/stream/4204f0f838d088b6942f0570e0a504754501ce9656775ac1aada376716f6c7f3.m3u8
 八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
 
-中天娛樂,http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
-中天娛樂,https://epg.pm/stream/1b54436f41ecdae6c75454b48f5899bfaf5969e7e12d131dd9cef0b7ee5ce730.m3u8
+中天娛樂,mitv://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
+中天娛樂,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+
+TVBS歡樂台 HD,https://epg.pm/stream/a753c404518cabaa090cf37e747332b318cebfc73eb55838703c27d412d7917a.m3u8
 
 
-TVBS歡樂台 HD,https://epg.pm/stream/b41c59ec0af4cad276d7c6799d211ca86fe871e813338616cc139f907f8362ed.m3u8
-TVBS歡樂台 HD,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-
-愛爾達影劇,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
 愛爾達影劇,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
-愛爾達影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 
 
+龍華偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+龍華偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
 龍華偶像,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-
+龍華偶像,http://59.125.122.90:18573/.m3u8
+龍華偶像,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 
 
 龍華日韓,https://epg.pm/stream/0bd4fd32383b8ae19c8467bfbc8119dea0d6bfdba3e5eb430226481cb7731fc7.m3u8
+龍華日韓,http://220.134.196.147:9501/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+龍華日韓,http://123.51.229.65:18551/.m3u8
+龍華日韓,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+龍華日韓,http://60.251.33.252:18551/.m3u8
+龍華日韓,http://59.125.122.90:18508/.m3u8
+龍華日韓,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 
 
 大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -87,9 +90,7 @@ TVBS歡樂台 HD,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4
 
 
 
-中視新聞,https://epg.pm/stream/730e88509c8ae36f21a36c3c8da0af52453df13e6964a7951169760b4b93cf22.m3u8
-中視新聞,https://epg.pm/stream/670f4477d379625353b09f139e16ec74989c26442e2c2cbe3ccdf0bb47d782ad.m3u8
-中視新聞,https://epg.pm/stream/a4dffc57cfca6b141af5f554bb60f5d563187b144586575d9bebd55d6ba82540.m3u8
+
 中視新聞,https://epg.pm/stream/5822d0b716581e0284d4977de690dd0e9a4d466822c151b7e44a35e846f14045.m3u8
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
@@ -97,12 +98,6 @@ TVBS歡樂台 HD,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
 
-
-
-
-
-華視新聞,https://epg.pm/stream/68583c98a2242fccda11c6ce909022fc7a258a65abd46d8784f7a83a4e6e4fbd.m3u8
-華視新聞,https://epg.pm/stream/a16f9b0b00bf2028de3ff112a80004d57d98cb6ba24574694cfcf46a27ba1cb0.m3u8
 華視新聞,https://epg.pm/stream/3e8860c591d5413bac9328d450813badc145f447c115e9b84fd0705a7d65ec43.m3u8
 華視新聞,https://epg.pm/stream/8a5f28a948d90b3ecb8cf7e35f06aa09a8942a21556bf4c3b04057b33360493c.m3u8
 
@@ -122,28 +117,32 @@ TVBS歡樂台 HD,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4
 三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,https://epg.pm/stream/d236251070e19113cb062661008c8f13b391e6973d61e540e5916275815b538b.ctv
 
-東森新聞,http://123.58.201.173:52411/test/lshotel.php?id=40
-東森新聞,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 
-東森財經新聞,https://epg.pm/stream/70b102b7954d6b1120be28d9d818bc9a52dcc92cc0a45ce716885ab97fab61a3.m3u8
+東森新聞,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+東森新聞,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+
+
+
+東森財經新聞,http://60.251.33.252:18515/.m3u8
+東森財經新聞,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+東森財經新聞,https://git.io/Jgkpc
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 
 
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-https://epg.pm/stream/84b0e1d958c2f933d708548d0dc90061af4a300cec08ec812010140958a24e0b.m3u8
-https://epg.pm/stream/b2d9db5437689cca7b6c4ef979b65c46b2e7281a2180578195dfa41c9ff1b665.m3u8
+TVBS HD,https://epg.pm/stream/84b0e1d958c2f933d708548d0dc90061af4a300cec08ec812010140958a24e0b.m3u8
+TVBS HD,https://epg.pm/stream/b2d9db5437689cca7b6c4ef979b65c46b2e7281a2180578195dfa41c9ff1b665.m3u8
 
 
 
-TVBS新聞,https://epg.pm/stream/d0c440912c5b11a6e1749048c6ba646c5fcaf69ef5677c1edce02806ee98658c.m3u8
+
 TVBS新聞,https://epg.pm/stream/632bdee41b97601c053c8b855bc896f58850c47110fe690bf81dfaebf88c2060.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 
-
-壹新聞,http://123.58.201.173:52411/test/lshotel.php?id=50
-壹新聞,https://epg.pm/stream/e1733e0f9e823070655d0f6e61e81ed4e0862c1e18b560e56e3a78365afcdf8a.ctv
-
+壹新聞,http://60.251.59.180:8501/.m3u8
+壹新聞,http://220.134.196.147:9510/index.m3u8
 
 
 寰宇新聞,https://git.io/JgkpO
@@ -158,9 +157,8 @@ Baby TV,https://epg.pm/stream/1b65ecfb4a4e61c47a3c7c17d82abd2b1a3fdf64aa7a71d517
 Baby TV,https://epg.pm/stream/0f1641ae442c2895b90afd68e01d5e08f38b6122a63dfe7fb6f56b91145c7273.ctv
 
 
-
-CN卡通頻道,https://epg.pm/stream/725aff3ef1d432da9e3b7e46685e24d6382d4bff473fa8b0393a05d8b51bfa3c.m3u8
-CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+CN卡通频道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
+CN卡通频道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 
 
 DAVE卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
@@ -233,27 +231,50 @@ ELEVEN 2,https://epg.pm/stream/db88486442d46364734d5dfacd58cf09de55b290cf8a5f2b3
 
 電影,#genre#
 
+衛視電影,http://218.32.47.179:18553/.m3u8
+衛視電影,http://220.134.196.147:9578/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
 衛視電影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-
-
+衛視電影,http://220.134.196.147:9549/index.m3u8
+衛視電影,http://23.237.10.66:16010
 
 東森電影,https://epg.pm/stream/1f91dc1a1171007562b6dd4a206bb7ba436cfb35d3eb883a7ad0486885bb1ae4.m3u8
-東森電影,https://epg.pm/stream/b8191cd0acb0fac7eae26105fc7ca7373fe8e94e01b5077b0900dc44a8a2791a.m3u8
-東森電影,https://epg.pm/stream/301f16e5186eed6b6cdaa07aaf7604af3b0a232f6c1a5102547832753b631394.m3u8
-東森電影,http://120.84.96.78:808/hls/32/index.m3u8
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森電影,http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
+東森電影,http://120.84.96.161:808/hls/32/index.m3u8?blog.ntnas.top
+東森電影,http://120.84.96.33:808/hls/32/index.m3u8?blog.ntnas.top
+東森電影,http://120.84.96.50:808/hls/32/index.m3u8?blog.ntnas.top
+東森電影,http://120.84.96.55:808/hls/32/index.m3u8?blog.ntnas.top
+東森電影,http://120.84.96.74:808/hls/32/index.m3u8?blog.ntnas.top
+東森電影,http://120.84.96.78:808/hls/32/index.m3u8?blog.ntnas.top
+東森電影,http://120.84.96.69:808/hls/32/index.m3u8?blog.ntnas.top
 
-緯來電影,http://123.58.201.173:52411/test/lshotel.php?id=56
+
+
+緯來電影,http://220.134.196.147:9555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 
-
+龍祥電影,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+龍祥電影,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+龍祥電影,http://120.84.96.62:808/hls/35/index.m3u8?blog.ntnas.top
+龍祥電影,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
 
 
 龍祥時代,https://epg.pm/stream/66ff470bb6eba29ccecd08781f1919899accd440a1a0f61860b578feb1451511.m3u8
-龍祥時代,http://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
-龍祥時代,https://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
+龍祥時代,https://epg.pm/stream/1b281e14bbc52e344d50d9d472068d1f93786e0c8647ea273a860f97eab55890.m3u8
 
 
 
+
+
+星衛電影,http://23.237.10.66:16359
+星衛電影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
 星衛電影,http://pull-l3-cny.douyincdn.com/live/80d54eadb8f343a8b837c22e336155d1.m3u8
 
 美亞電影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
@@ -262,9 +283,12 @@ ELEVEN 2,https://epg.pm/stream/db88486442d46364734d5dfacd58cf09de55b290cf8a5f2b3
 
 
 
-龍華電影,https://epg.pm/stream/d2754f17ad4fa1dbcd3236656d1a716ecfbf32b8b83e22734ffc6dbd1fd041a7.m3u8
 龍華電影,https://epg.pm/stream/f21f9561de9cbcf84cb00ca2dfc6a0f5c3c2ed696abe4336b4f45867f21c47b9.m3u8
-龍華電影,https://stream.naihe.cf/api/v2/channel3.m3u8?fid=litv-longturn03&hd=720&host=https://4gtvfreepc-cds.cdn.hinet.net
+龍華電影,http://220.134.196.147:9504/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
+龍華電影,http://218.32.47.179:18556/.m3u8
+龍華電影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+
+
 
 東森洋片,https://epg.pm/stream/5c483f4313663e3863561084a43ee9192cc67a27cf45925cc40a3105e1c9a5ab.m3u8
 東森洋片,https://epg.pm/stream/89b502c3da06f7c6b8c672759a7b2462e646dcd47b4f9e5e9dc27104b492e397.m3u8
