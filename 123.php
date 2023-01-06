@@ -26,35 +26,33 @@ Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.
 民視台灣,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 民視台灣,http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 
-民視第一台,https://epg.pm/stream/e6600143b77b6576c7d78287698f06b73322391885a647f5441b6e41aaea196c.m3u8
+民視第一台,https://epg.pw/stream/e6600143b77b6576c7d78287698f06b73322391885a647f5441b6e41aaea196c.m3u8
+民視第一台,https://epg.pw/stream/fdab7aff12d0722ecf032d43a89822ceb8a5d2347bc4ab36c1b50717ba1ac585.m3u8
+
 
 三立台灣,http://198.16.64.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 三立台灣,http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 
 
-衛視中文,http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
-衛視中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+衛視中文,http://220.135.55.74:8522/live.m3u8","http://220.135.55.74:8522/http/123.51.149.60:8081/hls/62/804/ch05.m3u8
 
-八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://123.51.229.65:18539/.m3u8
-
+八大第一,https://epg.pw/stream/8125e963d7e224d2c5743ba90a251bcac090e0f5a826a1fc58fe0b19b32ab7a9.m3u8
 
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 八大综合,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 八大综合,http://218.32.47.179:18520/.m3u8
 
+八大戲劇 HD,http://211.23.114.106:8531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8","rtmp://45.83.118.242/channel/60c31d53961593122ebaf92f?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
+八大戲劇 HD,http://220.135.55.74:8549/http/123.51.149.60:8081/hls/66/808/ch23.m3u8
 
-八大戲劇 HD,https://epg.pm/stream/4204f0f838d088b6942f0570e0a504754501ce9656775ac1aada376716f6c7f3.m3u8
-八大戲劇 HD,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
-
-中天娛樂,mitv://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
 中天娛樂,http://50.7.220.74:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娛樂,http://220.135.55.74:8521/live.m3u8","http://220.135.55.74:8521/http/123.51.149.60:8081/hls/67/809/ch26.m3u8
 
-TVBS歡樂台 HD,https://epg.pm/stream/a753c404518cabaa090cf37e747332b318cebfc73eb55838703c27d412d7917a.m3u8
+TVBS歡樂台https://epg.pw/stream/a753c404518cabaa090cf37e747332b318cebfc73eb55838703c27d412d7917a.m3u8
+TVBS歡樂台 ,rtmp://9wv7.mine.nu/sat/tv421","rtmp://59.124.75.138/sat/tv421","rtmp://59.124.75.138:1935/sat/tv421","http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8","http://66.90.88.132:8080/hls/ph00317/index.m3u8","http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
 
-
-愛爾達影劇,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
-
+愛爾達影劇,https://epg.pw/stream/d0ef62401407061dbef4f9ed893af33bd581e328bc3e93320bb8cc9578d0ce9a.m3u8
 
 龍華偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 龍華偶像,http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
@@ -62,8 +60,6 @@ TVBS歡樂台 HD,https://epg.pm/stream/a753c404518cabaa090cf37e747332b318cebfc73
 龍華偶像,http://59.125.122.90:18573/.m3u8
 龍華偶像,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 
-
-龍華日韓,https://epg.pm/stream/0bd4fd32383b8ae19c8467bfbc8119dea0d6bfdba3e5eb430226481cb7731fc7.m3u8
 龍華日韓,http://220.134.196.147:9501/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 龍華日韓,http://123.51.229.65:18551/.m3u8
 龍華日韓,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
@@ -90,16 +86,12 @@ TVBS歡樂台 HD,https://epg.pm/stream/a753c404518cabaa090cf37e747332b318cebfc73
 
 
 
-
-中視新聞,https://epg.pm/stream/5822d0b716581e0284d4977de690dd0e9a4d466822c151b7e44a35e846f14045.m3u8
-中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
-中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中視新聞,https://git.io/Jgkxz
 中視新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
-
-華視新聞,https://epg.pm/stream/3e8860c591d5413bac9328d450813badc145f447c115e9b84fd0705a7d65ec43.m3u8
-華視新聞,https://epg.pm/stream/8a5f28a948d90b3ecb8cf7e35f06aa09a8942a21556bf4c3b04057b33360493c.m3u8
+華視新聞,https://epg.pw/stream/a16f9b0b00bf2028de3ff112a80004d57d98cb6ba24574694cfcf46a27ba1cb0.m3u8
+華視新聞,https://epg.pw/stream/f9e431741cb4630d697392f3b649276f9d9cf157a07980bbc202abca3029a6ad.m3u8
+華視新聞,https://epg.pw/stream/be02f811be54fe060f2ac4cb88282efd19df2b9f8f121f5757f66a0976465c52.m3u8
 
 
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
@@ -108,11 +100,9 @@ TVBS歡樂台 HD,https://epg.pm/stream/a753c404518cabaa090cf37e747332b318cebfc73
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立iNEWS,https://www.youtube.com/watch?v=EB4g7wecgTI
 
-
-中天新聞,https://epg.pm/stream/0a6c58c6edf65d4711b3c7897904f222a47e8351671ab80459e5b7c319636c6e.m3u8
-中天新聞,https://epg.pm/stream/efe1a83b0ded0283704fedc8dea66e322b45cb243b2e79e59848597eed6baa07.m3u8
-中天新聞,https://epg.pm/stream/0ed410a27f761ac2fecd0e0c362b76dd813f2ba343739d79e92bb063225ffd60.m3u8
-
+中天新聞,https://epg.pw/stream/0ed410a27f761ac2fecd0e0c362b76dd813f2ba343739d79e92bb063225ffd60.m3u8
+中天新聞,https://epg.pw/stream/1a7f961e2d29f93b02d224cbfd9115fa05b229641aa9af1c347123b1e71b26a4.m3u8
+中天新聞,https://epg.pw/stream/6cffc14c9028b5e3c1f6303c726c577af4dbb558cf8b891b759f3a3498250e6f.m3u8
 
 三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞,https://epg.pm/stream/d236251070e19113cb062661008c8f13b391e6973d61e540e5916275815b538b.ctv
@@ -152,14 +142,11 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 
 台灣動畫,#genre#
 
-
-Baby TV,https://epg.pm/stream/1b65ecfb4a4e61c47a3c7c17d82abd2b1a3fdf64aa7a71d5171edc5749325893.m3u8
 Baby TV,https://epg.pm/stream/0f1641ae442c2895b90afd68e01d5e08f38b6122a63dfe7fb6f56b91145c7273.ctv
-
+Baby TV,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
 
 CN卡通频道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
-CN卡通频道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-
+CN卡通频道,https://epg.pw/stream/56af4de9a0300a4dc85abc4068d092de690bfde4f90062ceb659f1e373ffb3cc.m3u8
 
 DAVE卡通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 
@@ -197,98 +184,60 @@ MOMO親子台,https://epg.pm/stream/42c015118245f6ebd7beecc657d8a5752c477cecc0c9
 
 
 體育直播,#genre#
-
+緯來體育,https://epg.pw/stream/78cfd983e3c1d2b280209fa4ee3b9f3a2e4959a1c1c865e341556b0e6fae33ca.m3u8
+緯來體育,https://epg.pw/stream/4ce7c6990af846b7be2a3ea7d27e9b7e73cc9d4793d187b39197197251848fa5.m3u8
 緯來體育,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 緯來體育,http://123.51.229.65:18509/.m3u8
-緯來體育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 
-愛爾達體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 
-博斯運動2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-博斯運動2,http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+
+
+愛爾達體育1台,https://epg.pw/stream/610f70df63ca5ca20a09a40662a6231b1d9db5149e62b6e0c8264994d970f7b8.m3u8
+
+博斯運動2,https://epg.pw/stream/b39e59cb29a1d416b4197392d3c0aa956f2e121173d3514aa6887f75be82ac33.m3u8
+博斯運動2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08
 
 ELEVEN體育1台,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 ELEVEN體育1台,http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
 ELEVEN體育1台,rtmp://59.124.75.138/sat/tv731
 ELEVEN體育1台,rtmp://59.124.75.157/sat/tv731
 
-ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELEVEN體育2台,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
 ELEVEN體育2台,rtmp://59.124.75.138/sat/tv741
-ELEVEN體育2台,rtmp://59.124.75.138/sat/md041
-ELEVEN體育2台,rtmp://59.124.75.150/sat/tv741
-
-
-ELEVEN 1,https://epg.pm/stream/ac8baa24473a612fef960cc6f0b27d2e221ed82b04aa556631a1867fc0f796ec.m3u8
-ELEVEN 1,https://epg.pm/stream/935ac40a835441d5624acc45eb0edf19d9898bbdb330dd068060240d1766c58f.m3u8
-ELEVEN 1,https://epg.pm/stream/b79d3683fdf9a8a5d93482bc031ae47574e14828364635e286f728c6f27ba7ad.m3u8
-ELEVEN 1,https://epg.pm/stream/e57b01451b6c33ec6d34ef2f2e631cac95cdd3133777c0f9be497d2cac79f958.m3u8
-
-ELEVEN 2,https://epg.pm/stream/fcd140f34c4d832e58c5fd20ef5b9d9df671bd7a7af2d0f3d7dbf4012423772f.m3u8
-ELEVEN 2,https://epg.pm/stream/db88486442d46364734d5dfacd58cf09de55b290cf8a5f2b3dabc683731c7c53.m3u8
-
+ELEVEN體育2台rtmp://59.124.75.138/sat/md041
 
 
 電影,#genre#
-
 衛視電影,http://218.32.47.179:18553/.m3u8
-衛視電影,http://220.134.196.147:9578/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
-衛視電影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-衛視電影,http://220.134.196.147:9549/index.m3u8
-衛視電影,http://23.237.10.66:16010
+衛視電影,http://220.135.55.74:8529/live.m3u8
 
-東森電影,https://epg.pm/stream/1f91dc1a1171007562b6dd4a206bb7ba436cfb35d3eb883a7ad0486885bb1ae4.m3u8
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-東森電影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859
+東森電影,https://epg.pw/stream/8a7d7dfbf7a37eaef3067258ba8eb4376f083e37b3595bb6fee0b5ec9a9d3626.m3u8
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-東森電影,http://120.84.96.62:808/hls/32/index.m3u8?blog.ntnas.top
-東森電影,http://120.84.96.161:808/hls/32/index.m3u8?blog.ntnas.top
-東森電影,http://120.84.96.33:808/hls/32/index.m3u8?blog.ntnas.top
-東森電影,http://120.84.96.50:808/hls/32/index.m3u8?blog.ntnas.top
-東森電影,http://120.84.96.55:808/hls/32/index.m3u8?blog.ntnas.top
-東森電影,http://120.84.96.74:808/hls/32/index.m3u8?blog.ntnas.top
-東森電影,http://120.84.96.78:808/hls/32/index.m3u8?blog.ntnas.top
-東森電影,http://120.84.96.69:808/hls/32/index.m3u8?blog.ntnas.top
 
 
-
-緯來電影,http://220.134.196.147:9555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
-緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-
-龍祥電影,http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
-龍祥電影,http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-龍祥電影,http://120.84.96.62:808/hls/35/index.m3u8?blog.ntnas.top
-龍祥電影,http://120.84.96.161:808/hls/35/index.m3u8?blog.ntnas.top
+緯來電影,https://epg.pw/stream/f279adaa72d94c6afa3ecbabffbcc4e0965555c1002607cd636610545c4427e1.m3u8
+緯來電影,https://epg.pw/stream/97621d186740a9ae0539359ca4dcd4d4dc1efd5997f2c13b01eaf4d3e5fb1c27.m3u8
 
 
-龍祥時代,https://epg.pm/stream/66ff470bb6eba29ccecd08781f1919899accd440a1a0f61860b578feb1451511.m3u8
-龍祥時代,https://epg.pm/stream/1b281e14bbc52e344d50d9d472068d1f93786e0c8647ea273a860f97eab55890.m3u8
-
-
-
+龍祥時代,http://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
+龍祥時代,http://120.84.96.73:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.78:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.85:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.89:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.96:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.120:808/hls/35/index.m3u8
+龍祥時代,http://120.84.96.126:808/hls/35/index.m3u8
 
 
 星衛電影,http://23.237.10.66:16359
-星衛電影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛電影,https://epg.pw/stream/bd12769516a34b69b06de005266e84cadf2da74d07357fe8dfebdeb608bb6c3d.m3u8
 星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
-星衛電影,http://pull-l3-cny.douyincdn.com/live/80d54eadb8f343a8b837c22e336155d1.m3u8
 
-美亞電影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+美亞電影,https://epg.pw/stream/781f06fa349039a762a1e3ce66ef344fa92146f448e18eea0b2c887e5044367a.m3u8
 美亞電影,https://pull-l3-cny.douyincdn.com/live/e107e7e060e751e790ca28f2a86db8fa.flv
 美亞電影,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 
-
-
-龍華電影,https://epg.pm/stream/f21f9561de9cbcf84cb00ca2dfc6a0f5c3c2ed696abe4336b4f45867f21c47b9.m3u8
-龍華電影,http://220.134.196.147:9504/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
-龍華電影,http://218.32.47.179:18556/.m3u8
-龍華電影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
-
-
+龍華電影,https://epg.pw/stream/f21f9561de9cbcf84cb00ca2dfc6a0f5c3c2ed696abe4336b4f45867f21c47b9.m3u8
 
 東森洋片,https://epg.pm/stream/5c483f4313663e3863561084a43ee9192cc67a27cf45925cc40a3105e1c9a5ab.m3u8
 東森洋片,https://epg.pm/stream/89b502c3da06f7c6b8c672759a7b2462e646dcd47b4f9e5e9dc27104b492e397.m3u8
@@ -298,11 +247,10 @@ ELEVEN 2,https://epg.pm/stream/db88486442d46364734d5dfacd58cf09de55b290cf8a5f2b3
 
 
 
-HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+HBO HD,https://epg.pw/stream/405cd17ec7b0280a350514929d27dbcce71e9ea21a36f680baecd56ec0446431.m3u8
+
 
 HBO2 HD,https://epg.pm/stream/a9b9d126e0d9fc0d52de7239b8a84cfa9e620bc38c14e72fe3f18f893bc78ba6.m3u8
-HBO2 HD,http://45.174.84.154:8000/play/a00s/index.m3u8
-
 
 
 鬥魚輪播,#genre#
@@ -491,63 +439,24 @@ AV女優鄰居,https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145a
 
 
 真人線上(有上線才有影像)_1314,#genre#
-白天,
-Fcup_KEER,https://b-hls-04.doppiocdn.com/hls/79054191/79054191.m3u8
-
-Sexy__Top,https://b-hls-03.doppiocdn.com/hls/73412697/73412697_160p.m3u8
-
-Judy0523,https://b-hls-21.doppiocdn.com/hls/68025190/68025190_160p.m3u8
-
-GeGe_yyds,https://b-hls-19.doppiocdn.com/hls/79992438/79992438_160p.m3u8
-
-HelenDrew,https://b-hls-03.doppiocdn.com/hls/56845617/56845617_160p.m3u8
-
-Faye---,https://b-hls-19.doppiocdn.com/hls/85708671/85708671_160p.m3u8
-
-XUEER_0,https://b-hls-17.doppiocdn.com/hls/78136647/78136647_160p.m3u8
-
-wang1122334,https://b-hls-05.doppiocdn.com/hls/80588572/80588572.m3u8
-
-JennaMason,https://b-hls-21.doppiocdn.com/hls/73902910/73902910_160p.m3u8
-
-傍晚,
-Anna-fay,https://b-hls-12.doppiocdn.com/hls/94620867/94620867_720p.m3u8
-
-Y-baby,https://b-hls-05.doppiocdn.com/hls/93110167/93110167.m3u8
-
-Sexy_Agent,https://b-hls-12.doppiocdn.com/hls/89518469/89518469.m3u8
+Peeggy-fun,https://b-hls-01.doppiocdn.com/hls/94620867/94620867.m3u8
+--SiSi--,https://b-hls-03.doppiocdn.com/hls/99715905/99715905.m3u8
+Bala-,https://b-hls-06.doppiocdn.com/hls/95321949/95321949_720p.m3u8
+JennyJoice,https://b-hls-16.doppiocdn.com/hls/86590299/86590299_720p.m3u8
+twyu,https://b-hls-19.doppiocdn.com/hls/83976815/83976815_720p.m3u8
+SexyDoll_JOJO,https://b-hls-21.doppiocdn.com/hls/81368539/81368539.m3u8
+YIYIBABY,https://b-hls-03.doppiocdn.com/hls/91442094/91442094.m3u8
+aiyami,https://b-hls-06.doppiocdn.com/hls/55869841/55869841.m3u8
+danceCoCo,https://b-hls-17.doppiocdn.com/hls/65568286/65568286_720p.m3u8
+mylittlebabe,https://b-hls-10.doppiocdn.com/hls/63135680/63135680.m3u8
+Gentle--wind,https://b-hls-04.doppiocdn.com/hls/74229940/74229940.m3u8
+-KittyBaby-,https://b-hls-23.doppiocdn.com/hls/64895198/64895198.m3u8
+Cute_Cute,https://b-hls-21.doppiocdn.com/hls/48817437/48817437.m3u8
+aiYuenYuen,https://b-hls-10.doppiocdn.com/hls/98279138/98279138.m3u8
+IU_party,https://b-hls-23.doppiocdn.com/hls/73770510/73770510.m3u8
+CnBoa,https://b-hls-11.doppiocdn.com/hls/88294810/88294810.m3u8
+XiaoYangcong_66,https://b-hls-12.doppiocdn.com/hls/95904463/95904463_720p.m3u8
+uuxiaocai,https://b-hls-06.doppiocdn.com/hls/85179083/85179083.m3u8
+Kathy123_,https://b-hls-02.doppiocdn.com/hls/93369133/93369133.m3u8
 
 
-Cute_Top,https://b-hls-16.doppiocdn.com/hls/73770510/73770510.m3u8
-
-Rose_Top,https://b-hls-17.doppiocdn.com/hls/80753916/80753916_720p.m3u8
-
-Higher_Shoes,https://b-hls-17.doppiocdn.com/hls/91125157/91125157.m3u8
-
-
-melia_Z,https://b-hls-09.doppiocdn.com/hls/50938840/50938840.m3u8
-
-sophy2000,https://b-hls-07.doppiocdn.com/hls/92115441/92115441.m3u8
-
-Ranking_Dessert,https://b-hls-20.doppiocdn.com/hls/89229755/89229755.m3u8
-
-
-AnnaWel,https://b-hls-19.doppiocdn.com/hls/75923753/75923753_720p.m3u8
-
-mloveyyes,https://b-hls-07.doppiocdn.com/hls/88996917/88996917_720p.m3u8
-
-
-SYMIMI98,https://b-hls-04.doppiocdn.com/hls/72768108/72768108.m3u8
-
-Your-Day,https://b-hls-06.doppiocdn.com/hls/88923140/88923140.m3u8
-
-
-Cherrybombbb,https://b-hls-02.doppiocdn.com/hls/59689843/59689843.m3u8
-
-
-CNmode,https://b-hls-12.doppiocdn.com/hls/74768272/74768272_720p.m3u8
-SweetyLindy_,https://b-hls-01.doppiocdn.com/hls/81120460/81120460.m3u8
-AkiShina,https://b-hls-02.doppiocdn.com/hls/4268079/4268079.m3u8
-ke1e,https://b-hls-09.doppiocdn.com/hls/72830300/72830300.m3u8
-JudyFree,https://b-hls-16.doppiocdn.com/hls/75130636/75130636_720p.m3u8
-LK_xiaofei,https://b-hls-01.doppiocdn.com/hls/79193652/79193652_720p.m3u8
